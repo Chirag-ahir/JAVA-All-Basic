@@ -10,4 +10,11 @@ DataType : A data type, in programming, is a classification that specifies which
 
 3. Class variables also known as static variables are declared with the static keyword in a class, but outside a method, constructor or a block.
 
+Java is a general-purpose and object oriented programming language originally developed by Sun Microsystem and released in 1995. 
+
+Array : Arrays are objects that store multiple variables of the same type.
+
+JDK : The JDK is a development environment for building applications and components using the Java programming language. 
+
+JRE : JRE is responsible for providing a runtime environment only. JRE is a part of JDK.
 
