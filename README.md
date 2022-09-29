@@ -19,6 +19,9 @@ String args[] - It is array of string type and It stores Java command-line argum
 
 New keyword - In java, New keyword is basically used for creating objects. It allocates memory for an object
 
+What is JAR File ?<br>
+A Java™ ARchive (JAR) file is a file format that combines many files into one.
+
 DataType : A data type, in programming, is a classification that specifies which type of value a variable has and what type of mathematical, relational or logical operations can be applied to it without causing an error.
 
 <b>Three types of variables in JAVA</b>
