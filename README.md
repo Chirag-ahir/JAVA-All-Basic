@@ -17,7 +17,13 @@ Main - It is the name of the method. The main method is the entry point of a Jav
 
 String args[] - It is array of string type and It stores Java command-line arguments. 
 
-New keyword - In java, New keyword is basically used for creating objects. It allocates memory for an object
+New keyword - In java, New keyword is basically used for creating objects. It allocates memory for an object.
+
+What is Method in JAVA ? <br>
+A method is a block of code which only runs when it is called. You can pass data, known as parameters, into a method.
+
+What is System.in in Java?<BR>
+System.in is an InputStream which is typically connected to keyboard input of console programs.
 
 What is JAR File ?<br>
 A Java™ ARchive (JAR) file is a file format that combines many files into one.
