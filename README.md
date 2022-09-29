@@ -3,6 +3,8 @@
 Java is a general-purpose and object oriented programming language originally developed by Sun Microsystem and released in 1995. 
 
 What is Public static void main (String args[]) ?<br>
+
+
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20220105123954/Group2-660x330.jpg)
 
 Public - It is an access specifier that means the main() method is accessible globally available. The public keyword tells the JVM that the scope of the code written is the whole project.
