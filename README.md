@@ -77,5 +77,5 @@ Features of JAVA:<br>
 7.	Portable: Java Byte code can be carried to any platform.<br>
 8.	Highly Performance: Java enables high performance with the use of just-in-time compiler.<br>
 
-
-
+Can we call child class method using parant class object ?  
+<a href="https://www.sololearn.com/Discuss/1351734/why-we-can-t-call-child-specific-methods-with-the-help-of-parent-reference-on-child-object-in-java#:~:text=Then%20the%20child%20class%20can,by%20using%20a%20parent%20reference.">Answer </a>
