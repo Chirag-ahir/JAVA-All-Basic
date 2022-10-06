@@ -62,6 +62,7 @@ Java was a interpreted programming language , but after introducing JIT it was c
   2. Code optimization can be done while the code is running.<br>
   3. It reduces the page faults.<br>
   4. It uses different levels of optimization.
+  5. JIT increase the speed of program execution.
 
 ![](Inheritance.png)<br><br>
 ![](MethodOverLR.png)
