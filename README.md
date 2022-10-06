@@ -19,6 +19,8 @@ String args[] - It is array of string type and It stores Java command-line argum
 
 New keyword - In java, New keyword is basically used for creating objects. It allocates memory for an object.
 
+Extend keyword - The extends keyword indicates that you are making a new class that derives from an existing class. The meaning of "extends" is to increase the functionality.
+
 What is Method in JAVA ? <br>
 A method is a block of code which only runs when it is called. You can pass data, known as parameters, into a method.
 
@@ -40,10 +42,6 @@ DataType : A data type, in programming, is a classification that specifies which
 
 Array : Arrays are objects that store multiple variables of the same type.
 
-JDK : The JDK is a development environment for building applications and components using the Java programming language. 
-
-JRE : JRE is responsible for providing a runtime environment only. JRE is a part of JDK.
-
 What is Constructor ?<br>
 A constructor in Java is a special method that is used to initialize objects. The constructor is called when an object of a class is created.
 
@@ -53,7 +51,23 @@ No-Arg Constructor<br>
 Parameterized Constructor<br>
 Default Constructor
 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210218150010/JDK.png">
+Java was a interpreted programming language , but after introducing JIT it was called as interpreted - compiled programming language<b>
+  
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210218150010/JDK.png" width="660" height="330">
+  
+![](JDK+RE+VM+IT.png)
+![](Method overloading_riding.png)
+![](Inheritance.png)
+  
+ ¬Features of JAVA:<br>
+1.	Simple: JAVA is easy to learn and it’s syntax is quite simple, clean and easy to learn.<br>
+2.	Object Oriented: In java everything is Object which has some data and behaviour.<br>
+3.	Robust<br>
+4.	Platform Independent: Java is guaranteed to be write-once, run-anywhere language. Not fully Independent. JVM is Platform Independent. <br>
+5.	Secure: Java program always runs in Java runtime environment with almost null interaction with system OS, hence it is more secure.<br>
+6.	Multi threading: Java multithreading feature makes it possible to write program that can do many tasks simultaneously.<br>
+7.	Portable: Java Byte code can be carried to any platform.<br>
+8.	Highly Performance: Java enables high performance with the use of just-in-time compiler.<br>
 
 
 
