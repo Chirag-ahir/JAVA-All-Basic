@@ -44,13 +44,13 @@ JDK : The JDK is a development environment for building applications and compone
 
 JRE : JRE is responsible for providing a runtime environment only. JRE is a part of JDK.
 
-What is Constructor ?
+What is Constructor ?<br>
 A constructor in Java is a special method that is used to initialize objects. The constructor is called when an object of a class is created.
 
-In Java, constructors can be divided into 3 types:
+In Java, constructors can be divided into 3 types:<br>
 
-No-Arg Constructor
-Parameterized Constructor
+No-Arg Constructor<br>
+Parameterized Constructor<br>
 Default Constructor
 
 
