@@ -56,7 +56,7 @@ Java was a interpreted programming language , but after introducing JIT it was c
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210218150010/JDK.png" width="700" height="330">
   
 ![](JDK+RE+VM+IT.png)<br>
-![](Method overloading_riding.png)<br>
+![](Method_overloading_riding.png)<br>
 ![](Inheritance.png)
   
 Features of JAVA:<br>
