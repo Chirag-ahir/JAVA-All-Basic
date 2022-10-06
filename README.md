@@ -55,14 +55,13 @@ Java was a interpreted programming language , but after introducing JIT it was c
   
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210218150010/JDK.png" width="700" height="330">
   
-![](JDK+RE+VM+IT.png)<br><br>
+![](JDK+RE+VM+IT.png)
   
   Advantages of JIT compiler : <br>
   1. The JIT compiler requires less memory usage <br>
   2. Code optimization can be done while the code is running.<br>
   3. It reduces the page faults.<br>
   4. It uses different levels of optimization.
-
 
 ![](Inheritance.png)<br><br>
 ![](MethodOverLR.png)
