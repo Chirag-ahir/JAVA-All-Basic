@@ -57,7 +57,7 @@ Java was a interpreted programming language , but after introducing JIT it was c
   
 ![](JDK+RE+VM+IT.png)<br><br>
 ![](Inheritance.png)<br><br>
-![](Method_overloading_riding.png)
+![](MethodOverLR.png)
   
 Features of JAVA:<br>
 1.	Simple: JAVA is easy to learn and it’s syntax is quite simple, clean and easy to learn.<br>
