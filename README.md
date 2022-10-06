@@ -53,13 +53,13 @@ Default Constructor
 
 Java was a interpreted programming language , but after introducing JIT it was called as interpreted - compiled programming language<b>
   
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210218150010/JDK.png" width="660" height="330">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210218150010/JDK.png" width="700" height="330">
   
-![](JDK+RE+VM+IT.png)
-![](Method overloading_riding.png)
+![](JDK+RE+VM+IT.png)<br>
+![](Method overloading_riding.png)<br>
 ![](Inheritance.png)
   
- ¬Features of JAVA:<br>
+Features of JAVA:<br>
 1.	Simple: JAVA is easy to learn and it’s syntax is quite simple, clean and easy to learn.<br>
 2.	Object Oriented: In java everything is Object which has some data and behaviour.<br>
 3.	Robust<br>
