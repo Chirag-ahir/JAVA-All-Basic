@@ -4,7 +4,6 @@ Java is a general-purpose and object oriented programming language originally de
 
 What is Public static void main (String args[]) ?<br>
 
-
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20220105123954/Group2-660x330.jpg)
 
 Public - It is an access specifier that means the main() method is accessible globally available. The public keyword tells the JVM that the scope of the code written is the whole project.
@@ -16,6 +15,9 @@ Void - void is the return type. It means "this method returns nothing".
 Main - It is the name of the method. The main method is the entry point of a Java program for the Java Virtual Machine(JVM). 
 
 String args[] - It is array of string type and It stores Java command-line arguments. 
+
+What is System.out.println()? <br>
+In Java, System.out.println() is a statement which prints the argument passed to it. Where System is the class name. The out is an instance of the System class. The println() method display results on the monitor. 
 
 New keyword - In java, New keyword is basically used for creating objects. It allocates memory for an object.
 
