@@ -2,6 +2,12 @@
 
 Java is a general-purpose and object oriented programming language originally developed by Sun Microsystem and released in 1995. 
 
+Object : An entity that has state and behavior is known as an object e.g., chair, bike, marker, pen, table, car, etc.
+
+Class : Class is a Blueprint, which holds it's own data members and members function. Class is a group of similar objects.
+
+Array : Arrays are objects that store multiple variables of the same type.
+
 What is Public static void main (String args[]) ?<br>
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20220105123954/Group2-660x330.jpg)
@@ -41,8 +47,6 @@ DataType : A data type, in programming, is a classification that specifies which
 2. Instance variables are declared in a class, but outside a method, constructor or any block.
 
 3. Class variables also known as static variables are declared with the static keyword in a class, but outside a method, constructor or a block.
-
-Array : Arrays are objects that store multiple variables of the same type.
 
 What is Constructor ?<br>
 A constructor in Java is a special method that is used to initialize objects. The constructor is called when an object of a class is created.
