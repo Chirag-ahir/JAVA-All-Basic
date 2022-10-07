@@ -33,9 +33,17 @@ In Java, System.out.println() is a statement which prints the argument passed to
 What is System.in in Java?<BR>
 System.in is an InputStream which is typically connected to keyboard input of console programs.
 
-New keyword - In java, New keyword is basically used for creating objects. It allocates memory for an object.
+>New keyword - In java, New keyword is basically used for creating objects. It allocates memory for an object.
 
-Extend keyword - The extends keyword indicates that you are making a new class that derives from an existing class. The meaning of "extends" is to increase the functionality.
+>Extend keyword - The extends keyword indicates that you are making a new class that derives from an existing class. The meaning of "extends" is to increase the functionality.
+  
+>Static keyword - The static keyword is a non-access modifier used for methods and attributes. Static methods can be accessed without creating an object of a class.
+  
+>Super keyword - The super keyword in Java is a reference variable which is used to refer immediate parent class object.
+
+>Final keyword - The final keyword is a non-access modifier used for classes, attributes and methods, which makes them non-changeable. 
+  
+Blank final variable: A final variable that have no value it is called blank final variable or uninitialized final variable.
 
 What is JAR File ?<br>
 A Java™ ARchive (JAR) file is a file format that combines many files into one.
