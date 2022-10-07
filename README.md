@@ -8,7 +8,7 @@ Class : Class is a Blueprint, which holds it's own data members and members func
 
 Array : Arrays are objects that store multiple variables of the same type.
 
-Method : A method is a block of code or collection of statements to perform a certain task or operation. It is used to achieve the reusability of code.
+> Method: A method is a block of code or collection of statements to perform a certain task or operation. Used to achieve the reusability of code.
 
 What is Public static void main (String args[]) ?<br>
 
