@@ -25,7 +25,10 @@ Main - It is the name of the method. The main method is the entry point of a Jav
 String args[] - It is array of string type and It stores Java command-line arguments. 
 
 What is System.out.println()? <br>
-In Java, System.out.println() is a statement which prints the argument passed to it. Where System is the class name. The out is an instance of the System class. The println() method display results on the monitor. 
+In Java, System.out.println() is a statement which prints the argument passed to it. Where 
+>System is the class name.
+>The out is an instance of the System class. 
+>The println() method display results on the monitor. 
 
 What is System.in in Java?<BR>
 System.in is an InputStream which is typically connected to keyboard input of console programs.
