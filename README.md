@@ -2,13 +2,13 @@
 
 Java is a general-purpose and object oriented programming language originally developed by Sun Microsystem and released in 1995. 
 
-Object : An entity that has state and behavior is known as an object e.g., chair, bike, marker, pen, table, car, etc.
+**Object:** An entity that has state and behavior is known as an object e.g., chair, bike, marker, pen, table, car, etc.
 
-Class : Class is a Blueprint, which holds it's own data members and members function. Class is a group of similar objects.
+**Class:** Class is a Blueprint, which holds it's own data members and members function. Class is a group of similar objects.
 
 Array : Arrays are objects that store multiple variables of the same type.
 
-> Method: A method is a block of code or collection of statements to perform a certain task or operation. Used to achieve the reusability of code.
+**Method:** A method is a block of code or collection of statements to perform a certain task or operation. Used to achieve the reusability of code.
 
 What is Public static void main (String args[]) ?<br>
 
