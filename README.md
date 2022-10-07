@@ -42,7 +42,7 @@ A Java™ ARchive (JAR) file is a file format that combines many files into one.
 
 DataType : A data type, in programming, is a classification that specifies which type of value a variable has and what type of mathematical, relational or logical operations can be applied to it without causing an error.
 
-Variable : Variable is a reserved location in a memory to store some value.<br>
+**Variable:** Variable is a reserved location in a memory to store some value.<br>
 
 **Three types of variables in JAVA**
 
@@ -52,14 +52,11 @@ Variable : Variable is a reserved location in a memory to store some value.<br>
 
 > Class variables also known as static variables are declared with the static keyword in a class, but outside a method, constructor or a block.
 
-What is Constructor ?<br>
-A constructor in Java is a special method that is used to initialize objects. The constructor is called when an object of a class is created.
+**Constructor:** A constructor in Java is a special method that is used to initialize objects. The constructor is called when an object of a class is created.
 
-In Java, constructors can be divided into 3 types:<br>
-
-No-Arg Constructor<br>
-Parameterized Constructor<br>
-Default Constructor
+** Two types of constructors in JAVA**
+>No-Arg Constructor : A constructor is called "No-arg Constructor" when it doesn't have any parameter.<br>
+>Parameterized Constructor : A constructor which has a specific number of parameters is called a parameterized constructor.<br>
 
 Java was a interpreted programming language , but after introducing JIT it was called as interpreted - compiled programming language<b>
   
