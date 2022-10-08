@@ -9,20 +9,23 @@ Java is a general-purpose and object oriented programming language originally de
 Array : Arrays are objects that store multiple variables of the same type.
 
 **Method:** A method is a block of code or collection of statements to perform a certain task or operation. Used to achieve the reusability of code.
+>Method Overloading: If a class has multiple methods having same name but different in parameters, it is known as Method Overloading.<br>
+
+>Method Overriding: If a child class has a same method as declared in a parant class, it is known as Method Overriding.
 
 What is Public static void main (String args[]) ?<br>
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20220105123954/Group2-660x330.jpg)
 
-Public - It is an access specifier that means the main() method is accessible globally available. The public keyword tells the JVM that the scope of the code written is the whole project.
+>Public - It is an access specifier that means the main() method is accessible globally available. The public keyword tells the JVM that the scope of the code written is the whole project.
 
-Static - It is an access modifier means we can call this method directly using the class name without creating an object of it.
+>Static - It is an access modifier means we can call this method directly using the class name without creating an object of it.
 
-Void - void is the return type. It means "this method returns nothing".
+>Void - void is the return type. It means "this method returns nothing".
 
-Main - It is the name of the method. The main method is the entry point of a Java program for the Java Virtual Machine(JVM). 
+>Main - It is the name of the method. The main method is the entry point of a Java program for the Java Virtual Machine(JVM). 
 
-String args[] - It is array of string type and It stores Java command-line arguments. 
+>String args[] - It is array of string type and It stores Java command-line arguments. 
 
 What is System.out.println()? <br>
 In Java, System.out.println() is a statement which prints the argument passed to it. Where 
