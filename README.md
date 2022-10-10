@@ -72,6 +72,9 @@ Two types of constructors in JAVA
 
 What is Expression in JAVA ? <br>
 Expressions are essential building blocks of any Java program, usually created to produce a new value, although sometimes an expression simply assigns a value to a variable.
+  
+What is Recursion in JAVA ? <br>
+Recursion in java is a process in which a method calls itself continuously. A method in java that calls itself is called recursive method.
 
 Java was a interpreted programming language , but after introducing JIT it was called as interpreted - compiled programming language<b>
   
