@@ -4,7 +4,7 @@ Java is a general-purpose and object oriented programming language originally de
 
 >**Object:** An entity that has state and behavior is known as an object e.g., chair, bike, marker, pen, table, car, etc.
 
->**Class:** Class is a Blueprint, which holds it's own data members and members function. Class is a group of similar objects.
+>**Class:** Class is a Blueprint, which holds it's own data members and members function. Class is a group of similar objects. It's a Logical entity.
 
 Array : Arrays are objects that store multiple variables of the same type.
 
@@ -69,6 +69,9 @@ Two types of constructors in JAVA
 >No-Arg Constructor : A constructor is called "No-arg Constructor" when it doesn't have any parameter.<br>
   
 >Parameterized Constructor : A constructor which has a specific number of parameters is called a parameterized constructor.<br>
+
+What is Expression in JAVA ? <br>
+Expressions are essential building blocks of any Java program, usually created to produce a new value, although sometimes an expression simply assigns a value to a variable.
 
 Java was a interpreted programming language , but after introducing JIT it was called as interpreted - compiled programming language<b>
   
