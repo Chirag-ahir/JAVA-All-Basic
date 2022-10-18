@@ -105,6 +105,12 @@ Features of JAVA:<br>
 Can we call child class method using parant class object ?  
 <a href="https://www.sololearn.com/Discuss/1351734/why-we-can-t-call-child-specific-methods-with-the-help-of-parent-reference-on-child-object-in-java#:~:text=Then%20the%20child%20class%20can,by%20using%20a%20parent%20reference.">Answer </a>
 
+What is Associativity?<br>
+Associativity specifies the order in which operators are executed, which can be left to right or right to left.
+
+What is Association ?<br>
+An Association can be defined as a relationship that has no ownership over another. For ex a Person can be associated with multiple banks and a bank can be associated with mutiple people. 
+
 What is JIT ?<br>
 JIT is an abbriviation for Just-in-Time Compiler. It increases efficiency of the interpreter by compiling the bytecode into native machine code at runtime.
 
@@ -127,3 +133,9 @@ Yes, program will run successfully. In Java there is no specific rule for order 
 
 What is the default value stored in Local variable?<br>
 Neither the local variable nor any primitives and Objet have any default value stored in them. 
+
+Define Copy constructor in Java ? <br>
+A Copy Constructor in Java is a constructor that initializes an object through another object of the same class. 
+
+What is Marker Interface ?<br>
+An empty interface in Java is referred as a Marker interface. Serializable and Cloneable are some popular ex. of Marker Interface.
