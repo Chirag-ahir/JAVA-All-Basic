@@ -121,3 +121,9 @@ What are the Memory Allocations available in Java ? <br>
 >Program counter memory
 
 >Native method stack memory
+
+Will the program run if we write static public void main?<br>
+Yes, program will run successfully. In Java there is no specific rule for order of specifiers. 
+
+What is the default value stored in Local variable?<br>
+Neither the local variable nor any primitives and Objet have any default value stored in them. 
