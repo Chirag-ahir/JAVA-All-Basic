@@ -139,3 +139,6 @@ A Copy Constructor in Java is a constructor that initializes an object through a
 
 What is Marker Interface ?<br>
 An empty interface in Java is referred as a Marker interface. Serializable and Cloneable are some popular ex. of Marker Interface.
+
+What is Object Cloning ?<br>
+An ability to create an object completely similar to an existing object is known as Object Cloning. 
