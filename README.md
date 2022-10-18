@@ -104,3 +104,20 @@ Features of JAVA:<br>
 
 Can we call child class method using parant class object ?  
 <a href="https://www.sololearn.com/Discuss/1351734/why-we-can-t-call-child-specific-methods-with-the-help-of-parent-reference-on-child-object-in-java#:~:text=Then%20the%20child%20class%20can,by%20using%20a%20parent%20reference.">Answer </a>
+
+What is JIT ?<br>
+JIT is an abbriviation for Just-in-Time Compiler. It increases efficiency of the interpreter by compiling the bytecode into native machine code at runtime.
+
+What is ClassLoader ?<br>
+A classloader in Java is a subsystem of JVM, dedicated to load class files when a program is executed, Classloader is the first one to load the executable file. 
+
+What are the Memory Allocations available in Java ? <br>
+>Class memory
+
+>Heap memory
+
+>Stack memory
+
+>Program counter memory
+
+>Native method stack memory
