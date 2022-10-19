@@ -49,6 +49,8 @@ Keywords are predefined, reserved words used in Java programming that have speci
 
 >Final keyword - The final keyword is a non-access modifier used for classes, attributes and methods, which makes them non-changeable. 
   
+>This keyword - This keyword is used to refer to the current class properties like method, instance, variable and constructors.
+  
 Blank final variable: A final variable that have no value it is called blank final variable or uninitialized final variable.
 
 What is JAR File ?<br>
