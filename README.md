@@ -36,6 +36,9 @@ In Java, System.out.println() is a statement which prints the argument passed to
 What is System.in in Java?<BR>
 System.in is an InputStream which is typically connected to keyboard input of console programs.
 
+What is Keyword in Java ?<br>
+Keywords are predefined, reserved words used in Java programming that have special meanings to the compiler.<br>
+  
 >New keyword - In java, New keyword is basically used for creating objects. It allocates memory for an object.
 
 >Extend keyword - The extends keyword indicates that you are making a new class that derives from an existing class. The meaning of "extends" is to increase the functionality.
@@ -172,7 +175,7 @@ An exception is an event, which occurs during the execution of a program, that d
 
 What is Access Specifier and Types of Access specifier?<br>
 Access Specifiers are predefined keywords used to help JVM with understanding the scope of a variable, method and class. We have four access specifier<br>
-  > Public access specifier
-  > Private access specifier
-  > Protected access specifier 
-  > Default access specifier
+  > Public access specifier<br>
+  > Private access specifier<br>
+  > Protected access specifier <br>
+  > Default access specifier<br>
