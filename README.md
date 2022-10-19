@@ -158,3 +158,6 @@ Instance variables are declared inside a class and the scope is limited to only 
   
 What is String Pool ?<br>
 A collection of strings in Java's Heap memory is referred as Java String pool. 
+
+What is Execption in Java ?<br>
+An exception is an event, which occurs during the execution of a program, that disrupts the normal flow of the program.
