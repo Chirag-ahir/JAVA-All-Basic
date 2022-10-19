@@ -153,5 +153,7 @@ Can you use pointers in Java ?<br>
 JVM takes care of memory management implicitly. So we can not use pointers in Java.
 
 Differentiate between Instance and Local variable.<br>
-Instance variables are declared 
-inside a class and the scope is limited to only a specific object. Local variable can be anywhere inside a method or a specific block of code. Also the scope is limited to the block of code where the variable is declared. 
+Instance variables are declared inside a class and the scope is limited to only a specific object. Local variable can be anywhere inside a method or a specific block of code. Also the scope is limited to the block of code where the variable is declared. 
+  
+What is String Pool ?<br>
+A collection of strings in Java's Heap memory is referred as Java String pool. 
