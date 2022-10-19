@@ -84,7 +84,7 @@ Java was a interpreted programming language , but after introducing JIT it was c
   
   
   
- What is JDK ? Mention the variants of JDK. 
+ What is JDK ? Mention the variants of JDK. <br>
   JDK is a combined package of JRE and Developers tools used for designing JAVA applications. Oracle has the following variants.<br>
   1. JDK Sandard edition<br>
   2. JDK  Enterprise edition<br>
