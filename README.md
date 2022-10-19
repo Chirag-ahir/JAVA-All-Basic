@@ -78,9 +78,17 @@ Recursion in java is a process in which a method calls itself continuously. A me
 
 Java was a interpreted programming language , but after introducing JIT it was called as interpreted - compiled programming language<b>
   
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210218150010/JDK.png" width="700" height="330">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210218150010/JDK.png" width="720" height="330">
   
 ![](JDK+RE+VM+IT.png)
+  
+  
+  
+ What is JDK ? Mention the variants of JDK. 
+  JDK is a combined package of JRE and Developers tools used for designing JAVA applications. Oracle has the following variants.<br>
+  1. JDK Sandard edition<br>
+  2. JDK  Enterprise edition<br>
+  3. JDK Micro edition<br>
   
 ![](Inheritance.png)<br><br>
 ![](MethodOverLR.png)
