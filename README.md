@@ -82,13 +82,6 @@ Java was a interpreted programming language , but after introducing JIT it was c
   
 ![](JDK+RE+VM+IT.png)
   
-  Advantages of JIT compiler : <br>
-  1. The JIT compiler requires less memory usage <br>
-  2. Code optimization can be done while the code is running.<br>
-  3. It reduces the page faults.<br>
-  4. It uses different levels of optimization.
-  5. JIT increase the speed of program execution.
-
 ![](Inheritance.png)<br><br>
 ![](MethodOverLR.png)
   
@@ -113,6 +106,14 @@ An Association can be defined as a relationship that has no ownership over anoth
 
 What is JIT ?<br>
 JIT is an abbriviation for Just-in-Time Compiler. It increases efficiency of the interpreter by compiling the bytecode into native machine code at runtime.
+  
+   Advantages of JIT compiler : <br>
+  1. The JIT compiler requires less memory usage <br>
+  2. Code optimization can be done while the code is running.<br>
+  3. It reduces the page faults.<br>
+  4. It uses different levels of optimization.
+  5. JIT increase the speed of program execution.
+
 
 What is ClassLoader ?<br>
 A classloader in Java is a subsystem of JVM, dedicated to load class files when a program is executed, Classloader is the first one to load the executable file. 
