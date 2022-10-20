@@ -177,18 +177,30 @@ Neither the local variable nor any primitives and Objet have any default value s
 Define Copy constructor in Java ? <br>
 A Copy Constructor in Java is a constructor that initializes an object through another object of the same class. 
 
+What is Interface in Java ?<br>
+The interface in Java is a mechanism to achieve abstraction. It's a blueprint of class. 
+  
 What is Marker Interface ?<br>
 An empty interface in Java is referred as a Marker interface. Serializable and Cloneable are some popular ex. of Marker Interface.
+  
+  What is Functional Interface ?<br>
+  An interface that contains only one abstract method is known as functional interface. It can have any number of default and static methods.<br>
+  
+  Following are the functional interface instroduced in the Java8<br>
+  1. Function<br>
+  2. Predicate<br>
+  3. Consumer<br>
+  4. Supplier<br>
+
+  What is Package in Java?<br>
+Package is a collective bundle of classes and interfaces along with the necessary libraries and JAR files.
 
 What is Object Cloning ?<br>
 An ability to create an object completely similar to an existing object is known as Object Cloning. 
 
 What is Wrapper classes in Java ?<br>
 In Java when you declare primitive datatype then Wrapper classes are responsible for converting them into objects.
-
-What is Package in Java?<br>
-Package is a collective bundle of classes and interfaces along with the necessary libraries and JAR files.
-
+  
 Can you use pointers in Java ?<br>
 JVM takes care of memory management implicitly. So we can not use pointers in Java.
 
@@ -265,15 +277,6 @@ The Spring Framework is an application framework and inversion of control contai
 
 What is Synchronization ?<br>
 Synchronization in java is the capability to control the access of multiple threads to any shared resource.
-
-  What is Functional Interface ?<br>
-  An interface that contains only one abstract method is known as functional interface. It can have any number of default and static methods.<br>
   
-  Following are the functional interface instroduced in the Java8<br>
-  1. Function<br>
-  2. Predicate<br>
-  3. Consumer<br>
-  4. Supplier<br>
-
   What is Lambada Expression ?<br>
 A lambda expression is a short block of code which takes in parameters and returns a value. Lambda expressions are similar to methods, but they do not need a name and they can be implemented right in the body of a method.
