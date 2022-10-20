@@ -234,3 +234,5 @@ Session management refers to the process of securely handling multiple requests 
 What is Spring Framework ?<br>
 The Spring Framework is an application framework and inversion of control container for the Java platform.
 
+What is Synchronization ?<br>
+Synchronization in java is the capability to control the access of multiple threads to any shared resource.
