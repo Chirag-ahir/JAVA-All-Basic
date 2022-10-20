@@ -187,9 +187,12 @@ Binding is a process of unifying the method call with the method's code segment.
   
 What is Run time polymorphism ?<br>
 Runtime polymorphism, also known as the Dynamic Method Dispatch, is a process that resolves a call to an overridden method at runtime. The process involves the use of the reference variable of a superclass to call for an overridden method.
-  
+
+What is Process in Java ?<br>
+An executing instance of a proram is called a process. 
+
 What is Thread in Java ?<br>
-A thread in Java is the direction or path that is taken while a program is being executed. Generally, all the programs have at least one thread, known as the main thread, that is provided by the JVM 
+A thread in Java is the direction or path that is taken while a program is being executed. Generally, all the programs have at least one thread, known as the main thread, that is provided by the JVM. A thread is subset of process.
   
  Brief the life cycle of Applet ?<br>
   1. Initialization<br>
