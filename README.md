@@ -116,6 +116,9 @@ Associativity specifies the order in which operators are executed, which can be 
 
 What is Association ?<br>
 An Association can be defined as a relationship that has no ownership over another. For ex a Person can be associated with multiple banks and a bank can be associated with mutiple people. 
+  
+ What is Aggregation ?<br>
+ Aggregation is a way to achieve Association. Aggregation represents the relationship where one object contains other objects as a part of its state.
 
 What is JIT ?<br>
 JIT is an abbriviation for Just-in-Time Compiler. It increases efficiency of the interpreter by compiling the bytecode into native machine code at runtime.
