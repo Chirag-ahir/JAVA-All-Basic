@@ -221,10 +221,12 @@ JDBC is an abbreviation for JAVA Database connector. JDBC is an abstraction laye
 What is JCA ?<br>
 Java Cryptography Architecture provides a plateform and gives architecture and APIs for encryption and decryption. JCA is used by the developer to combine the application with the security measure. It helps in performing the third party security rules. 
   
+What is JPA in Java ?<br>
+The Java Persistence API is a Java specification for accessing, persisting, and managing data between Java objects / classes and a relational database. 
+
 What is Session Management ?<br>
 Session management refers to the process of securely handling multiple requests to a web-based application or service from a single user or entity.
 
 What is Spring Framework ?<br>
 The Spring Framework is an application framework and inversion of control container for the Java platform.
 
-  
