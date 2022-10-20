@@ -214,3 +214,9 @@ What is JSP ?<br>
 JSP is an abbreviation for Java Servlet Page. The JSP page consist of two types of text.<br>
   1. Static data<br>
   2. JSP elements<br>
+  
+What is JDBC ?<br>
+JDBC is an abbreviation for JAVA Database connector. JDBC is an abstraction layer used to establish connectivity between an existing Database and a java application.
+
+What is Session Management ?<br>
+Session management refers to the process of securely handling multiple requests to a web-based application or service from a single user or entity.
