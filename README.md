@@ -198,3 +198,5 @@ A thread in Java is the direction or path that is taken while a program is being
   4. Destroy<br>
   5. Paint<br>
   
+What is Garbage collection in Java ?<br>
+Garbage collection is the mechanism used in Java to de-allocate unused memory, which is nothing but clear the space consumed by unused objects.
