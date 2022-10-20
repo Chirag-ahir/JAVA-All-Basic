@@ -200,3 +200,17 @@ A thread in Java is the direction or path that is taken while a program is being
   
 What is Garbage collection in Java ?<br>
 Garbage collection is the mechanism used in Java to de-allocate unused memory, which is nothing but clear the space consumed by unused objects.
+  
+Explain Daemon thread <br>
+The daemon thread can be defined as a thread with least priority. This Daemon thread is designed t run in the background during the process of Garbage collection. 
+  
+What is enumeration in Java ?<br>
+An enumeration in Java is a special data type which contains a set of predefined constants.
+
+Why Java is consider as a Dynammic?<br>
+Java is considered as Dynamic because of Byte code. A source code written in one platform, that can be executed in any platform. And it also loads the class files at run time. Anything that happens at run time is considered as Dynamic.
+  
+What is JSP ?<br>
+JSP is an abbreviation for Java Servlet Page. The JSP page consist of two types of text.<br>
+  1. Static data<br>
+  2. JSP elements<br>
