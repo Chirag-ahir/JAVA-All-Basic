@@ -38,6 +38,12 @@ A method which is declared as abstract and does not have implementation is known
 
 Binding code and data together into a single unit are known as encapsulation.
 
+What is Access Modifier ? <br>
+Access modifiers are keywords that can be used to control the visibility of fields, methods, and constructors in a class.
+
+What is Access specifier ?<br>
+An access specifier is a defining code element that can determine which elements of a program are allowed to access a specific variable or other piece of data.
+
 What is Public static void main (String args[]) ?<br>
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20220105123954/Group2-660x330.jpg)
