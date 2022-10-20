@@ -192,7 +192,10 @@ An empty interface in Java is referred as a Marker interface. Serializable and C
   3. Consumer<br>
   4. Supplier<br>
 
-  What is Package in Java?<br>
+ What is the difference between Interface and Abstract class ?<br>
+  the main difference between an interface and an abstract class is that an interface cannot have state, whereas the abstract class can have state with instance variables.
+  
+What is Package in Java?<br>
 Package is a collective bundle of classes and interfaces along with the necessary libraries and JAR files.
 
 What is Object Cloning ?<br>
