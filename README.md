@@ -190,3 +190,11 @@ Runtime polymorphism, also known as the Dynamic Method Dispatch, is a process th
   
 What is Thread in Java ?<br>
 A thread in Java is the direction or path that is taken while a program is being executed. Generally, all the programs have at least one thread, known as the main thread, that is provided by the JVM 
+  
+ Brief the life cycle of Applet ?<br>
+  1. Initialization<br>
+  2. Start<br>
+  3. Stop<br>
+  4. Destroy<br>
+  5. Paint<br>
+  
