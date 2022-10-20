@@ -18,6 +18,19 @@ Array : Arrays are objects that store multiple variables of the same type.
 
 >Method Overriding: If a child class has a same method as declared in a parant class, it is known as Method Overriding.
 
+
+>What is Inheritance ?<br>
+Inheritance is a mechanism in which child class acquires the property of parenparent class.
+
+>What is Polymorphism ?<br>
+Polymorphism is the ability of an object to identify as more than one type. 
+
+>What is Abstraction ? <br>
+Hiding internal details and showing functionality is known as abstraction. For example phone call, we don't know the internal processing.
+
+>What is Encapsulation ? <br>
+Binding code and data together into a single unit are known as encapsulation.
+
 What is Public static void main (String args[]) ?<br>
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20220105123954/Group2-660x330.jpg)
@@ -91,8 +104,6 @@ Java was a interpreted programming language , but after introducing JIT it was c
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210218150010/JDK.png" width="720" height="330">
   
 ![](JDK+RE+VM+IT.png)
-  
-  
   
  What is JDK ? Mention the variants of JDK. <br>
   JDK is a combined package of JRE and Developers tools used for designing JAVA applications. Oracle has the following variants.<br>
