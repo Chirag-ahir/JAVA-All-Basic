@@ -220,3 +220,6 @@ JDBC is an abbreviation for JAVA Database connector. JDBC is an abstraction laye
 
 What is Session Management ?<br>
 Session management refers to the process of securely handling multiple requests to a web-based application or service from a single user or entity.
+
+What is Spring Framework ?<br>
+The Spring Framework is an application framework and inversion of control container for the Java platform.
