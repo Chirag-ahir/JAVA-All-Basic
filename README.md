@@ -218,8 +218,13 @@ JSP is an abbreviation for Java Servlet Page. The JSP page consist of two types 
 What is JDBC ?<br>
 JDBC is an abbreviation for JAVA Database connector. JDBC is an abstraction layer used to establish connectivity between an existing Database and a java application.
 
+What is JCA ?<br>
+Java Cryptography Architecture provides a plateform and gives architecture and APIs for encryption and decryption. JCA is used by the developer to combine the application with the security measure. It helps in performing the third party security rules. 
+  
 What is Session Management ?<br>
 Session management refers to the process of securely handling multiple requests to a web-based application or service from a single user or entity.
 
 What is Spring Framework ?<br>
 The Spring Framework is an application framework and inversion of control container for the Java platform.
+
+  
