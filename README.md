@@ -241,4 +241,10 @@ What is Synchronization ?<br>
 Synchronization in java is the capability to control the access of multiple threads to any shared resource.
 
   What is Functional Interface ?<br>
-  An interface that contains only one abstract method is known as functional interface. It can have any number of default and static methods.
+  An interface that contains only one abstract method is known as functional interface. It can have any number of default and static methods.<br>
+  
+  Following are the functional interface instroduced in the Java8<br>
+  1. Function<br>
+  2. Predicate<br>
+  3. Consumer<br>
+  4. Supplier<br>
