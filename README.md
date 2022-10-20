@@ -4,6 +4,11 @@ Java is a general-purpose and object oriented programming language originally de
 
 >**Object:** An entity that has state and behavior is known as an object e.g., chair, bike, marker, pen, table, car, etc.
 
+There are 3 ways to initialize object in Java.<br>
+1. By reference variable<br>
+2. By Method<br>
+3. By constructor
+
 >**Class:** Class is a Blueprint, which holds it's own data members and members function. Class is a group of similar objects. It's a Logical entity.
 
 Array : Arrays are objects that store multiple variables of the same type.
