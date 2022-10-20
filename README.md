@@ -239,3 +239,6 @@ The Spring Framework is an application framework and inversion of control contai
 
 What is Synchronization ?<br>
 Synchronization in java is the capability to control the access of multiple threads to any shared resource.
+
+  What is Functional Interface ?<br>
+  An interface that contains only one abstract method is known as functional interface. It can have any number of default and static methods.
