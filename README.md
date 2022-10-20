@@ -222,7 +222,11 @@ What is JCA ?<br>
 Java Cryptography Architecture provides a plateform and gives architecture and APIs for encryption and decryption. JCA is used by the developer to combine the application with the security measure. It helps in performing the third party security rules. 
   
 What is JPA in Java ?<br>
-The Java Persistence API is a Java specification for accessing, persisting, and managing data between Java objects / classes and a relational database. 
+The Java Persistence API is a Java specification for accessing, persisting, and managing data between Java objects / classes and a relational database. JPA deals in following <br>
+1. Java Persistence API <br>
+2. Query language<br>
+3. Java Persistence Criteria API<br>
+4. Object Mapping Data<br>
 
 What is Session Management ?<br>
 Session management refers to the process of securely handling multiple requests to a web-based application or service from a single user or entity.
