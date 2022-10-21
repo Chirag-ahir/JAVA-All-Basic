@@ -112,6 +112,9 @@ Two types of constructors in JAVA
   
 >Parameterized Constructor : A constructor which has a specific number of parameters is called a parameterized constructor.<br>
 
+What is Constructor Overloading ?<br>
+Constructor overloading means having more than one constructor with the same name. Constructors are methods invoked when an object is created.
+
 What is Expression in JAVA ? <br>
 Expressions are essential building blocks of any Java program, usually created to produce a new value, although sometimes an expression simply assigns a value to a variable.
   
