@@ -219,8 +219,10 @@ An ability to create an object completely similar to an existing object is known
 What is Wrapper classes in Java ?<br>
 In Java when you declare primitive datatype then Wrapper classes are responsible for converting them into objects.
   
-Can you use pointers in Java ?<br>
-JVM takes care of memory management implicitly. So we can not use pointers in Java.
+Why pointers are not used in Java ?<br>
+1. They are unsafe<br>
+2. They increase the complexity of program. <br>
+3. JVM takes care of memory management implicitly. So we can not use pointers in Java.
 
 Differentiate between Instance and Local variable.<br>
 Instance variables are declared inside a class and the scope is limited to only a specific object. Local variable can be anywhere inside a method or a specific block of code. Also the scope is limited to the block of code where the variable is declared. 
