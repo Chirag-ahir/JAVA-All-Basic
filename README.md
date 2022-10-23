@@ -300,3 +300,6 @@ Synchronization in java is the capability to control the access of multiple thre
   
   What is Lambada Expression ?<br>
 A lambda expression is a short block of code which takes in parameters and returns a value. Lambda expressions are similar to methods, but they do not need a name and they can be implemented right in the body of a method.
+
+Why string is immutable in Java ?<br>
+String pool requires string to be immutable otherwise shared reference can be changed from anywhere. and other reason havong string immutable allows you to be secure and safe because no one can change reference of string once it gets created. 
