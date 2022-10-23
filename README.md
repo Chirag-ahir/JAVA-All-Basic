@@ -99,9 +99,9 @@ DataType : A data type, in programming, is a classification that specifies which
 
   Three types of variables in JAVA
 
-> Local variables are declared in methods, constructors, or blocks.
+ > Instance variables are declared in a class, but outside a method, constructor or any block.
 
-> Instance variables are declared in a class, but outside a method, constructor or any block.
+> Local variables are declared in methods, constructors, or blocks.
 
 > Class variables also known as static variables are declared with the static keyword in a class, but outside a method, constructor or a block.
 
