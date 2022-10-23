@@ -315,3 +315,6 @@ A singleton class is a class that can have only one object at a time.
 
 Why we can say that Java is Plateform independent language ? <br>
  Java is a platform-independent programming language. Java doesn’t require the entire code to be rewritten for all the different platforms. It supports platform independence using Java bytecode and Java Virtual Machine. Java compiler javac converts the program code into byte code. This byte code is platform-independent and can run on any JVM operating system. JVM interprets the byte code to machine code, and the program is executed.
+
+  What is the difference between Heap memory and Stack memory ?<br>
+  Heap memory is used by all the parts of the application whereas stack memory is used only by one thread of execution. Whenever an object is created, it's always stored in the Heap space and stack memory contains the reference to it.
