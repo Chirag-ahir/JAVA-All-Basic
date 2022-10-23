@@ -324,3 +324,6 @@ Why we can say that Java is Plateform independent language ? <br>
 
   How to create constant in Java ?<br>
   In java there is no const keyword like C++ for declaring constant variable but we can use Final keyword for declaring constant in Java. 
+
+  Can we declare a Class, Method and Variable as a constant in Java ?<br>
+  Yes we can do it by using a Final keyword. but after declaring it as a constant we can not override method, we can not inherit class and we can not change the value of variable if it's a constant.
