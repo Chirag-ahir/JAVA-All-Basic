@@ -318,3 +318,6 @@ Why we can say that Java is Plateform independent language ? <br>
 
   What is the difference between Heap memory and Stack memory ?<br>
   Heap memory is used by all the parts of the application whereas stack memory is used only by one thread of execution. Whenever an object is created, it's always stored in the Heap space and stack memory contains the reference to it.
+
+  What is the Difference between "=" and "==" operator?<br>
+  The “=” is an assignment operator is used to assign the value on the right to the variable on the left. The '==' operator checks whether the two given operands are equal or not. If so, it returns true. Otherwise it returns false.
