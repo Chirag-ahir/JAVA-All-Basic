@@ -310,4 +310,8 @@ if a subclass defines a static method with the same signature as a static method
  What is the difference between Method hiding and Overriding ?
  In Method Overriding child class can access parent class method implementation. In case of Method Hiding parent class method implementation cannot be accessed through child class reference.
   
-  
+What is Singleton class ?<br>
+A singleton class is a class that can have only one object at a time. 
+
+Why we can say that Java is Plateform independent language ? <br>
+ Java is a platform-independent programming language. Java doesn’t require the entire code to be rewritten for all the different platforms. It supports platform independence using Java bytecode and Java Virtual Machine. Java compiler javac converts the program code into byte code. This byte code is platform-independent and can run on any JVM operating system. JVM interprets the byte code to machine code, and the program is executed.
