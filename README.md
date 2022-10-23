@@ -28,6 +28,7 @@ Inheritance is a mechanism in which child class acquires the property of parenpa
 Polymorphism is the ability of an object to identify as more than one type. 
 
 >What is Abstraction ? <br>
+
 Hiding internal details and showing functionality to the user is known as abstraction. For example phone call, we don't know the internal processing.
 
 What is Abstract method ?<br>
