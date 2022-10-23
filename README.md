@@ -303,3 +303,11 @@ A lambda expression is a short block of code which takes in parameters and retur
 
 Why string is immutable in Java ?<br>
 String pool requires string to be immutable otherwise shared reference can be changed from anywhere. and other reason havong string immutable allows you to be secure and safe because no one can change reference of string once it gets created. 
+  
+What is Method hiding ?<br>
+if a subclass defines a static method with the same signature as a static method in the super class, in such a case, the method in the subclass hides the one in the superclass. The mechanism is known as method hiding.
+  
+ What is the difference between Method hiding and Overriding ?
+ In Method Overriding child class can access parent class method implementation. In case of Method Hiding parent class method implementation cannot be accessed through child class reference.
+  
+  
