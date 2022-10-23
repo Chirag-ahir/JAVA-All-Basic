@@ -327,3 +327,6 @@ Why we can say that Java is Plateform independent language ? <br>
 
   Can we declare a Class, Method and Variable as a constant in Java ?<br>
   Yes we can do it by using a Final keyword. but after declaring it as a constant we can not override method, we can not inherit class and we can not change the value of variable if it's a constant.
+
+ What is the difference between Break and Continue statements ?<br>
+The break and continue statements are the part of transfer statements in Java. The break statement terminates the whole iteration of a loop whereas continue skips the current iteration. The break statement terminates the whole loop early whereas the continue brings the next iteration early.
