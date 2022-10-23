@@ -321,3 +321,6 @@ Why we can say that Java is Plateform independent language ? <br>
 
   What is the Difference between "=" and "==" operator?<br>
   The “=” is an assignment operator is used to assign the value on the right to the variable on the left. The '==' operator checks whether the two given operands are equal or not. If so, it returns true. Otherwise it returns false.
+
+  How to create constant in Java ?<br>
+  In java there is no const keyword like C++ for declaring constant variable but we can use Final keyword for declaring constant in Java. 
