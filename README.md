@@ -352,3 +352,9 @@ What is the difference between Final, Finally and Finalize ?<br>
   >finally is the block in Java Exception Handling to execute the important code whether the exception occurs or not.	<br>
   
   >finalize is the method in Java which is used to perform clean up processing just before object is garbage collected.
+
+  What is Type casting in Java ?<br>
+  Type casting is a method or process that converts a data type into another data type in both ways manually and automatically. The automatic conversion is done by the compiler and manual conversion performed by the programmer. Two types of Type casting in java
+ > Implicit type casting: Converting a lower data type into a higher one is called widening type casting. It is also known as implicit conversion or casting down. It done automatically.
+  
+ > Explicit type casting: Converting a higher data type into a lower one is called narrowing type casting. It is also known as explicit conversion or casting up.
