@@ -28,8 +28,8 @@ Inheritance is a mechanism in which child class acquires the property of parenpa
 Polymorphism is the ability of an object to identify as more than one type. <br>
 
 Two types of Polymorphism in Java
-1. Run time polymorphism<br>
-2. Compile time polymorphism<br>
+1. Run time polymorphism Ex. Method overriding<br>
+2. Compile time polymorphism Ex. Method overloading<br>
 
 >What is Abstraction ? <br>
 
@@ -334,3 +334,15 @@ Why we can say that Java is Plateform independent language ? <br>
 
  What is the difference between Break and Continue statements ?<br>
 The break and continue statements are the part of transfer statements in Java. The break statement terminates the whole iteration of a loop whereas continue skips the current iteration. The break statement terminates the whole loop early whereas the continue brings the next iteration early.
+  
+  What are the main Key difference between C++ and Java ?<br>
+>C++ uses only compiler, whereas Java uses compiler and interpreter both.
+  
+>C++ supports both operator overloading & method overloading whereas Java only supports method overloading.
+  
+>C++ supports manual object management with the help of new and delete keywords whereas Java has built-in automatic garbage collection.
+  
+>C++ supports structures whereas Java doesn’t supports structures
+  
+>C++ supports unions while Java doesn’t support unions.
+
