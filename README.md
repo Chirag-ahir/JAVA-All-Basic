@@ -25,7 +25,11 @@ Inheritance is a mechanism in which child class acquires the property of parenpa
 
 >What is Polymorphism ?<br>
 
-Polymorphism is the ability of an object to identify as more than one type. 
+Polymorphism is the ability of an object to identify as more than one type. <br>
+
+Two types of Polymorphism in Java
+1. Run time polymorphism<br>
+2. Compile time polymorphism<br>
 
 >What is Abstraction ? <br>
 
