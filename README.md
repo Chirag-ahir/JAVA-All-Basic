@@ -346,3 +346,9 @@ The break and continue statements are the part of transfer statements in Java. T
   
 >C++ supports unions while Java doesn’t support unions.
 
+What is the difference between Final, Finally and Finalize ?<br>
+  >final is the keyword and access modifier which is used to apply restrictions on a class, method or variable.	<br>
+  
+  >finally is the block in Java Exception Handling to execute the important code whether the exception occurs or not.	<br>
+  
+  >finalize is the method in Java which is used to perform clean up processing just before object is garbage collected.
