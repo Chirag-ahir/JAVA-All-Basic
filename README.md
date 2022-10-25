@@ -254,6 +254,9 @@ A collection of strings in Java's Heap memory is referred as Java String pool.
 
 What is Execption in Java ?<br>
 An exception is an event, which occurs during the execution of a program, that disrupts the normal flow of the program.
+  
+ What is Exception Handling in Java ?<br>
+ Java Exception Handling is a mechanism to handle runtime errors such as ClassNotFoundException, IOException, SQLException, RemoteException, etc. Exception is an unwanted or unexpected event, which occurs during the execution of a program.
 
 What is Access Specifier and Types of Access specifier?<br>
 Access Specifiers are predefined keywords used to help JVM with understanding the scope of a variable, method and class. We have four access specifier<br>
