@@ -388,3 +388,5 @@ What is the difference between Final, Finally and Finalize ?<br>
 Can we Overload a main() method in Java?<br>
 Yes, We can overload the main method in java but JVM only calls the original main method, it will never call our overloaded main method.
   
+Can we Override a Static method in Java?
+  No, we cannot override static methods in Java because static methods are bounded at compile time using static binding. 
