@@ -383,3 +383,8 @@ What is the difference between Final, Finally and Finalize ?<br>
  > Implicit type casting: Converting a lower data type into a higher one is called widening type casting. It is also known as implicit conversion or casting down. It done automatically.
   
  > Explicit type casting: Converting a higher data type into a lower one is called narrowing type casting. It is also known as explicit conversion or casting up.
+
+  
+Can we Overload a main() method in Java?<br>
+Yes, We can overload the main method in java but JVM only calls the original main method, it will never call our overloaded main method.
+  
