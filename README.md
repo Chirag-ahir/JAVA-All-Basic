@@ -393,3 +393,8 @@ Can we Override a Static method in Java?<br>
 
   What is the difference between Assignment and Initialization?<br>
 Assignment gives a variable a value at some point after the variable is created so it's called assignment while Initialization gives a variable an initial value at the point when it is created. 
+
+  Can we execute a java program without main method ?<br>
+  Yes, we can execute a java program without a main method by using a static block. Static block in Java is a group of statements that gets executed only once when the class is loaded into the memory by Java ClassLoader, It is also known as a static initialization block.
+  
+  
