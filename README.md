@@ -401,4 +401,5 @@ Assignment gives a variable a value at some point after the variable is created 
   Can we execute a java program without main method ?<br>
   Yes, we can execute a java program without a main method by using a static block. Static block in Java is a group of statements that gets executed only once when the class is loaded into the memory by Java ClassLoader, It is also known as a static initialization block.
   
-  
+  What is Jagged array in Java ?<br>
+  Jagged array is a multidimensional array where member arrays are of different size.
