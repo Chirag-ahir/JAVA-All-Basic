@@ -101,21 +101,21 @@ DataType : A data type, in programming, is a classification that specifies which
   
   Eight types of Datatypes in JAVA 
   
- > Byte
+ > Byte - 1 Byte 
   
- >Short
+ >Short - 2 Byte
   
-  >Int
+  >Int - 4 Byte
   
-  >Long
+  >Long - 8 Byte
   
-  >Float 
+  >Float - 4 Byte
   
-  >Double
+  >Double - 8 Byte
   
-  >Char
+  >Boolean - 1 Bit
   
-  >Boolean
+  >Char - 2 Byte
 
 **Variable:** Variable is a reserved location in a memory to store some value.<br>
 
