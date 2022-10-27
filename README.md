@@ -414,3 +414,5 @@ Assignment gives a variable a value at some point after the variable is created 
   What is meant by Java is plateform independent?<br>
   Java is platform-independent because it uses a virtual machine. The Java programming language and all APIs are compiled into bytecodes. Bytecodes are effectively platform-independent. The virtual machine takes care of the differences between the bytecodes for the different platforms.  
   
+  Bydefault classes in Java are public or private?<br>
+  By default all the classes in Java are public that's why we put Public keyword in beginning of classes.
