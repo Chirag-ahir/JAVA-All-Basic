@@ -18,7 +18,6 @@ Array : Arrays are objects that store multiple variables of the same type.
 
 >Method Overriding: If a child class has a same method as declared in a parant class, it is known as Method Overriding.
 
-
 >What is Inheritance ?<br>
 
 Inheritance is a mechanism in which child class acquires the property of parenparent class.
@@ -350,6 +349,9 @@ Why we can say that Java is Plateform independent language ? <br>
 
   What is the Difference between "=" and "==" operator?<br>
   The “=” is an assignment operator is used to assign the value on the right to the variable on the left. The '==' operator checks whether the two given operands are equal or not. If so, it returns true. Otherwise it returns false.
+  
+  What is the difference between == and .equals()?
+  In simple words, == checks if both objects point to the same memory location whereas .equals() evaluates to the comparison of values in the objects.
 
   How to create constant in Java ?<br>
   In java there is no const keyword like C++ for declaring constant variable but we can use Final keyword for declaring constant in Java. 
