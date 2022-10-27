@@ -416,3 +416,6 @@ Assignment gives a variable a value at some point after the variable is created 
   
   Bydefault classes in Java are public or private?<br>
   By default all the classes in Java are public that's why we put Public keyword in beginning of classes.
+
+  What if the main method is declared as Private?<br>
+ Pogram will not execute. It searches for the main method which is public, static, with return type void, and a String array as an argument. If such a method is not found, a run time error is generated.
