@@ -62,9 +62,9 @@ What is Public static void main (String args[]) ?<br>
 
 >Static - It is an access modifier means we can call this method directly using the class name without creating an object of it.
 
->Void - void is the return type. It means "this method returns nothing".
+>Void - void is a no return datatype. It is a keyword and is used to specify that a method doesn't return anything. 
 
->Main - It is the name of the method. The main method is the entry point of a Java program for the Java Virtual Machine(JVM). 
+>Main - It is the name of the method. The main method is the entry point of a Java program for the Java Virtual Machine(JVM). Without main() method JVM will not execute the program. 
 
 >String args[] - It is array of string type and It stores Java command-line arguments. 
 
