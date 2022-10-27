@@ -404,9 +404,9 @@ Assignment gives a variable a value at some point after the variable is created 
   What is Jagged array in Java ?<br>
   Jagged array is a multidimensional array where member arrays are of different size.
 
-  What are literals in Java?
+  What are literals in Java?<br>
   Literals in Java refere to the data that is given in a variable or constant. Five types of Literals in Java<br>
-  > String literals: Sequence of characters enclosed in double quotes
-  >Inegral literals: Ineger and foat numbers
-  >Booleam literals: Represent True or False
-  >Char literals: Character value enclosed in single quotes
+  >String literals: Sequence of characters enclosed in double quotes<br>
+  >Inegral and Float literals: Integer and foat numbers<br>
+  >Booleam literals: Represent True or False<br>
+  >Char literals: Character value enclosed in single quotes<br>
