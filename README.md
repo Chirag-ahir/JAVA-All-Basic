@@ -410,3 +410,7 @@ Assignment gives a variable a value at some point after the variable is created 
   >Inegral and Float literals: Integer and foat numbers<br>
   >Booleam literals: Represent True or False<br>
   >Char literals: Character value enclosed in single quotes<br>
+
+  What is meant by Java is plateform independent?<br>
+  Java is platform-independent because it uses a virtual machine. The Java programming language and all APIs are compiled into bytecodes. Bytecodes are effectively platform-independent. The virtual machine takes care of the differences between the bytecodes for the different platforms.  
+  
