@@ -77,7 +77,7 @@ In Java, System.out.println() is a statement which prints the argument passed to
 What is System.in in Java?<BR>
 System.in is an InputStream which is typically connected to keyboard input of console programs.
 
-What is Keyword in Java ?<br>
+What are Keywords in Java ?<br>
 Keywords are predefined, reserved words used in Java programming that have special meanings to the compiler.<br>
   
 >New keyword - In java, New keyword is basically used for creating objects. It allocates memory for an object.
