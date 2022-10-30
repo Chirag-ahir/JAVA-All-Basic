@@ -191,7 +191,13 @@ JIT is an abbriviation for Just-in-Time Compiler. It increases efficiency of the
 
 
 What is ClassLoader ?<br>
-A classloader in Java is a subsystem of JVM, dedicated to load class files when a program is executed, Classloader is the first one to load the executable file. 
+A classloader in Java is a subsystem of JVM, dedicated to load class files when a program is executed, Classloader is the first one to load the executable file. There are three built-in classloaders in Java.<br>
+
+>1. Bootstrap ClassLoader: This is the first classloader which is the superclass of Extension classloader. It loads the rt.jar file which contains all class files of Java Standard Edition.<br>
+
+>2. Extension Classloader: This is the child classloader of Bootstrap and parent classloader of System classloader. It loads the jar files located inside $JAVA_HOME/jre/lib/ext directory.<br>
+
+>3. System classloader: This is the child classloader of Extension classloader. It loads the class files from the classpath. By default, the classpath is set to the current directory. 
 
 What are the Memory Allocations available in Java ? <br>
 >Class memory
