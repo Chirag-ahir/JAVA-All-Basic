@@ -154,6 +154,10 @@ Java was a interpreted programming language , but after introducing JIT it was c
   2. JDK  Enterprise edition<br>
   3. JDK Micro edition<br>
   
+ What is JVM ?<br>
+  JVM is a virtual machine that enables the computer to run the Java program. JVM acts like a run-time engine that calls the main method present in the Java code.
+
+  
 ![](Inheritance.png)<br><br>
 ![](MethodOverLR.png)
   
