@@ -27,7 +27,7 @@ Inheritance is a mechanism in which child class acquires the property of parenpa
 Polymorphism is the ability of an object to identify as more than one type. <br>
 
 Two types of Polymorphism in Java
-1. Run time polymorphism Ex. Method overriding<br>
+1. Dynamic polymorphism: Dynamic polymorphism is a process in which a call to an overridden method is resolved at run time. That's why it's called runtime polymorphism. Ex. Method overriding<br>
 2. Static polymorphism:  A polymorphism that is resolved during compile time is known as static polymorphism. - Compile time polymorphism Ex. Method overloading<br>
 
 >What is Abstraction ? <br>
