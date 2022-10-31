@@ -244,11 +244,11 @@ An empty interface in Java is referred as a Marker interface. Serializable and C
 What is Package in Java?<br>
 Package is a collective bundle of classes and interfaces along with the necessary libraries and JAR files.<br>
 
-Advantage of package
->Reusability
->Name conflicts
->Controlled acccess
->Data encapsulation
+Advantages of package
+>Reusability<br>
+>Name conflicts<br>
+>Controlled acccess<br>
+>Data encapsulation<br>
 >Maintenance
 
 What is Object Cloning ?<br>
