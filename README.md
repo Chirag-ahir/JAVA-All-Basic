@@ -28,7 +28,7 @@ Polymorphism is the ability of an object to identify as more than one type. <br>
 
 Two types of Polymorphism in Java
 1. Run time polymorphism Ex. Method overriding<br>
-2. Compile time polymorphism Ex. Method overloading<br>
+2. Static polymorphism:  A polymorphism that is resolved during compile time is known as static polymorphism. - Compile time polymorphism Ex. Method overloading<br>
 
 >What is Abstraction ? <br>
 
