@@ -30,6 +30,10 @@ Two types of Polymorphism in Java
 1. Dynamic polymorphism: Dynamic polymorphism is a process in which a call to an overridden method is resolved at run time. That's why it's called runtime polymorphism. Ex. Method overriding<br>
 2. Static polymorphism:  A polymorphism that is resolved during compile time is known as static polymorphism. - Compile time polymorphism Ex. Method overloading<br>
 
+
+![image](https://user-images.githubusercontent.com/72852725/199137766-3334cbab-857a-4f98-b9a6-6aca76a6ef89.png)
+
+
 >What is Abstraction ? <br>
 
 Hiding internal details and showing functionality to the user is known as abstraction. For example phone call, we don't know the internal processing.
