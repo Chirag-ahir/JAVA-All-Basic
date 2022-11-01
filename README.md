@@ -445,3 +445,6 @@ Assignment gives a variable a value at some point after the variable is created 
 
   What is Increment and Decrement operators ?<br>
   Increment and decrement operators are unary operators that add or subtract one, to or from their operand, respectively.
+
+  What is Object oriented programming ?<br>
+  Object oriented programming is a methodology to design a program using Classes and Objects.
