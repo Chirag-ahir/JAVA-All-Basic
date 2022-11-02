@@ -231,7 +231,7 @@ Define Copy constructor in Java ? <br>
 A Copy Constructor in Java is a constructor that initializes an object through another object of the same class. 
 
 What is Interface in Java ?<br>
-The interface in Java is a mechanism to achieve abstraction. It's a blueprint of class. 
+The interface in Java is a mechanism to achieve abstraction. It's a blueprint of class which contains static constants and abstract methods.
   
 What is Marker Interface ?<br>
 An empty interface in Java is referred as a Marker interface. Serializable and Cloneable are some popular ex. of Marker Interface.
