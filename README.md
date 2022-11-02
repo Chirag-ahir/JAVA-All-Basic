@@ -41,6 +41,9 @@ Hiding internal details and showing functionality to the user is known as abstra
 What is Abstract method ?<br>
 A method which is declared as abstract and does not have implementation is known as an abstract method.
 
+What is Abstract class <br>
+An abstract class is a template definition to methods and variables of a class that contains one or more abstracted methods.
+
 >What is Encapsulation ? <br>
 
 Binding code and data together into a single unit are known as encapsulation.
