@@ -460,3 +460,8 @@ Assignment gives a variable a value at some point after the variable is created 
 
   What is Loose coupling?<br>
   Loose coupling in Java means that the classes are independent of each other.
+  
+  What is Operator Overriding?<br>
+  Operator Overriding a procedure where you can define an operator in both parent and child classes with the same signature, but with different operational capability.
+
+
