@@ -451,3 +451,9 @@ Assignment gives a variable a value at some point after the variable is created 
 
   What is Object oriented programming ?<br>
   Object oriented programming is a methodology to design a program using Classes and Objects.
+  
+  What is Upcasting ? <br>
+  Upcasting is a type of object typecasting in which a child object is typecasted to a parent class object.
+  
+  What is Downcasting ?<br>
+  Downcasting means the typecasting of a parent object is typecasted to a child object. Downcasting cannot be implicit.
