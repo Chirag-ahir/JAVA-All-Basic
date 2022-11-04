@@ -168,6 +168,11 @@ Java was a interpreted programming language , but after introducing JIT it was c
 ![](Inheritance.png)<br><br>
 ![](MethodOverLR.png)
   
+ What are the conditions for Method overriding?<br>
+ 1. The method name should be common and the same as it is in the parent class.
+ 2. The method signature (parameter list, return type) in the method must be the same as in the parent class.
+ 3. There must be an inheritance connection between classes.
+ 
 Features of JAVA:<br>
 1.	Simple: JAVA is easy to learn and it’s syntax is quite simple, clean and easy to learn.<br>
 2.	Object Oriented: In java everything is Object which has some data and behaviour.<br>
