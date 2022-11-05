@@ -470,4 +470,5 @@ Assignment gives a variable a value at some point after the variable is created 
   What is Operator Overriding?<br>
   Operator Overriding a procedure where you can define an operator in both parent and child classes with the same signature, but with different operational capability.
 
-
+What is Factory method?<br>
+A factory method is a method that returns the instance of the class.
