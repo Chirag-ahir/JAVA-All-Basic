@@ -365,7 +365,7 @@ String pool requires string to be immutable otherwise shared reference can be ch
 What is Method hiding ?<br>
 if a subclass defines a static method with the same signature as a static method in the super class, in such a case, the method in the subclass hides the one in the superclass. The mechanism is known as method hiding.
   
- What is the difference between Method hiding and Overriding ?
+ What is the difference between Method hiding and Overriding ?<br>
  In Method Overriding child class can access parent class method implementation. In case of Method Hiding parent class method implementation cannot be accessed through child class reference.
   
 What is Singleton class ?<br>
