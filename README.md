@@ -321,7 +321,7 @@ What is Garbage collection in Java ?<br>
 Garbage collection is the mechanism used in Java to de-allocate unused memory, which is nothing but clear the space consumed by unused objects.
   
 Explain Daemon thread <br>
-The daemon thread can be defined as a thread with least priority. This Daemon thread is designed t run in the background during the process of Garbage collection. 
+The daemon thread can be defined as a thread with least priority. This Daemon thread is designed at runtime in the background during the process of Garbage collection. 
   
 What is enumeration in Java ?<br>
 An enumeration in Java is a special data type which contains a set of predefined constants.
