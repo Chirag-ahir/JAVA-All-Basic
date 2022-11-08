@@ -239,6 +239,12 @@ What is Interface in Java ?<br>
   An Interface in Java programming language is defined as an abstract type used to specify the behavior of a class. An interface in Java is a blueprint of a class. A Java interface contains static constants and abstract methods.<br>
  *An interface is a completely "abstract class" that is used to group related methods with empty bodies*
   
+ Why do we use Interface in Java?<br>
+  --> It's used to achieve total abstraction.
+  --> Since java does not support multiple inheritance in case of class, by using Interface we can achieve it.
+  --> It's also used to achieve loose coupling.
+  --> It's used to implement abstraction.
+  
 What is Marker Interface ?<br>
 An empty interface in Java is referred as a Marker interface. Serializable and Cloneable are some popular ex. of Marker Interface.
   
