@@ -487,3 +487,6 @@ A factory method is a method that returns the instance of the class.
   
   What is Unboxing?<br>
   The automatic conversion of **wrapper type into its corresponding primitive type** is known as unboxing. It is the reverse process of autoboxing.
+
+  What is Covarient return type?<br>
+  The covariant return types are newly introduced since Java 5.0, and used during method overriding. Covariant return type allows us to change the return type of the overriding method in the subclass;
