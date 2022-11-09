@@ -9,7 +9,7 @@ There are 3 ways to initialize object in Java.<br>
 2. By Method<br>
 3. By constructor
 
->**Class:** Class is a Blueprint, which holds it's own data members and members function. Class is a group of similar objects. It's a Logical entity.
+>**Class:** A class is a group of objects which have common properties or Class is a Blueprint, which holds it's own data members and members function. It's a Logical entity.
 
 Array : Arrays are objects that store multiple variables of the same type.
 
