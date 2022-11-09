@@ -481,3 +481,9 @@ Assignment gives a variable a value at some point after the variable is created 
 
 What is Factory method?<br>
 A factory method is a method that returns the instance of the class.
+
+ What is Autoboxing?<br>
+  The automatic conversion of **primitive data type into its corresponding wrapper class** is known as autoboxing.
+  
+  What is Unboxing?<br>
+  The automatic conversion of **wrapper type into its corresponding primitive type** is known as unboxing. It is the reverse process of autoboxing.
