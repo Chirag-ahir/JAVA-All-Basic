@@ -493,3 +493,6 @@ A factory method is a method that returns the instance of the class.
 
   What is JDB ?<br>
   The Java Debugger (JDB) is a command-line java debugger that debugs the java class. It's used to find and fix bugs in the Java programs. 
+
+  What is Diamond problem in Java?<br>
+  The "diamond problem" is an ambiguity that arises when two classes B and C inherit from A, and class D inherits from both B and C. The diamond problem in Java is the main reason java doesn't support multiple inheritances in classes.
