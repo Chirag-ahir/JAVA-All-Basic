@@ -193,10 +193,10 @@ What is Association ?<br>
 Association in Java is a connection or relation between two separate classes that are set up through their objects.
   
  What is Aggregation ?<br>
- When an object A contains a reference to another object B or we can say Object A has a HAS-A relationship with Object B, then it is termed as Aggregation. The aggregation has a weak association between objects.	
+ When an object A contains a reference to another object B or we can say Object A has a HAS-A relationship with Object B, then it is termed as Aggregation. The aggregation has a weak association between objects.	Both objects can exit independently.
   
   What is Composition ?<br>
-  Composition in java is the design technique to implement has-a relationship in classes. The composition has a strong association between objects.
+  Composition in java is the design technique to implement has-a relationship in classes. The composition has a strong association between objects.Both objects can not exit independently.
 
 What is JIT ?<br>
 JIT is an abbriviation for Just-in-Time Compiler. It increases efficiency of the interpreter by compiling the bytecode into native machine code at runtime.
