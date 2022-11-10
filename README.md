@@ -386,8 +386,9 @@ Why we can say that Java is Plateform independent language ? <br>
   What is the Difference between "=" and "==" operator?<br>
   The “=” is an assignment operator is used to assign the value on the right to the variable on the left. The '==' operator checks whether the two given operands are equal or not. If so, it returns true. Otherwise it returns false.
   
-  What is the difference between == and .equals()?
+  What is the difference between == and .equals()?<br>
   In simple words, == checks if both objects point to the same memory location whereas .equals() evaluates to the comparison of values in the objects.
+  _== method used with premitive types of variables while .equals method used with reference type of variables like String_
 
   How to create constant in Java ?<br>
   In java there is no const keyword like C++ for declaring constant variable but we can use Final keyword for declaring constant in Java. 
