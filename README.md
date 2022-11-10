@@ -11,7 +11,11 @@ There are 3 ways to initialize object in Java.<br>
 
 >**Class:** A class is a group of objects which have common properties or Class is a Blueprint, which holds it's own data members and members function. It's a Logical entity.
 
-Array : Arrays are objects that store multiple variables of the same type.
+What is Array?<br>
+Arrays are objects that store multiple variables of the same type. Arrays are of fixed size.
+
+What is ArrayList?<br>
+An ArrayList class is a resizable array, which is present in the java. util package. While built-in arrays have a fixed size, ArrayLists can change their size dynamically. 
 
 **Method:** A method is a block of code or collection of statements to perform a certain task or operation. Used to achieve the reusability of code.
 >Method Overloading: If a class has multiple methods having same name but different in parameters, it is known as Method Overloading.<br>
