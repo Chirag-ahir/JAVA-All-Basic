@@ -1,29 +1,33 @@
-//2DArray is a Array of array;
+package com.miit.basics;
 
-public class TwoDArray{
-	public static void main(String[] args){
-	
-		String cars[][] = new String[3][3];
+import java.util.*;
+
+public class TwoDArray {
+
+	public static void main(String[] args) {
 		
-		//first is row. second is column.
+		ArrayList<ArrayList<String>> groceryList = new ArrayList();
 		
-		cars[0][0] = "BMW";
-		cars[0][1] = "Haundai";
-		cars[0][2] = "Elantra";
+		ArrayList<String> bakeryList = new ArrayList();
+		bakeryList.add("pasta");
+		bakeryList.add("garlic bread");
+		bakeryList.add("donuts");
 		
-		cars[1][0] = "Ford";
-		cars[1][1] = "Oddi";
-		cars[1][2] = "Mustang";
+		ArrayList<String> produceList = new ArrayList();
+		produceList.add("tomatoes");
+		produceList.add("zucchini");
+		produceList.add("peppers");
 		
-		cars[2][0] = "Maruti";
-		cars[2][1] = "Echo";
-		cars[2][2] = "Van";
+		ArrayList<String> drinksList = new ArrayList();
+		drinksList.add("soda");
+		drinksList.add("coffee");
 		
-		for(int i=0; i<cars.length; i++){
-			System.out.println();
-			for(int j=0; j<cars[i].length; j++){
-				System.out.print(cars[i][j]+ " ");
-			}
-		}
+		groceryList.add(bakeryList);
+		groceryList.add(produceList);
+		groceryList.add(drinksList);
+		
+		System.out.println(groceryList);
+		
 	}
 }
+
