@@ -490,3 +490,6 @@ A factory method is a method that returns the instance of the class.
 
   What is Covarient return type?<br>
   The covariant return types are newly introduced since Java 5.0, and used during method overriding. Covariant return type allows us to change the return type of the overriding method in the subclass;
+
+  What is JDB ?<br>
+  The Java Debugger (JDB) is a command-line java debugger that debugs the java class. It's used to find and fix bugs in the Java programs. 
