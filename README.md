@@ -190,10 +190,13 @@ What is Associativity?<br>
 Associativity specifies the order in which operators are executed, which can be left to right or right to left.
 
 What is Association ?<br>
-An Association can be defined as a relationship that has no ownership over another. For ex a Person can be associated with multiple banks and a bank can be associated with mutiple people. 
+Association in Java is a connection or relation between two separate classes that are set up through their objects.
   
  What is Aggregation ?<br>
- Aggregation is a way to achieve Association. Aggregation represents the relationship where one object contains other objects as a part of its state.
+ When an object A contains a reference to another object B or we can say Object A has a HAS-A relationship with Object B, then it is termed as Aggregation. The aggregation has a weak association between objects.	
+  
+  What is Composition ?<br>
+  Composition in java is the design technique to implement has-a relationship in classes. The composition has a strong association between objects.
 
 What is JIT ?<br>
 JIT is an abbriviation for Just-in-Time Compiler. It increases efficiency of the interpreter by compiling the bytecode into native machine code at runtime.
