@@ -253,7 +253,7 @@ What is Interface in Java ?<br>
   --> It's used to implement abstraction.
   
 What is Marker Interface ?<br>
-An empty interface in Java is referred as a Marker interface. Serializable and Cloneable are some popular ex. of Marker Interface.
+An empty interface in Java is referred as a Marker interface. Serializable and Cloneable are some popular ex. of Marker Interface. It provides run-time type information about objects,
   
   What is Functional Interface ?<br>
   An interface that contains only one abstract method is known as functional interface. It can have any number of default and static methods.<br>
