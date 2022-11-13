@@ -513,3 +513,6 @@ A factory method is a method that returns the instance of the class.
 
   What is Diamond problem in Java?<br>
   The "diamond problem" is an ambiguity that arises when two classes B and C inherit from A, and class D inherits from both B and C. The diamond problem in Java is the main reason java doesn't support multiple inheritances in classes.
+
+  What Are Command Line Arguments?<br>
+The command-line arguments are passed to the program at run-time. Passing command-line arguments in a Java program is quite easy. They are stored as strings in the String array passed to the args parameter of main() method in Java.
