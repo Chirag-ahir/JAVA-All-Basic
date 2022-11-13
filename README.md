@@ -516,3 +516,6 @@ A factory method is a method that returns the instance of the class.
 
   What Are Command Line Arguments?<br>
 The command-line arguments are passed to the program at run-time. Passing command-line arguments in a Java program is quite easy. They are stored as strings in the String array passed to the args parameter of main() method in Java.
+
+What is Stack overflow error?<br>
+A stack overflow is a type of buffer overflow error that occurs when a Java program tries to use more memory space in the call stack than has been allocated to that stack. 
