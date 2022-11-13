@@ -153,6 +153,8 @@ Expressions are essential building blocks of any Java program, usually created t
 What is Recursion in JAVA ? <br>
 Recursion in java is a process in which a method calls itself continuously. A method in java that calls itself is called recursive method.
 
+  What is Basecase ?<br>
+  The base case is a way to return without making a recursive call. In other words, it is the mechanism that stops this process of ever more recursive calls.
 Java was a interpreted programming language , but after introducing JIT it was called as interpreted - compiled programming language<b>
   
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210218150010/JDK.png" width="720" height="330">
