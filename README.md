@@ -22,6 +22,12 @@ An ArrayList class is a resizable array, which is present in the java. util pack
 
 >Method Overriding: If a child class has a same method as declared in a parant class, it is known as Method Overriding.
 
+What is Static method?<br>
+A method that belongs to a class rather than an instance of a class is known as a static method. 
+
+What is Instance method?<br>
+The method of the class is known as an instance method.
+
 >What is Inheritance ?<br>
 
 Inheritance is a mechanism in which child class acquires the property of parenparent class.
