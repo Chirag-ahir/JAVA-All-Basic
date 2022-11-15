@@ -521,3 +521,9 @@ The command-line arguments are passed to the program at run-time. Passing comman
 
 What is Stack overflow error?<br>
 A stack overflow is a type of buffer overflow error that occurs when a Java program tries to use more memory space in the call stack than has been allocated to that stack. 
+  
+ What is For loop in java?<br>
+  The Java for loop is a control flow statement that iterates a part of the programs multiple times with a specified condition.
+  
+  What is For-each loop?<br>
+  In Java, the for-each loop is used to iterate through elements of arrays and collections (like ArrayList). It is also known as the enhanced for loop.
