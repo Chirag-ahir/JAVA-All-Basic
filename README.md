@@ -542,3 +542,11 @@ A stack overflow is a type of buffer overflow error that occurs when a Java prog
   
   What is Instance initializer block?<br>
   Instance Initialization Blocks or IIBs are used to initialize instance variables. So firstly, the constructor is invoked and the java compiler copies the instance initializer block in the constructor after the first statement super(). They run each time when the object of the class is created. 
+
+  What is Throw keyword in Java?<br>
+  The throw keyword in Java is used for explicitly throwing a single exception. This can be from within a method or any block of code. Both checked and unchecked exceptions can be thrown using the throw keyword.
+  
+  What is throws keyword in java?<br>
+  The throws keyword in Java is used to declare exceptions that can occur during the execution of a program. For any method that can throw exceptions, it is mandatory to use the throws keyword to list the exceptions that can be thrown.
+  
+  
