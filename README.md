@@ -563,3 +563,5 @@ A stack overflow is a type of buffer overflow error that occurs when a Java prog
   What is IOException in Java?<br>
   Java IOExceptions are Input/Output exceptions (I/O), and they occur whenever an input or output operation is failed or interpreted. For example, if you are trying to read in a file that does not exist, Java would throw an I/O exception.
 
+What is Interpreter ?<br>
+Interpreter in Java is a computer program that converts high-level program statement into Assembly Level Language.  It is designed to read the input source program and then translate the source program instruction by instruction.
