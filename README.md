@@ -568,3 +568,8 @@ A stack overflow is a type of buffer overflow error that occurs when a Java prog
 
 What is Interpreter ?<br>
 Interpreter in Java is a computer program that converts high-level program statement into Assembly Level Language.  It is designed to read the input source program and then translate the source program instruction by instruction.
+
+  What is Method Signature in Java?<br>
+  Method Signature in java is defined as the structure of a method that is designed by the programmer. Method Signature is the combination of a method's name and its parameter list.
+  
+  ![image](https://user-images.githubusercontent.com/72852725/202558673-83764027-ea9e-45f9-841c-8999b4377fe4.png)
