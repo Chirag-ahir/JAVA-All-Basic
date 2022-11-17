@@ -291,14 +291,14 @@ Advantages of package
 What is Object Cloning ?<br>
 An ability to create an object completely similar to an existing object is known as Object Cloning. 
  
- What is the difference between Shallow copy and Deep copy?<br>
+ What is the difference between Shallow copy and Deep cloning?<br>
   In Shallow copy, a copy of the original object is stored and only the reference address is finally copied. In Deep copy, the copy of the original object and the repetitive copies both are stored.
   
-  What is Shallow copy?<br>
-  Creating a new reference that points to the same memory location. This is also called a Shallow copy.
+  What is Shallow cloning?<br>
+when the cloning process is done by invoking the clone() method it is called Shallow Cloning. It is the default cloning process in Java where a shallow copy of the original object will be created with exact field.
   
-  What is Deep copy?<br>
-   Creating a copy of object in a different memory location. This is called a Deep copy.
+  What is Deep cloning?<br>
+   when the cloning process is done by implementing the Cloneable interface it is called Deep Cloning. In this type of cloning, an exact copy of all the fields of the original object will be created. 
 
 What is Wrapper classes in Java ?<br>
 In Java when you declare primitive datatype then Wrapper classes are responsible for converting them into objects.
