@@ -422,6 +422,9 @@ Why we can say that Java is Plateform independent language ? <br>
   In simple words, == checks if both objects point to the same memory location whereas .equals() evaluates to the comparison of values in the objects.<br>
   _== method used with premitive types of variables like Short, Int, Bool, Float, Double, Long while .equals method used with reference type of variables like String, Objects' _
 
+  What is constant in Java?<br>
+  A constant is a variable whose value cannot change once it has been assigned. Java doesn't have built-in support for constants.
+  
   How to create constant in Java ?<br>
   In java there is no const keyword like C++ for declaring constant variable but we can use Final keyword for declaring constant in Java. 
 
