@@ -146,7 +146,7 @@ DataType : A data type, in programming, is a classification that specifies which
 **Constructor:** A constructor is a special method that is used to initialize objects. The constructor is called when an object of a class is created.
 
 Two types of constructors in JAVA
->No-Arg Constructor : A constructor is called "No-arg Constructor" when it doesn't have any parameter.<br>
+>No arg Constructor (Default Constructor) : A constructor with no arguments is called a default constructor. If we do not create a constructor of a class, Java creates a default constructor with data members which has values like zero, null, etc.<br>
   
 >Parameterized Constructor : A constructor which has a specific number of parameters is called a parameterized constructor.<br>
 
