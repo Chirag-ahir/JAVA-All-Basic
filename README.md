@@ -340,8 +340,11 @@ Access Specifiers are predefined keywords used to help JVM with understanding th
 Binding is a process of unifying the method call with the method's code segment. Late binding happens when the method's code segment is unknown till the method is called during the run-time. 
   
 What is Run time polymorphism ?<br>
-Runtime polymorphism, also known as the Dynamic Method Dispatch, is a process that resolves a call to an overridden method at runtime. The process involves the use of the reference variable of a superclass to call for an overridden method.
+Runtime polymorphism, also known as the Dynamic Method Dispatch, is a process that resolves a call to an overridden method at runtime. The process involves the use of the reference variable of a superclass to call for an overridden method. Method overriding is an example of run time polymorphism.
 
+  What is Compile time polymorphism?<br>
+Compile time polymorphism refers to a process in which a call to an overloaded method is resolved at compile time rather than at run time. Method overloading is an example of compile time polymorphism.
+  
 What is Process in Java ?<br>
 An executing instance of a proram is called a process. 
 
