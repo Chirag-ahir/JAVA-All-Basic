@@ -554,3 +554,6 @@ A stack overflow is a type of buffer overflow error that occurs when a Java prog
   
   What is Multi catch block in java ?<br>
   When statements in a single try block generate multiple exceptions, we require multiple catch blocks to handle different types of exceptions. This mechanism is called multi-catch block in java.
+
+  What is IOException in Java?<br>
+  Java IOExceptions are Input/Output exceptions (I/O), and they occur whenever an input or output operation is failed or interpreted. For example, if you are trying to read in a file that does not exist, Java would throw an I/O exception.
