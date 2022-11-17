@@ -533,3 +533,9 @@ A stack overflow is a type of buffer overflow error that occurs when a Java prog
   
   What is For-each loop?<br>
   In Java, the for-each loop is used to iterate through elements of arrays and collections (like ArrayList). It is also known as the enhanced for loop.
+
+  What is Covariant return type?<br>
+  Covariant return type refers to return type of an overriding method. It allows to narrow down return type of an overridden method without any need to cast the type or check the return type. 
+  
+  What is Instance initializer block?<br>
+  Instance Initialization Blocks or IIBs are used to initialize instance variables. So firstly, the constructor is invoked and the java compiler copies the instance initializer block in the constructor after the first statement super(). They run each time when the object of the class is created. 
