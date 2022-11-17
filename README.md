@@ -317,6 +317,8 @@ An exception is an event, which occurs during the execution of a program, that d
  What is Exception Handling in Java ?<br>
  Java Exception Handling is a mechanism to handle runtime errors such as ClassNotFoundException, IOException, SQLException, RemoteException, etc. Exception is an unwanted or unexpected event, which occurs during the execution of a program. There are mainly two types of exceptions in Java as follows:<br>
 
+![image](https://user-images.githubusercontent.com/72852725/202528741-e4c5a368-f051-4a46-8386-1d981af531e1.png)
+
 >Checked exception: Checked exceptions are also known as compile-time exceptions as these exceptions are checked by the compiler during the compilation process to confirm whether the exception is handled by the programmer or not. If not, then the system displays a compilation error. For example, SQLException, IOException, InvocationTargetException, and ClassNotFoundException.
 
 >Unchecked exception: The unchecked exceptions are those exceptions that occur during the execution of the program. Hence they are also referred to as Runtime exceptions. These exceptions are generally ignored during the compilation process. They are not checked while compiling the program. For example, programming bugs like logical errors, and using incorrect APIs. Ex. ArithmeticException, NullPointerException, NumberFormatEception.
@@ -557,3 +559,4 @@ A stack overflow is a type of buffer overflow error that occurs when a Java prog
 
   What is IOException in Java?<br>
   Java IOExceptions are Input/Output exceptions (I/O), and they occur whenever an input or output operation is failed or interpreted. For example, if you are trying to read in a file that does not exist, Java would throw an I/O exception.
+
