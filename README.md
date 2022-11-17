@@ -173,6 +173,9 @@ Java was a interpreted programming language , but after introducing JIT it was c
   2. JDK  Enterprise edition<br>
   3. JDK Micro edition<br>
   
+ What is JRE ?<br>
+  The JRE is the on-disk system that takes your Java code, combines it with the needed libraries, and starts the JVM to execute it. The JRE contains libraries and software needed by your Java programs to run.
+  
  What is JVM ?<br>
   JVM is a virtual machine that enables the computer to run the Java program. JVM acts like a run-time engine that calls the main method present in the Java code.
 
