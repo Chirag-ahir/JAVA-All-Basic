@@ -542,6 +542,9 @@ The command-line arguments are passed to the program at run-time. Passing comman
 What is Stack overflow error?<br>
 A stack overflow is a type of buffer overflow error that occurs when a Java program tries to use more memory space in the call stack than has been allocated to that stack. 
   
+  What is Out of memory error?<br>
+  OutOfMemoryError is a runtime error in Java which occurs when the Java Virtual Machine (JVM) is unable to allocate an object due to insufficient space in the Java heap.
+  
  What is For loop in java?<br>
   The Java for loop is a control flow statement that iterates a part of the programs multiple times with a specified condition.
   
