@@ -2,7 +2,7 @@
 
 Java is a general-purpose and object oriented programming language originally developed by Sun Microsystem and released in 1995. 
 
->**Object:** An entity that has state and behavior is known as an object e.g., chair, bike, marker, pen, table, car, etc. It's an Physical representation of things or we can say that it's a Instance of a class.
+>**Object:** An entity that has state and behavior is known as an object e.g., chair, bike, marker, pen, table, car, etc. It's an Physical representation of things or we can say that it's a Instance of a class. Object contains Attributes and Methods.
 
 There are 3 ways to initialize object in Java.<br>
 1. By reference variable<br>
