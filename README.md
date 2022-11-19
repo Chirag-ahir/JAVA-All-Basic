@@ -455,6 +455,8 @@ What is the difference between Final, Finally and Finalize ?<br>
   
   >finalize is the method in Java which is used to perform clean up processing just before object is garbage collected.
 
+ >The keyword final is an access modifier, finally is a block and finalize is a method. The keyword final is applicable to the classes, variables and methods of the classes finally is a block associated with the try catch block that is used to handle exceptions, finalize is a method that operates only on objects.
+  
   What is Type casting in Java ?<br>
   Type casting is a method or process that converts a data type into another data type in both ways manually and automatically. The automatic conversion is done by the compiler and manual conversion performed by the programmer. Two types of Type casting in java
  > Implicit type casting: Converting a *lower data type into a higher one* is called widening type casting. It is also known as implicit conversion. It done automatically.<br>
