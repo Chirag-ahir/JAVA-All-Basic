@@ -584,3 +584,6 @@ Interpreter in Java is a computer program that converts high-level program state
 
   What is Exception propagation?<br>
   Exception propagation is a way of propagating exception from method to method.
+  
+  What is the difference between Throw and Throws keyword?<br>
+  The throw keyword is used to throw an exception explicitly. It can throw only one exception at a time. The throws keyword can be used to declare multiple exceptions, separated by a comma.
