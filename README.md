@@ -143,7 +143,8 @@ DataType : A data type, in programming, is a classification that specifies which
 
 > Class variables also known as static variables are declared with the static keyword in a class, but outside a method, constructor or a block.
 
-**Constructor:** A constructor is a special method that is used to initialize objects. The constructor is called when an object of a class is created.
+**What is Constructor?**<br>
+  A constructor is a special method that is used to initialize objects. The constructor is called when an object of a class is created.
 
 Two types of constructors in JAVA
 >No arg Constructor (Default Constructor) : A constructor with no arguments is called a default constructor. If we do not create a constructor of a class, Java creates a default constructor with data members which has values like zero, null, etc.<br>
@@ -152,6 +153,9 @@ Two types of constructors in JAVA
 
 What is Constructor Overloading ?<br>
 Constructor overloading means having more than one constructor with the same name. Constructors are methods invoked when an object is created.
+  
+What is the difference between constructor and method ?<br>
+  Constructor is used to create and initialize an Object while Method is used to execute certain statements. A constructor is invoked implicitly by the System. A method is to be invoked during program code.
 
 What is Expression in JAVA ? <br>
 Expressions are essential building blocks of any Java program, usually created to produce a new value, although sometimes an expression simply assigns a value to a variable.
