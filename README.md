@@ -591,3 +591,6 @@ Interpreter in Java is a computer program that converts high-level program state
   
   What is the difference between Throw and Throws keyword?<br>
   The throw keyword is used to throw an exception explicitly. It can throw only one exception at a time. The throws keyword can be used to declare multiple exceptions, separated by a comma.
+
+  What is catch block in java?<br>
+The catch block allows you to define a block of code to be executed, if an error occurs in the try block. It is used to handle the Exception by declaring the type of exception within the parameter.
