@@ -594,3 +594,7 @@ The catch block allows you to define a block of code to be executed, if an error
 
   What is Multi catch block in java ?<br>
   When statements in a single try block generate multiple exceptions, we require multiple catch blocks to handle different types of exceptions. This mechanism is called multi-catch block in java.
+
+  What is Instance variable?<br>
+  A variable which is created inside the class but outside the method is known as an instance variable.
+                             
