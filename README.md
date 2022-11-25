@@ -616,19 +616,6 @@ The catch block allows you to define a block of code to be executed, if an error
   What is Multi processing?<br>
   Multiprocessing refers to the ability of a system to run multiple processors concurrently, where each processor can run one or more threads.
   
-  What is the thread life cycle?<br>
-  
-  **New - Runnable - Running - Waiting - Dead**<br>
-  
-  1. New: The thread is the new state when we create it using the “Thread class”. It remains in this state until the program starts the thread by calling the start() method.<br>
-  2. Runnable: In this phase, the start() method invokes the instance of the thread. The scheduler takes the thread control to finish the execution.<br>
-  3. Running: The thread goes to the running state when its execution starts. The scheduler selects one thread from the thread pool and the thread starts executing in the application.<br>
-  4. Waiting: There is a need for synchronization between threads as multiple threads are running in the application. Hence, one thread has to wait, till the other thread finishes its execution. Therefore, we say that the thread is in the waiting state.<br>
-  5. Dead: When the thread is terminated, the thread goes into the dead state.<br>
-
-
-  
-  
   What are the advantages of Multithreading?<br>
  1. Threads are lightweight which has a low memory footprint<br>
 2. The cost of communication between threads is low.<br>
@@ -644,4 +631,12 @@ The catch block allows you to define a block of code to be executed, if an error
   What is Born thread?<br>
   Born Thread is a thread that has been created but not yet started. It remains in this state until we start it using the start() method.
   
+  What is the thread life cycle?<br>
+  **New - Runnable - Running - Waiting - Dead**<br>
   
+  1. New: The thread is the new state when we create it using the “Thread class”. It remains in this state until the program starts the thread by calling the start() method.<br>
+  2. Runnable: In this phase, the start() method invokes the instance of the thread. The scheduler takes the thread control to finish the execution.<br>
+  3. Running: The thread goes to the running state when its execution starts. The scheduler selects one thread from the thread pool and the thread starts executing in the application.<br>
+  4. Waiting: There is a need for synchronization between threads as multiple threads are running in the application. Hence, one thread has to wait, till the other thread finishes its execution. Therefore, we say that the thread is in the waiting state.<br>
+  5. Dead: When the thread is terminated, the thread goes into the dead state.<br>
+
