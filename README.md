@@ -601,3 +601,6 @@ The catch block allows you to define a block of code to be executed, if an error
                              
   What is Thread in java?<br>
   A thread is a single lightweight and smallest part of a process or It is the smallest unit of a process that can run alongwith the other parts of the same process.
+
+  What is Multi tasking?<br>
+  Multitasking is the capability of an Operating System to execute more the one task or job simultaneously on a shared resource.
