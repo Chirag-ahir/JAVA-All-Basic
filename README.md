@@ -604,3 +604,23 @@ The catch block allows you to define a block of code to be executed, if an error
 
   What is Multi tasking?<br>
   Multitasking is the capability of an Operating System to execute more the one task or job simultaneously on a shared resource.
+  
+  What is Multi threading?<br>
+  Multithreading is the ability of an Operating System to execute more than one thread at the same time.
+  
+  What is Multi processing?<br>
+  Multiprocessing refers to the ability of a system to run multiple processors concurrently, where each processor can run one or more threads.
+  
+  What are the advantages of Multithreading?<br>
+ 1. Threads are lightweight which has a low memory footprint<br>
+2. The cost of communication between threads is low.<br>
+3. Access to memory state from another context is easier<br>
+4. It allows you to make responsive UIs easily<br>
+5. Takes lesser time to create a new thread in the existing process than a new process<br>
+  
+  What are different thread priorities?<br>
+  Min priority: 1<br>
+  Default or normal priority: 5<br>
+  Max priority: 10<br>
+
+  
