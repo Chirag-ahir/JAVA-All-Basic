@@ -355,9 +355,6 @@ Compile time polymorphism refers to a process in which a call to an overloaded m
   
 What is Process in Java ?<br>
 An executing instance of a proram is called a process. 
-
-What is Thread in Java ?<br>
-A thread in Java is the direction or path that is taken while a program is being executed. Generally, all the programs have at least one thread, known as the main thread, that is provided by the JVM. A thread is subset of process.
   
  Brief the life cycle of Applet ?<br>
   1. Initialization<br>
@@ -602,3 +599,5 @@ The catch block allows you to define a block of code to be executed, if an error
   What is Instance variable?<br>
   A variable which is created inside the class but outside the method is known as an instance variable.
                              
+  What is Thread in java?<br>
+  A thread is a single lightweight and smallest part of a process or It is the smallest unit of a process that can run alongwith the other parts of the same process.
