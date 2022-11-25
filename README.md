@@ -598,23 +598,31 @@ The catch block allows you to define a block of code to be executed, if an error
 
   What is Instance variable?<br>
   A variable which is created inside the class but outside the method is known as an instance variable.
-                             
+                           
+  What is process in java?<br>
+  A process is a self contained execution environment and it can be seen as a program or application.
+  
   What is Thread in java?<br>
   A thread is a single lightweight and smallest part of a process or It is the smallest unit of a process that can run alongwith the other parts of the same process.
-
+  
+  What is the difference between thread and process?<br>
+ Process means a program is in execution, whereas thread means a segment of a process.<br>
+A Process is not Lightweight, whereas Threads are Lightweight.<br>
+A Process takes more time to terminate, and the thread takes less time to terminate.<br>
+Process takes more time for creation, whereas Thread takes less time for creation.<br>
+Process likely takes more time for context switching whereas as Threads takes less time for context switching.<br>
+Process does not share data, and Threads share data with each other.
+ 
   What is Multi tasking?<br>
   Multitasking is the capability of an Operating System to execute more the one task or job simultaneously on a shared resource.
   
+    What is Multi processing?<br>
+  Multiprocessing refers to the ability of a system to run multiple processors concurrently, where each processor can run one or more threads.
+  
   What is Multi threading?<br>
-  Multithreading is the ability of an Operating System to execute more than one thread at the same time.<br>
- 
-  We can achieve multithreading in Java in two ways:<br>
-
+  Multithreading is the ability of an Operating System to execute more than one thread at the same time. We can achieve multithreading in Java in two ways:<br>
 1. By Implementing the Runnable Interface<br>
 2. By extending Thread class
-  
-  What is Multi processing?<br>
-  Multiprocessing refers to the ability of a system to run multiple processors concurrently, where each processor can run one or more threads.
   
   What are the advantages of Multithreading?<br>
  1. Threads are lightweight which has a low memory footprint<br>
@@ -624,6 +632,9 @@ The catch block allows you to define a block of code to be executed, if an error
 5. Allows multiple operations to perform at once<br>
 6. Saves time for excution of multiple operations<br>
   
+  What is the difference between Multithreading and Multiprocessing?<br>
+  ![image](https://user-images.githubusercontent.com/72852725/204063885-56afaf28-920e-4f0c-a3b8-99f4a19abe74.png)
+
   What are different thread priorities?<br>
   Min priority: 1<br>
   Default or normal priority: 5<br>
