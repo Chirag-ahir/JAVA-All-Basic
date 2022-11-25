@@ -618,10 +618,11 @@ The catch block allows you to define a block of code to be executed, if an error
   
   What are the advantages of Multithreading?<br>
  1. Threads are lightweight which has a low memory footprint<br>
-2. The cost of communication between threads is low.<br>
+2. The cost of communication between threads is low<br>
 3. Access to memory state from another context is easier<br>
 4. It allows you to make responsive UIs easily<br>
-5. Takes lesser time to create a new thread in the existing process than a new process<br>
+5. Allows multiple operations to perform at once<br>
+6. Saves time for excution of multiple operations<br>
   
   What are different thread priorities?<br>
   Min priority: 1<br>
