@@ -633,6 +633,7 @@ Process does not share data, and Threads share data with each other.
 6. Saves time for excution of multiple operations<br>
   
   What is the difference between Multithreading and Multiprocessing?<br>
+  
   ![image](https://user-images.githubusercontent.com/72852725/204063885-56afaf28-920e-4f0c-a3b8-99f4a19abe74.png)
 
   What are different thread priorities?<br>
@@ -654,5 +655,13 @@ Terminated: When the thread is dead, it will be known as “terminated” state.
   
   Everything to explore multithreading: https://techvidvan.com/tutorials/java-multithreading/
   
+  What are the different thread methods?<br>
+  start() – Starts the thread.<br>
+getState() – It returns the state of the thread.<br>
+getName() – It returns the name of the thread.<br>
+getPriority() – It returns the priority of the thread.<br>
+sleep() – Stop the thread for the specified time.<br>
+Join() – Stop the current thread until the called thread gets terminated.<br>
+isAlive() – Check if the thread is alive.<br>
   
 
