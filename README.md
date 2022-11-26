@@ -674,4 +674,5 @@ inner class or nested class is a class that is declared entirely within the body
  B. Static nested class<br>
    4. Static inner class: class inside class with static keyword
   
-  
+What happens if we start thread multiple times?<br>
+Program will throw IllegalThreadException error.
