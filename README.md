@@ -616,7 +616,7 @@ Process does not share data, and Threads share data with each other.
   What is Multi tasking?<br>
   Multitasking is the capability of an Operating System to execute more the one task or job simultaneously on a shared resource.
   
-    What is Multi processing?<br>
+  What is Multi processing?<br>
   Multiprocessing refers to the ability of a system to run multiple processors concurrently, where each processor can run one or more threads.
   
   What is Multi threading?<br>
