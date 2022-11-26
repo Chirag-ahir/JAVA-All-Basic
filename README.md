@@ -655,6 +655,9 @@ Terminated: When the thread is dead, it will be known as “terminated” state.
   
   Everything to explore multithreading: https://techvidvan.com/tutorials/java-multithreading/
   
+  What is Thread scheduler?<br>
+  Thread scheduler in Java is the component of JVM that determines the execution order of multiple threads on a single processor (CPU). It decides the order in which threads should run. This process is called thread scheduling in Java.
+  
   What are the different thread methods?<br>
   start() – Starts the thread.<br>
 getState() – It returns the state of the thread.<br>
@@ -666,13 +669,12 @@ isAlive() – Check if the thread is alive.<br>
   
 What is Java inner class?<br>
 inner class or nested class is a class that is declared entirely within the body of another class or interface. There are basically four types of inner classes in java<br>
-  
- A. Non-static nested class (inner class)
   1. Member inner class: class inside class<br>
   2. Anonymous inner class: A class created for implementing an interface or extending class. JVM decide it's name.<br>
   3. Local inner class: class inside method<br>
- B. Static nested class<br>
   4. Static inner class: class inside class with static keyword
   
 What happens if we start thread multiple times?<br>
 Program will throw IllegalThreadException error.
+  
+
