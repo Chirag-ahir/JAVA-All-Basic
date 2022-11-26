@@ -667,6 +667,9 @@ sleep() – Stop the thread for the specified time.<br>
 Join() – Stop the current thread until the called thread gets terminated.<br>
 isAlive() – Check if the thread is alive.<br>
   
+  What is main thread?<br>
+  The Main thread in Java is the one that begins executing when the program starts.
+  
 What is Java inner class?<br>
 inner class or nested class is a class that is declared entirely within the body of another class or interface. There are basically four types of inner classes in java<br>
   1. Member inner class: class inside class<br>
