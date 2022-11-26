@@ -664,4 +664,14 @@ sleep() – Stop the thread for the specified time.<br>
 Join() – Stop the current thread until the called thread gets terminated.<br>
 isAlive() – Check if the thread is alive.<br>
   
-
+What is Java inner class?<br>
+inner class or nested class is a class that is declared entirely within the body of another class or interface. There are basically four types of inner classes in java<br>
+  
+ A. Non-static nested class (inner class)
+   1. Member inner class: class inside class<br>
+   2. Anonymous inner class: A class created for implementing an interface or extending class. JVM decide it's name.
+   3. Local inner class: class inside method<br>
+ B. Static nested class
+   4. Static inner class: class inside class with static keyword
+  
+  
