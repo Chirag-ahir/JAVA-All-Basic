@@ -671,7 +671,7 @@ inner class or nested class is a class that is declared entirely within the body
    1. Member inner class: class inside class<br>
    2. Anonymous inner class: A class created for implementing an interface or extending class. JVM decide it's name.
    3. Local inner class: class inside method<br>
- B. Static nested class
+ B. Static nested class<br>
    4. Static inner class: class inside class with static keyword
   
   
