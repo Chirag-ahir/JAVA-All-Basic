@@ -517,7 +517,7 @@ Assignment gives a variable a value at some point after the variable is created 
   Upcasting is a type of object typecasting in which a child object is typecasted to a parent class object.
   
   What is Downcasting ?<br>
-  Downcasting means the typecasting of a parent object is typecasted to a child object. Downcasting cannot be implicit.
+  Downcasting means the typecasting of a parent object to a child object. Downcasting cannot be implicit.
 
   What is Loose coupling?<br>
   Loose coupling in Java means that the classes are independent of each other.
