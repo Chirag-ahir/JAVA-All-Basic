@@ -29,8 +29,8 @@ What is Instance method?<br>
 The method of the class is known as an instance method.
 
 >What is Inheritance ?<br>
-
-Inheritance is a mechanism in which child class acquires the property of parenparent class.
+>
+Inheritance is a mechanism in which child class acquires the property of parent class.
 
 >What is Polymorphism ?<br>
 
