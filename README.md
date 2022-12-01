@@ -702,3 +702,15 @@ Which is the native method in Thread.sleep()?<br>
 
  What is Daemon thread in java?<br>
  Daemon thread is a low-priority thread that continuously running in the background to perform tasks such as garbage collection. It's life depands on the user threads.
+
+  How can we implement Daemon thread in Java?<br>
+  By using the method thread.setDaemon() we can implement daemon thread.  For example, if I have a user thread tU then tU. setDaemon(true) would make it a Daemon thread.
+  
+  What are the different Daemon thread methods?<br>
+  setDaemon(boolean status) : Marks this thread as either a daemon thread or a user thread(non-daemon thread).<br>
+  isDaemon() : Used to test if this thread is a daemon thread or not. Returns true if the thread is Daemon else false.
+  
+  What if we set our current thread as a Daemon thread(t1.setDaemon(true)) after starting(t1.start()) it ?<br>
+  It will throw IllegalThreadStateException error. Note: If you want to make a user thread as Daemon, it must not be started otherwise it will throw IllegalThreadStateException.
+  
+  
