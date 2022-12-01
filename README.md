@@ -681,7 +681,7 @@ inner class or nested class is a class that is declared entirely within the body
   4. Static inner class: class inside class with static keyword
   
 What happens if we start thread multiple times?<br>
-Program will throw IllegalThreadException error.
+Program will throw IllegalThreadStateException error.
   
 Which is the native method in Thread.sleep()?<br>
   The method sleep() with the one parameter is the native method, and the implementation of the native method is accomplished in another programming language. The other methods having the two parameters are not the native method.
@@ -699,3 +699,6 @@ Which is the native method in Thread.sleep()?<br>
   What is the difference between thread.yield() and thread.join() ?<br>
   Yield tells the currently executing thread to give a chance to the threads that have equal priority in the Thread Pool while Join method in Java allows one thread to wait until another thread completes its execution. Yield method <br>
   Yield method only put a thread from Running State to Runnable State, not in wait or blocked state while Join method put current thread into blocking state until thread instance finish execution.
+
+  What is IllegalArgumentException in Thread?<br>
+  If the value of the parameter newPriority of the method setPriority() goes out of the range (1 to 10), then we get the IllegalArgumentException. IllegalArgumentException is a Java exception indicating that a method has received an argument that is invalid or inappropriate for this method's purposes.
