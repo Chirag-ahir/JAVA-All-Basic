@@ -670,6 +670,9 @@ isAlive() – Check if the thread is alive.<br>
   What is main thread?<br>
   The Main thread in Java is the one that begins executing when the program starts.
   
+  What is yield method in thread?<br>
+  A yield() method is a static method of Thread class and it can stop the currently executing thread and will give a chance to other waiting threads of the same priority.
+  
 What is Java inner class?<br>
 inner class or nested class is a class that is declared entirely within the body of another class or interface. There are basically four types of inner classes in java<br>
   1. Member inner class: class inside class<br>
