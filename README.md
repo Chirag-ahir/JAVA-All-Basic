@@ -366,9 +366,6 @@ An executing instance of a proram is called a process.
 What is Garbage collection in Java ?<br>
 Garbage collection is the mechanism used in Java to de-allocate unused memory, which is nothing but clear the space consumed by unused objects.
   
-Explain Daemon thread <br>
-The daemon thread can be defined as a thread with least priority. This Daemon thread is designed at runtime in the background during the process of Garbage collection. 
-  
 What is enumeration in Java ?<br>
 An enumeration in Java is a special data type which contains a set of predefined constants.
 
@@ -702,3 +699,6 @@ Which is the native method in Thread.sleep()?<br>
 
   What is IllegalArgumentException in Thread?<br>
   If the value of the parameter newPriority of the method setPriority() goes out of the range (1 to 10), then we get the IllegalArgumentException. IllegalArgumentException is a Java exception indicating that a method has received an argument that is invalid or inappropriate for this method's purposes.
+
+ What is Daemon thread in java?<br>
+ Daemon thread is a low-priority thread that continuously running in the background to perform tasks such as garbage collection. It's life depands on the user threads.
