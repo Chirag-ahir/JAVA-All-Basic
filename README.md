@@ -683,4 +683,19 @@ inner class or nested class is a class that is declared entirely within the body
 What happens if we start thread multiple times?<br>
 Program will throw IllegalThreadException error.
   
+Which is the native method in Thread.sleep()?<br>
+  The method sleep() with the one parameter is the native method, and the implementation of the native method is accomplished in another programming language. The other methods having the two parameters are not the native method.
+  
+  Which is the preferabble way to implement thread in Java?<br>
+  By implementing Runnable interface is a better way to create a thread in java because when we create a thread by extending Thread class, all Thread class methods are inherited while we can perform the task with the one method (run method) only. It results into overhead inheritance.<br>
+  Thread class has lots of methods in it so if you extend the Thread class then your class gets all the methods of Thread class in your code as it is clear that your code has unnecessary burden and the methods which we are not going to use from Thread class , so why to keep the burden on JVM .
+  
+  What is the difference between Thread.run() and Thread.start() ?<br>
+  When a program calls the start() method, a new thread is created and then the run() method is executed. But if we directly call the run() method then no new thread will be created and run() method will be executed as a normal method call on the current calling thread itself and no multi-threading will take place.
 
+  Which exception we are using in thread.sleep() method?<br>
+  Whenever thread.sleep() method executes, it always pauses the current thread execution. If any other thread interrupts when the thread is sleeping, then InterruptedException will be thrown.
+  
+  What is the difference between thread.yield() and thread.join() ?<br>
+  Yield tells the currently executing thread to give a chance to the threads that have equal priority in the Thread Pool while Join method in Java allows one thread to wait until another thread completes its execution. Yield method <br>
+  Yield method only put a thread from Running State to Runnable State, not in wait or blocked state while Join method put current thread into blocking state until thread instance finish execution.
