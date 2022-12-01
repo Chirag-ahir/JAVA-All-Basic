@@ -694,7 +694,7 @@ Which is the native method in Thread.sleep()?<br>
   Whenever thread.sleep() method executes, it always pauses the current thread execution. If any other thread interrupts when the thread is sleeping, then InterruptedException will be thrown.
   
   What is the difference between thread.yield() and thread.join() ?<br>
-  Yield tells the currently executing thread to give a chance to the threads that have equal priority in the Thread Pool while Join method in Java allows one thread to wait until another thread completes its execution. Yield method <br>
+  Yield tells the currently executing thread to give a chance to the threads that have equal priority in the Thread Pool while Join method in Java allows one thread to wait until another thread completes its execution.<br>
   Yield method only put a thread from Running State to Runnable State, not in wait or blocked state while Join method put current thread into blocking state until thread instance finish execution.
 
   What is IllegalArgumentException in Thread?<br>
