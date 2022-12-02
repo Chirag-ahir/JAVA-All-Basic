@@ -713,4 +713,10 @@ Which is the native method in Thread.sleep()?<br>
   What if we set our current thread as a Daemon thread(t1.setDaemon(true)) after starting(t1.start()) it ?<br>
   It will throw IllegalThreadStateException error. Note: If you want to make a user thread as Daemon, it must not be started otherwise it will throw IllegalThreadStateException.
   
-  
+  What is Thread pool in java?<br>
+  Java Thread pool represents a group of worker threads that are waiting for the job and reused many times. There are three thread pool methods<br>
+  1. newFixedThreadPool(int)   
+  2. newCachedThreadPool()
+  3. newSingleThreadExecutor()
+
+
