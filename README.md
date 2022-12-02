@@ -725,3 +725,6 @@ Execute Method has a return type of void while Submit Method has a return type o
 
   What is the use of executorService.shutdown() method ?<br>
   Once you call the shutdown() method task executor will not accept further task and it'll shut down after all running threads finish their current work.
+
+  Whats is ThreadGroup?<br>
+  A ThreadGroup represents a set of threads. It offers a convenient way to manage groups of threads as a unit.
