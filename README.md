@@ -722,3 +722,6 @@ Which is the native method in Thread.sleep()?<br>
 What is the difference between executorService.execute and executerService.submit method in java thread pool?<br>
 Execute Method can accept only runnable task while Submit Method can accept both runnable and callable tasks.<br>
 Execute Method has a return type of void while Submit Method has a return type of Future. 
+
+  What is the use of executorService.shutdown() method ?<br>
+  Once you call the shutdown() method task executor will not accept further task and it'll shut down after all running threads finish their current work.
