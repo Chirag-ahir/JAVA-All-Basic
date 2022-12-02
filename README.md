@@ -719,4 +719,6 @@ Which is the native method in Thread.sleep()?<br>
   2. newCachedThreadPool()
   3. newSingleThreadExecutor()
 
-
+What is the difference between executorService.execute and executerService.submit method in java thread pool?<br>
+Execute Method can accept only runnable task while Submit Method can accept both runnable and callable tasks.<br>
+Execute Method has a return type of void while Submit Method has a return type of Future. 
