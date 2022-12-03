@@ -730,7 +730,11 @@ Execute Method has a return type of void while Submit Method has a return type o
   A ThreadGroup represents a set of threads. It offers a convenient way to manage groups of threads as a unit.
   
   What is Deadlock in java?<br>
-  Deadlock in Java is a condition where two or more threads are blocked forever, waiting for each other.
+  Deadlock in Java is a condition where two or more threads are blocked forever, waiting for each other - Or - Deadlock is a situation where multiple threads are waiting for eachother to complete their operation. <br>
+
+First object locked resource 1 and second object locked resource 2<br>
+Now first object trying to access resource 2 which is acquired by second object<br>
+and second object trying to access resource 1 which is acquired by first object. 
   
   What is thread leakage ?<br>
   Thread leakage is when we dont close the thread properly then the number of unused threads grows with time.
