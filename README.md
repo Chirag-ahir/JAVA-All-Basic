@@ -738,3 +738,6 @@ and second object trying to access resource 1 which is acquired by first object.
   
   What is thread leakage ?<br>
   Thread leakage is when we dont close the thread properly then the number of unused threads grows with time.
+
+What is Threadgroup?<br>
+Threadgroup is a mechanism for collecting multiple threads into a single object and manipulating those threads all at once, rather than individually. For example, you can start or suspend all the threads within a group with a single method call.
