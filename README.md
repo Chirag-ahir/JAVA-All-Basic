@@ -744,3 +744,10 @@ Threadgroup is a mechanism for collecting multiple threads into a single object 
 
 What is Synchronisation?<br>
 Synchronisation in java is the capability to control the access of multiple threads to any resource. 
+
+What is synchronization?<br>
+Synchronization in Java is the capability to control the access of multiple threads to any shared resource. There are two types of synchronization<br>
+1. Process Synchronization<br>
+2. Thread synchronization
+
+
