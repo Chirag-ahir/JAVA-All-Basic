@@ -752,3 +752,6 @@ Synchronization in Java is the capability to control the access of multiple thre
 
 What is Generics in java?<br>
 A Generic class simply means that the items or functions in that class can be generalized with the parameter(example T) to specify that we can add any type as a parameter in place of T like Integer, Character, String, Double or any other user-defined type.
+  
+  What is shutdown hook in java?<br>
+  Shutdown Hooks are a special construct that allows developers to plug in a piece of code to be executed when the JVM is shutting down.
