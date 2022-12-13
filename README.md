@@ -755,3 +755,6 @@ A Generic class simply means that the items or functions in that class can be ge
   
   What is shutdown hook in java?<br>
   Shutdown Hooks are a special construct that allows developers to plug in a piece of code to be executed when the JVM is shutting down.
+
+  What is the difference between thread.sleep() and thread.wait() ?<br>
+  The Sleep () method is related to the Thread class that is used to stop the execution of the current Thread for few seconds. it will send current thread into runnable state. The Wait() method is related to the Object class. The Wait() method is responsible for sending the calling thread into the waiting state. The Thread remains in the waiting state until another thread doesn't invoke the notify() or notifyAll() method for that object.
