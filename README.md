@@ -674,6 +674,9 @@ inner class or nested class is a class that is declared entirely within the body
   3. Local inner class: class inside method<br>
   4. Static inner class: class inside class with static keyword
   
+What is anonymous class?<br>
+A nested class that doesn't have any name is known as an anonymous class. An anonymous class must be defined inside another class. Hence, it is also known as an anonymous inner class.
+  
 What happens if we start thread multiple times?<br>
 Program will throw IllegalThreadStateException error.
   
@@ -755,3 +758,9 @@ A Generic class simply means that the items or functions in that class can be ge
 
   What is Hashmap ?<br>
   Java HashMap is a class which is used to perform operations such as inserting, deleting and locating elements in a map. We create a map, where we pass two kinds of values which are 'key' and 'value'.
+  
+  what is the difference between hashmap and hashtable ?<br>
+  HashMap is non-syncronized and is not thread safe while HashTable is thread safe and is synchronized. HashMap allows one null key and values can be null whereas HashTable doesn't allow null key or value. HashMap is faster than HashTable.
+  
+  What is Garbage collection in java ?<br>
+  Garbage Collection is the process of reclaiming the runtime unused memory by destroying the unused objects, in java it is performed automatically.
