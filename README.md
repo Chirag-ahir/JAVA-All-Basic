@@ -718,10 +718,17 @@ Which is the native method in Thread.sleep()?<br>
   1. newFixedThreadPool(int)   
   2. newCachedThreadPool()
   3. newSingleThreadExecutor()
+  
+What is the difference between newFixedThreadPool and newCatchedThreadPool ?<br>
+In newFixedThreadPool will keep all the threads running until they are explicitly terminated. In the newCachedThreadPool Threads that have not been used for sixty seconds are terminated and removed from the cache.
+<a href = "https://stackoverflow.com/questions/949355/executors-newcachedthreadpool-versus-executors-newfixedthreadpool#:~:text=In%20terms%20of%20resources%2C%20the%20newFixedThreadPool%20will%20keep%20all%20the%20threads%20running%20until%20they%20are%20explicitly%20terminated.%20In%20the%20newCachedThreadPool%20Threads%20that%20have%20not%20been%20used%20for%20sixty%20seconds%20are%20terminated%20and%20removed%20from%20the%20cache.">Detailed annswer</a>
 
 What is the difference between executorService.execute and executerService.submit method in java thread pool?<br>
 Execute Method can accept only runnable task while Submit Method can accept both runnable and callable tasks.<br>
 Execute Method has a return type of void while Submit Method has a return type of Future. 
+  
+ What is the difference between runnnable and collable class ?<br>
+ A callable interface throws the checked exception and returns the result. A runnable interface, on the other hand, does not return a result and cannot throw a checked exception
 
   What is the use of executorService.shutdown() method ?<br>
   Once you call the shutdown() method task executor will not accept further task and it'll shut down after all running threads finish their current work.
@@ -764,3 +771,6 @@ A Generic class simply means that the items or functions in that class can be ge
   
   What is Garbage collection in java ?<br>
   Garbage Collection is the process of reclaiming the runtime unused memory by destroying the unused objects, in java it is performed automatically.
+
+  What is the difference between SchedulerWithfixedRate and SchedulerWithfixedDelay ?<br>
+  FixedDelay guarantees that executions happen in sequence and that there's a delay between the end of the previous execution and the start of the new one. With in fixedRate It guarantees that new execution starts after the specified time passed after the start of the previous.
