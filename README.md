@@ -395,9 +395,6 @@ Session management refers to the process of securely handling multiple requests 
 
 What is Spring Framework ?<br>
 The Spring Framework is an application framework and inversion of control container for the Java platform.
-
-What is Synchronization ?<br>
-Synchronization in java is the capability to control the access of multiple threads to any shared resource.
   
   What is Lambada Expression ?<br>
 A lambda expression is a short block of code which takes in parameters and returns a value. Lambda expressions are similar to methods, but they do not need a name and they can be implemented right in the body of a method.
