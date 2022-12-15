@@ -142,6 +142,12 @@ DataType : A data type, in programming, is a classification that specifies which
 > Local variables are declared in methods, constructors, or blocks.
 
 > Class variables also known as static variables are declared with the static keyword in a class, but outside a method, constructor or a block.
+  
+  What is instance variable ?<br>
+  Instance variables in Java are non-static variables which are defined in a class outside any method, constructor or a block.
+  
+  What is the difference between Instance variable and class variable?<br>
+  In case of instance variable Every object will have its own copy of instance variables, hence changes made to these variables through one object will not reflect in another object while Class variables are common to all objects of a class, if any changes are made to these variables through object, it will reflect in other objects as well. <a href="https://www.edureka.co/blog/instance-variable-in-java/">Detailed demo</br>
 
 **What is Constructor?**<br>
   A constructor is a special method that is used to initialize objects. The constructor is called when an object of a class is created.
@@ -746,15 +752,7 @@ and second object trying to access resource 1 which is acquired by first object.
 
 What is Thread Group?<br>
 Threadgroup is a mechanism for collecting multiple threads into a single object and manipulating those threads all at once, rather than individually. For example, you can start or suspend all the threads within a group with a single method call.
-
-What is Synchronisation?<br>
-Synchronisation in java is the capability to control the access of multiple threads to any resource. 
-
-What is synchronization?<br>
-Synchronization in Java is the capability to control the access of multiple threads to any shared resource. There are two types of synchronization<br>
-1. Process Synchronization<br>
-2. Thread synchronization
-
+  
 What is Generics in java?<br>
 A Generic class simply means that the items or functions in that class can be generalized with the parameter(example T) to specify that we can add any type as a parameter in place of T like Integer, Character, String, Double or any other user-defined type.
   
@@ -775,3 +773,15 @@ A Generic class simply means that the items or functions in that class can be ge
 
   What is the difference between SchedulerWithfixedRate and SchedulerWithfixedDelay ?<br>
   FixedDelay guarantees that executions happen in sequence and that there's a delay between the end of the previous execution and the start of the new one. With in fixedRate It guarantees that new execution starts after the specified time passed after the start of the previous.
+  
+  What is synchronization?<br>
+Synchronization in Java is the capability to control the access of multiple threads to any shared resource. There are two types of synchronization<br>
+1. Process Synchronization<br>
+2. Thread synchronization
+  
+ What is the difference between synchronized block and synchronized method ?<br>
+ A synchronized method assigns an object-level or class-level corresponding lock. And synchronized block assign a lock to the object based on the parameter.<br>
+A synchronized method lock on the entire functionality of the method concerned. And a synchronized block is used to acquire the lock on a small number of the consecutive statement.
+
+  What is static synchronization ?<br>
+  In simple words a static synchronized method will lock the class instead of the object, and it will lock the class because the keyword static means: "class instead of instance". 
