@@ -752,3 +752,6 @@ A Generic class simply means that the items or functions in that class can be ge
 
   What is the difference between thread.sleep() and thread.wait() ?<br>
   The Sleep () method is related to the Thread class that is used to stop the execution of the current Thread for few seconds. it will send current thread into runnable state. The Wait() method is related to the Object class. The Wait() method is responsible for sending the calling thread into the waiting state. The Thread remains in the waiting state until another thread doesn't invoke the notify() or notifyAll() method for that object.
+
+  What is Hashmap ?<br>
+  Java HashMap is a class which is used to perform operations such as inserting, deleting and locating elements in a map. We create a map, where we pass two kinds of values which are 'key' and 'value'.
