@@ -725,9 +725,6 @@ Execute Method has a return type of void while Submit Method has a return type o
 
   What is the use of executorService.shutdown() method ?<br>
   Once you call the shutdown() method task executor will not accept further task and it'll shut down after all running threads finish their current work.
-
-  Whats is ThreadGroup?<br>
-  A ThreadGroup represents a set of threads. It offers a convenient way to manage groups of threads as a unit.
   
   What is Deadlock in java?<br>
   Deadlock in Java is a condition where two or more threads are blocked forever, waiting for each other - Or - Deadlock is a situation where multiple threads are waiting for eachother to complete their operation. <br>
@@ -739,7 +736,7 @@ and second object trying to access resource 1 which is acquired by first object.
   What is thread leakage ?<br>
   Thread leakage is when we dont close the thread properly then the number of unused threads grows with time.
 
-What is Threadgroup?<br>
+What is Thread Group?<br>
 Threadgroup is a mechanism for collecting multiple threads into a single object and manipulating those threads all at once, rather than individually. For example, you can start or suspend all the threads within a group with a single method call.
 
 What is Synchronisation?<br>
