@@ -793,4 +793,7 @@ A synchronized method lock on the entire functionality of the method concerned. 
   corepool size is the  minumum number of threads that remain active at any given point of time. 
   
   What is maxpool size?<br>
- maxpool size defines the maximum number of threads as that can ever be created. 
+ maxpool size defines the maximum number of threads as that can ever be created. \
+  
+  What is Thread safe in java ?<br>
+  Thread safe means that a method or class instance can be used by multiple threads at the same time without any problems occurring. Where as Synchronized means only one thread can operate at single time.
