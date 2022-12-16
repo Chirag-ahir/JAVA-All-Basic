@@ -785,3 +785,6 @@ A synchronized method lock on the entire functionality of the method concerned. 
 
   What is static synchronization ?<br>
   In simple words a static synchronized method will lock the class instead of the object, and it will lock the class because the keyword static means: "class instead of instance". 
+  
+  What is Race condition in java ?<br>
+  Race condition in Java occurs in a multi-threaded environment when more than one thread try to access a shared resource (modify, write) at the same time.
