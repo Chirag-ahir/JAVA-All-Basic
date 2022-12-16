@@ -779,6 +779,10 @@ Synchronization in Java is the capability to control the access of multiple thre
 1. Process Synchronization<br>
 2. Thread synchronization
   
+  Why we use synchronization?<br>
+1. To prevent thread interference.
+2. To prevent consistency problem.
+  
  What is the difference between synchronized block and synchronized method ?<br>
  A synchronized method assigns an object-level or class-level corresponding lock. And synchronized block assign a lock to the object based on the parameter.<br>
 A synchronized method lock on the entire functionality of the method concerned. And a synchronized block is used to acquire the lock on a small number of the consecutive statement.
