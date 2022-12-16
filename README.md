@@ -788,3 +788,9 @@ A synchronized method lock on the entire functionality of the method concerned. 
   
   What is Race condition in java ?<br>
   Race condition in Java occurs in a multi-threaded environment when more than one thread try to access a shared resource (modify, write) at the same time.
+
+  What is corepool size?<br>
+  corepool size is the  minumum number of threads that remain active at any given point of time. 
+  
+  What is maxpool size?<br>
+ maxpool size defines the maximum number of threads as that can ever be created. 
