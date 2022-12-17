@@ -372,6 +372,10 @@ An executing instance of a proram is called a process.
 What is Garbage collection in Java ?<br>
 Garbage collection is the mechanism used in Java to de-allocate unused memory, which is nothing but clear the space consumed by unused objects.
   
+  why we use GC ?<br>
+  It makes java memory efficient because garbage collector removes the unreferenced objects from heap memory.<br>
+  Developers not need to worry about explicit memory management because JVM does it automatically.
+  
 What is enumeration in Java ?<br>
 An enumeration in Java is a special data type which contains a set of predefined constants.
 
