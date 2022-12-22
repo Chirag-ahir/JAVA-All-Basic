@@ -859,3 +859,5 @@ what is filter reader?<br>
   What is deserialization?<br>
   The reverse operation of serialization is called deserialization where byte-stream is converted into an object. For deserializing the object, we call the readObject() method of ObjectInputStream class.
   
+What is transient keyword in serialization?<br>
+  The transient keyword can be used with the data members of a class in order to avoid their serialization.
