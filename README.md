@@ -817,3 +817,18 @@ A synchronized method lock on the entire functionality of the method concerned. 
   
   what is flush() method in java io?<br>
   It flushes the current output stream and forces any buffered output to be written out.
+
+what is buffered output stream?<br>
+Java BufferedOutputStream class is used for buffering an output stream. It internally uses buffer to store data. It makes the performance fast. 
+ 
+ what is buffered input stream?<br>
+ Java BufferedInputStream class is used to read information from stream. It internally uses buffer mechanism to make the performance fast.
+ 
+ what is sequence input stream class?<br>
+ Java SequenceInputStream class is used to read data from multiple streams. It reads data sequentially
+
+What is byte array output stream?<br>
+Java ByteArrayOutputStream class is used to write common data into multiple files. In this stream, the data is written into a byte array which can be written to multiple streams later.
+
+what is byte array input stream?<br>
+The ByteArrayInputStream is composed of two words: ByteArray and InputStream. As the name suggests, it can be used to read byte array as input stream.
