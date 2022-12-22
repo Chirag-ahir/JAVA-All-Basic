@@ -812,4 +812,5 @@ A synchronized method lock on the entire functionality of the method concerned. 
   what is file output stream in java?<br>
   It is an abstract superclass of the java.io package and writes data to an output resource. In other words, writing the data into the files.
   
-  
+  what is try with resources in java ?<br>
+  In Java, the try-with-resources statement is a try statement that declares one or more resources. The try-with-resources statement ensures that each resource is closed at the end of the statement execution.
