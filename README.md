@@ -835,3 +835,10 @@ The ByteArrayInputStream is composed of two words: ByteArray and InputStream. As
   
   what is data input stream?<br>
   Java DataInputStream class allows an application to read primitive data from the input stream in a machine-independent way.
+
+  what is file writer in java?<br>
+  Java FileWriter class is used to write character-oriented data to a file. It is character-oriented class which is used for file handling in java.
+  
+  what is file reader in java?<br>
+  Java FileReader class is used to read data from the file. It returns data in byte format like FileInputStream class.
+
