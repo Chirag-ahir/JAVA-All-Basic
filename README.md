@@ -842,3 +842,8 @@ The ByteArrayInputStream is composed of two words: ByteArray and InputStream. As
   what is file reader in java?<br>
   Java FileReader class is used to read data from the file. It returns data in byte format like FileInputStream class.
 
+what is filter writer?<br>
+Java FilterWriter class is an abstract class which is used to write filtered character streams.
+
+what is filter reader?<br>
+  Java FilterReader is used to perform filtering operation on reader stream. It is an abstract class for reading filtered character streams.
