@@ -865,3 +865,7 @@ What is transient keyword in serialization?<br>
   What is reflaction in java?<br>
   Java Reflection is a process of examining or modifying the run time behavior of a class at run time.
 
+  What is newInstance() method  ?<br>
+  The newInstance() method of Class class and Constructor class is used to create a new instance of the class.
+
+
