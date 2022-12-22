@@ -873,3 +873,6 @@ what is serial version id?<br>
   
   What is externalization in java ?<br>
   Externalization in Java is used whenever you need to customize the serialization mechanism. If a class implements an Externalizable interface, then serialization of the object will be done using the method writeExternal().
+
+  what is reflection in java?<br>
+  Reflection in Java is an API(Application Programming Interface) that is used at runtime to analyze or change classes, methods, and interfaces. It is a process of examining or modifying the run time behavior of a class at run time.
