@@ -814,3 +814,6 @@ A synchronized method lock on the entire functionality of the method concerned. 
   
   what is try with resources in java ?<br>
   In Java, the try-with-resources statement is a try statement that declares one or more resources. The try-with-resources statement ensures that each resource is closed at the end of the statement execution.
+  
+  what is flush() method in java io?<br>
+  It flushes the current output stream and forces any buffered output to be written out.
