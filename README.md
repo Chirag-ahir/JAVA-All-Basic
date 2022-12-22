@@ -805,3 +805,11 @@ A synchronized method lock on the entire functionality of the method concerned. 
   
   What is Thread safe in java ?<br>
   Thread safe means that a method or class instance can be used by multiple threads at the same time without any problems occurring. Where as Synchronized means only one thread can operate at single time.
+
+  what is file input stream in java ?<br>
+  It is an abstract superclass of the java.io package and is used to read the data from an input source.
+  
+  what is file output stream in java?<br>
+  It is an abstract superclass of the java.io package and writes data to an output resource. In other words, writing the data into the files.
+  
+  
