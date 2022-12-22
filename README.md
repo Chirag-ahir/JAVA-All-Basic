@@ -868,4 +868,8 @@ What is transient keyword in serialization?<br>
   What is newInstance() method  ?<br>
   The newInstance() method of Class class and Constructor class is used to create a new instance of the class.
 
-
+what is serial version id?<br>
+  SerialVersionUID is a unique identifier for each class, JVM uses it to compare the versions of the class ensuring that the same class was used during Serialization is loaded during Deserialization. Specifying one gives more control, though JVM does generate one if you don't specify.
+  
+  What is externalization in java ?<br>
+  Externalization in Java is used whenever you need to customize the serialization mechanism. If a class implements an Externalizable interface, then serialization of the object will be done using the method writeExternal().
