@@ -861,3 +861,7 @@ what is filter reader?<br>
   
 What is transient keyword in serialization?<br>
   The transient keyword can be used with the data members of a class in order to avoid their serialization.
+
+  What is reflaction in java?<br>
+  Java Reflection is a process of examining or modifying the run time behavior of a class at run time.
+
