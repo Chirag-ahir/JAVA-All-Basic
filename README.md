@@ -832,3 +832,6 @@ Java ByteArrayOutputStream class is used to write common data into multiple file
 
 what is byte array input stream?<br>
 The ByteArrayInputStream is composed of two words: ByteArray and InputStream. As the name suggests, it can be used to read byte array as input stream.
+  
+  what is data input stream?<br>
+  Java DataInputStream class allows an application to read primitive data from the input stream in a machine-independent way.
