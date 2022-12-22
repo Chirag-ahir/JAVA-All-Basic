@@ -847,3 +847,15 @@ Java FilterWriter class is an abstract class which is used to write filtered cha
 
 what is filter reader?<br>
   Java FilterReader is used to perform filtering operation on reader stream. It is an abstract class for reading filtered character streams.
+
+  
+  
+  ===============================MOST IMP==================================
+  
+  
+  What is serialization<br>
+  Serialization in Java is a mechanism of writing the state of an object into a byte-stream. For serializing the object, we call the writeObject() method of ObjectOutputStream class. 
+  
+  What is deserialization?<br>
+  The reverse operation of serialization is called deserialization where byte-stream is converted into an object. For deserializing the object, we call the readObject() method of ObjectInputStream class.
+  
