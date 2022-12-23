@@ -876,3 +876,6 @@ what is serial version id?<br>
 
   what is reflection in java?<br>
   Reflection in Java is an API(Application Programming Interface) that is used at runtime to analyze or change classes, methods, and interfaces. It is a process of examining or modifying the run time behavior of a class at run time.
+  
+  what is the difference between serialization and externalization ?<br>
+  serialization interface passes the responsibity of serialization to jvm and the programmer has no control over serialization while externalizable interface provides all serialization responsibilities to a programmer and hence jvm has no control over serialization. 
