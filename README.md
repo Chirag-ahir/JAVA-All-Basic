@@ -279,6 +279,9 @@ An empty interface in Java is referred as a Marker interface. Serializable and C
   What is Functional Interface ?<br>
   An interface that contains only one abstract method is known as functional interface. It can have any number of default and static methods.<br>
   
+  what is consumer interface ?<br>
+  consumer interface represents an operation that accepts a single input argument and returns no result.
+  
   Following are the functional interface instroduced in the Java8<br>
   1. Function<br>
   2. Predicate<br>
@@ -881,10 +884,7 @@ what is serial version id?<br>
   serialization interface passes the responsibity of serialization to jvm and the programmer has no control over serialization while externalizable interface provides all serialization responsibilities to a programmer and hence jvm has no control over serialization. 
 
    =============================== COLLECTIONS ==================================
-  
-  Arraylist is not a threadsafe
-  
-  
+
   what is collection ? <br>
   The Collection in Java is a framework that provides an architecture to store and manipulate the group of objects.
   
