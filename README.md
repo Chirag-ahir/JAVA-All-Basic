@@ -15,7 +15,7 @@ What is Array?<br>
 Arrays are objects that store multiple variables of the same type. Arrays are of fixed size.
 
 What is ArrayList?<br>
-An ArrayList class is a resizable array, which is present in the java. util package. While built-in arrays have a fixed size, ArrayLists can change their size dynamically. 
+An ArrayList class is a resizable array, which is present in the java. util package. While built-in arrays have a fixed size, ArrayLists can change their size dynamically. Arraylist is not a threadsafe
 
 **Method:** A method is a block of code or collection of statements to perform a certain task or operation. Used to achieve the reusability of code.
 >Method Overloading: If a class has multiple methods having same name but different in parameters, it is known as Method Overloading.<br>
@@ -879,3 +879,14 @@ what is serial version id?<br>
   
   what is the difference between serialization and externalization ?<br>
   serialization interface passes the responsibity of serialization to jvm and the programmer has no control over serialization while externalizable interface provides all serialization responsibilities to a programmer and hence jvm has no control over serialization. 
+
+   =============================== COLLECTIONS ==================================
+  
+  Arraylist is not a threadsafe
+  
+  
+  what is collection ? <br>
+  The Collection in Java is a framework that provides an architecture to store and manipulate the group of objects.
+  
+  what is the difference between collection and collections ? <br>
+  Collection is the interface where you group objects into a single unit. Collections is a utility class that has some set of operations you perform on Collection. 
