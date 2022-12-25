@@ -9,13 +9,18 @@ There are 3 ways to initialize object in Java.<br>
 2. By Method<br>
 3. By constructor
 
+There are 3 ways to get object of Class class.<br>
+1. forName() method of Class class
+2. getClass() method of Object class
+3. the .class syntax
+
 >**Class:** A class is a group of objects which have common properties or Class is a Blueprint, which holds it's own data members and members function. It's a Logical entity.
 
 What is Array?<br>
 Arrays are objects that store multiple variables of the same type. Arrays are of fixed size.
 
 What is ArrayList?<br>
-An ArrayList class is a resizable array, which is present in the java. util package. While built-in arrays have a fixed size, ArrayLists can change their size dynamically. Arraylist is not a threadsafe
+An ArrayList class is a resizable array, which is present in the java.util package. While built-in arrays have a fixed size, ArrayLists can change their size dynamically. Arraylist is not a threadsafe
 
 **Method:** A method is a block of code or collection of statements to perform a certain task or operation. Used to achieve the reusability of code.
 >Method Overloading: If a class has multiple methods having same name but different in parameters, it is known as Method Overloading.<br>
@@ -42,7 +47,6 @@ Two types of Polymorphism in Java
 
 
 ![image](https://user-images.githubusercontent.com/72852725/199137766-3334cbab-857a-4f98-b9a6-6aca76a6ef89.png)
-
 
 >What is Abstraction ? <br>
 
