@@ -851,7 +851,9 @@ Java FilterWriter class is an abstract class which is used to write filtered cha
 what is filter reader?<br>
   Java FilterReader is used to perform filtering operation on reader stream. It is an abstract class for reading filtered character streams.
 
-  
+  what is the difference between buffer input stream and file input stream ?<br>
+  Buffered input stream reads byte from another input stream while file input stream reads byte from a file. 
+  Buffered inout stream is faster than compared to file input stream. 
   
   ===============================MOST IMP==================================
   
@@ -864,9 +866,6 @@ what is filter reader?<br>
   
 What is transient keyword in serialization?<br>
   The transient keyword can be used with the data members of a class in order to avoid their serialization.
-
-  What is reflaction in java?<br>
-  Java Reflection is a process of examining or modifying the run time behavior of a class at run time.
 
   What is newInstance() method  ?<br>
   The newInstance() method of Class class and Constructor class is used to create a new instance of the class.
@@ -882,11 +881,30 @@ what is serial version id?<br>
   
   what is the difference between serialization and externalization ?<br>
   serialization interface passes the responsibity of serialization to jvm and the programmer has no control over serialization while externalizable interface provides all serialization responsibilities to a programmer and hence jvm has no control over serialization. 
+  
+  what is the difference betweeb serialization and synchronization ?<br>
+  serialization is a process of converting the state of an object into bytestream while synchronization is the process of capability to control the access of multiple threads to any shared resource.
+  
+  what is not serializable exception error?<br>
+  a NotSerializableException exception is thrown when an instance of a class does not implemented the Serializable interface. for the serialization class must implemented serializable interface.
 
-   =============================== COLLECTIONS ==================================
+   ======================= COLLECTIONS =========================
 
-  what is collection ? <br>
-  The Collection in Java is a framework that provides an architecture to store and manipulate the group of objects.
+  what is collections ? <br>
+  The Collections in Java is a framework that provides an architecture to store and manipulate the group of objects.
   
   what is the difference between collection and collections ? <br>
   Collection is the interface where you group objects into a single unit. Collections is a utility class that has some set of operations you perform on Collection. 
+
+======================= DATE TIME =========================
+
+What is date time API in Java?
+The Date-Time APIs, introduced in JDK 8, are a set of packages that model the most important aspects of date and time.
+
+what are drawbacks of old DateTime API's<br>
+1. Not thread safe : The existing classes such as Date and Calendar does not provide thread safety.<br>
+2. Bad API design : The classic Date and Calendar APIs does not provide methods to perform basic day-to-day functionalities.<br>
+3. Difficult timezone handling : To handle the time-zone using classic Date and Calendar classes is difficult because the developers were supposed to write the logic for it.<br>
+
+what is the difference between duration and period in date time api?<br>
+A Duration measures an amount of time using time-based values like seconds, hours and minutes while A Period uses date-based values like years, months and days. 
