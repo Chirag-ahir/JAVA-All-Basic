@@ -917,3 +917,6 @@ A Duration measures an amount of time using time-based values like seconds, hour
   what is producer consumer problem in java?<br>
   producer consumer problem is a classical synchronization problem in java. the problem describes two processes th eproducer and consumer, which share a common fixed size buffer<br>
   The task of the Producer is to produce the item, put it into the memory buffer, and again start producing items. Whereas the task of the Consumer is to consume the item from the memory buffer.
+
+  draw collection hierarchy <MIMP> <br>
+  ![image](https://user-images.githubusercontent.com/72852725/209475841-3b92e8f2-bbc4-48b5-a9d2-2101b8e17ab2.png)
