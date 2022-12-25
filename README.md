@@ -908,3 +908,8 @@ what are drawbacks of old DateTime API's<br>
 
 what is the difference between duration and period in date time api?<br>
 A Duration measures an amount of time using time-based values like seconds, hours and minutes while A Period uses date-based values like years, months and days. 
+
+  
+  what is producer consumer problem in java?<br>
+  producer consumer problem is a classical synchronization problem in java. the problem describes two processes th eproducer and consumer, which share a common fixed size buffer<br>
+  The task of the Producer is to produce the item, put it into the memory buffer, and again start producing items. Whereas the task of the Consumer is to consume the item from the memory buffer.
