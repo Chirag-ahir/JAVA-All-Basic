@@ -735,6 +735,12 @@ Which is the native method in Thread.sleep()?<br>
   What if we set our current thread as a Daemon thread(t1.setDaemon(true)) after starting(t1.start()) it ?<br>
   It will throw IllegalThreadStateException error. Note: If you want to make a user thread as Daemon, it must not be started otherwise it will throw IllegalThreadStateException.
   
+  What is Thread Group?<br>
+Threadgroup represents a set of threads. it offeres a convineant way to manage groups of thread as a single unit. 
+  
+  what is the difference between activeCount() and activeGroupCount() ?<br>
+  activeCount() returns a no. of active threads in thread group while activeGroupCount() returns a no. of active thread group and it's sub groups.
+  
   What is Thread pool in java?<br>
   Java Thread pool represents a group of worker threads that are waiting for the job and reused many times. There are three thread pool methods<br>
   1. newFixedThreadPool(int)   
@@ -764,9 +770,6 @@ and second object trying to access resource 1 which is acquired by first object.
   
   What is thread leakage ?<br>
   Thread leakage is when we dont close the thread properly then the number of unused threads grows with time.
-
-What is Thread Group?<br>
-Threadgroup is a mechanism for collecting multiple threads into a single object and manipulating those threads all at once, rather than individually. For example, you can start or suspend all the threads within a group with a single method call.
   
 What is Generics in java?<br>
 A Generic class simply means that the items or functions in that class can be generalized with the parameter(example T) to specify that we can add any type as a parameter in place of T like Integer, Character, String, Double or any other user-defined type.
