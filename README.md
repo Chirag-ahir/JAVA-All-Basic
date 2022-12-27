@@ -721,6 +721,9 @@ Which is the native method in Thread.sleep()?<br>
   Which exception we are using in thread.sleep() method?<br>
   Whenever thread.sleep() method executes, it always pauses the current thread execution. If any other thread interrupts when the thread is sleeping, then InterruptedException will be thrown.
   
+  what is the difference between wait and sleep method?<br>
+  Wait() method releases lock during Synchronization. Sleep() method does not release the lock on object during Synchronization. Wait() should be called only from Synchronized context. There is no need to call sleep() from Synchronized context.
+  
   What is the difference between thread.yield() and thread.join() ?<br>
   Yield tells the currently executing thread to give a chance to the threads that have equal priority in the Thread Pool while Join method in Java allows one thread to wait until another thread completes its execution.<br>
   Yield method only put a thread from Running State to Runnable State, not in wait or blocked state while Join method put current thread into blocking state until thread instance finish execution.
@@ -933,3 +936,7 @@ A Duration measures an amount of time using time-based values like seconds, hour
 
   draw collection hierarchy <MIMP> <br>
   ![image](https://user-images.githubusercontent.com/72852725/209475841-3b92e8f2-bbc4-48b5-a9d2-2101b8e17ab2.png)
+  
+  
+  what is cooperation in java?<br>
+  Cooperation (Inter-thread communication) is a mechanism in which a thread is paused running in its critical section and another thread is allowed to enter (or lock) in the same critical section to be executed. 
