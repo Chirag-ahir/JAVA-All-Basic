@@ -708,6 +708,9 @@ Program will throw IllegalThreadStateException error.
 Which is the native method in Thread.sleep()?<br>
   The method sleep() with the one parameter is the native method, and the implementation of the native method is accomplished in another programming language. The other methods having the two parameters are not the native method.
   
+  what is join method in multithreading ?<br>
+  The join() method in Java is provided by the java.lang.Thread class that permits one thread to wait until the other thread to finish its execution.
+  
   Which is the preferabble way to implement thread in Java?<br>
   By implementing Runnable interface is a better way to create a thread in java because when we create a thread by extending Thread class, all Thread class methods are inherited while we can perform the task with the one method (run method) only. It results into overhead inheritance.<br>
   Thread class has lots of methods in it so if you extend the Thread class then your class gets all the methods of Thread class in your code as it is clear that your code has unnecessary burden and the methods which we are not going to use from Thread class , so why to keep the burden on JVM .
