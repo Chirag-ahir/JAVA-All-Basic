@@ -334,6 +334,9 @@ A collection of strings in Java's Heap memory is referred as Java String pool.
 What is Execption in Java ?<br>
 An exception is an event, which occurs during the execution of a program, that disrupts the normal flow of the program.
   
+ What is custome exception in Java ?<br>
+  User-Defined Exception or custom exception is creating your own exception class and throwing that exception using the 'throw' keyword.
+  
  What is Exception Handling in Java ?<br>
  Java Exception Handling is a mechanism to handle runtime errors such as ClassNotFoundException, IOException, SQLException, RemoteException, etc. Exception is an unwanted or unexpected event, which occurs during the execution of a program. There are mainly two types of exceptions in Java as follows:<br>
   
