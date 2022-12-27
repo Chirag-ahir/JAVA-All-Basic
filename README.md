@@ -749,9 +749,9 @@ Threadgroup represents a set of threads. it offeres a convineant way to manage g
   
   What is Thread pool in java?<br>
   Java Thread pool represents a group of worker threads that are waiting for the job and reused many times. There are three thread pool methods<br>
-  1. newFixedThreadPool(int)   
-  2. newCachedThreadPool()
-  3. newSingleThreadExecutor()
+  1. Executors.newFixedThreadPool(int)   
+  2. Executors.newCachedThreadPool()
+  3. Executors.newSingleThreadExecutor()
   
 What is the difference between newFixedThreadPool and newCatchedThreadPool ?<br>
 In newFixedThreadPool will keep all the threads running until they are explicitly terminated. In the newCachedThreadPool Threads that have not been used for sixty seconds are terminated and removed from the cache.
