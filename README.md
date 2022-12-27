@@ -674,8 +674,8 @@ Terminated: When the thread is dead, it will be known as “terminated” state.
   
   Everything to explore multithreading: https://techvidvan.com/tutorials/java-multithreading/
   
-  What is Thread pool scheduler?<br>
-  Thread pool scheduler in Java is the component of JVM that determines the execution order of multiple threads on a single processor (CPU). It decides the order in which threads should run. This process is called thread scheduling in Java.
+  What is Thread scheduler?<br>
+  Thread scheduler in Java is the component of JVM that determines the execution order of multiple threads on a single processor (CPU). It decides the order in which threads should run. This process is called thread scheduling in Java.
   
   What are the different thread methods?<br>
   start() – Starts the thread.<br>
