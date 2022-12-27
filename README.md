@@ -621,6 +621,9 @@ The catch block allows you to define a block of code to be executed, if an error
   What is Thread in java?<br>
   A thread is a single lightweight and smallest part of a process or It is the smallest unit of a process that can run alongwith the other parts of the same process.
   
+  what is thread class in java ?<br>
+  Thread class is the main class on which Java's Multithreading system is based. Thread class, along with its companion interface Runnable will be used to create and run threads for utilizing Multithreading feature of Java.
+  
   What is the difference between thread and process?<br>
  Process means a program is in execution, whereas thread means a segment of a process.<br>
 A Process is not Lightweight, whereas Threads are Lightweight.<br>
