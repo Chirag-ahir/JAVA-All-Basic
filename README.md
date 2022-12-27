@@ -464,15 +464,6 @@ The break and continue statements are the part of transfer statements in Java. T
   
 >C++ supports unions while Java doesn’t support unions.
 
-What is the difference between Final, Finally and Finalize ?<br>
-  >final is the keyword and access modifier which is used to apply restrictions on a class, method or variable.	<br>
-  
-  >finally is the block in Java Exception Handling to execute the important code whether the exception occurs or not.	<br>
-  
-  >finalize is the method in Java which is used to perform clean up processing just before object is garbage collected.
-
- >The keyword final is an access modifier, finally is a block and finalize is a method. The keyword final is applicable to the classes, variables and methods of the classes finally is a block associated with the try catch block that is used to handle exceptions, finalize is a method that operates only on objects.
-  
   What is Type casting in Java ?<br>
   Type casting is a method or process that converts a data type into another data type in both ways manually and automatically. The automatic conversion is done by the compiler and manual conversion performed by the programmer. Two types of Type casting in java
  > Implicit type casting: Converting a *lower data type into a higher one* is called widening type casting. It is also known as implicit conversion. It done automatically.<br>
@@ -607,6 +598,16 @@ The catch block allows you to define a block of code to be executed, if an error
 
   What is Multi catch block in java ?<br>
   When statements in a single try block generate multiple exceptions, we require multiple catch blocks to handle different types of exceptions. This mechanism is called multi-catch block in java.
+  
+  What is the difference between Final, Finally and Finalize ?<br>
+  >final is the keyword and access modifier which is used to apply restrictions on a class, method or variable.	<br>
+  
+  >finally is the block in Java Exception Handling to execute the important code whether the exception occurs or not.	<br>
+  
+  >finalize is the method in Java which is used to perform clean up processing just before object is garbage collected.
+
+ >The keyword final is an access modifier, finally is a block and finalize is a method. The keyword final is applicable to the classes, variables and methods of the classes finally is a block associated with the try catch block that is used to handle exceptions, finalize is a method that operates only on objects.
+  
 
   What is Instance variable?<br>
   A variable which is created inside the class but outside the method is known as an instance variable.
