@@ -940,3 +940,7 @@ A Duration measures an amount of time using time-based values like seconds, hour
   
   what is cooperation in java?<br>
   Cooperation (Inter-thread communication) is a mechanism in which a thread is paused running in its critical section and another thread is allowed to enter (or lock) in the same critical section to be executed. 
+
+  what is type interface in java?<br>
+  Type inference is a feature of Java which provides ability to compiler to look at each method invocation and corresponding declaration to determine the type of arguments.
+
