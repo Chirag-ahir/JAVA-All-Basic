@@ -944,3 +944,5 @@ A Duration measures an amount of time using time-based values like seconds, hour
   what is type interface in java?<br>
   Type inference is a feature of Java which provides ability to compiler to look at each method invocation and corresponding declaration to determine the type of arguments.
 
+what is the difference between inner class and nested class?<BR>
+  In Java programming, nested and inner classes often go hand in hand. A class that is defined within another class is called a nested class. An inner class, on the other hand, is a non-static type, a particular specimen of a nested class.Mar 6, 2017
