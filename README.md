@@ -946,3 +946,6 @@ A Duration measures an amount of time using time-based values like seconds, hour
 
 what is the difference between inner class and nested class?<BR>
   In Java programming, nested and inner classes often go hand in hand. A class that is defined within another class is called a nested class. An inner class, on the other hand, is a non-static type, a particular specimen of a nested class.Mar 6, 2017
+
+what is static block in java ?<br>
+Static block in Java is a group of statements that gets executed only once when the class is loaded into the memory by Java ClassLoader, It is also known as a static initialization block.
