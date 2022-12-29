@@ -953,9 +953,19 @@ An ArrayList class is a resizable array, which is present in the java.util packa
   	clear() method is used to remove all the elements from a list.
   
   what is push, pop and peek method of LinkedList ?<br>
-  >push(): insert a new element into the stack i.e just insert a new element at the beginning of the linked list.
->pop(): retrives the FIRST element of the Stack i.e simply delete the first element from the linked list.
->peek(): retrives the first element.
+  >push(): insert a new element into the stack i.e just insert a new element at the beginning of the linked list.<br>
+>pop(): retrives the FIRST element of the Stack i.e simply delete the first element from the linked list.<br>
+>peek(): retrives the first element.<br>
+  
+  What is the difference between ArrayList and LinkedList ? [ MIMP ] <br>
+  1. ArrayList internally uses a dynamic array to store the elements.<br>
+  1. LinkedList internally uses a doubly linked list to store the elements.<br>
+  
+  2. Manipulation with ArrayList is slow because it internally uses an array. If any element is removed from the array, all the other elements are shifted in memory.<br>
+  2. Manipulation with LinkedList is faster than ArrayList because it uses a doubly linked list, so no bit shifting is required in memory.<br>
+  
+  3. ArrayList is better for storing and accessing data.<br>
+  3. LinkedList is better for manipulating data.
   
 ======================= DATE TIME =========================
 
