@@ -914,7 +914,7 @@ what is serial version id?<br>
   Collection is the interface where you group objects into a single unit. Collections is a utility class that has some set of operations you perform on Collection. 
 
   What is ArrayList?<br>
-An ArrayList class is a resizable array, which is present in the java.util package. While built-in arrays have a fixed size, ArrayLists can change their size dynamically. Arraylist is not a threadsafe.
+ArrayList is the implementation of List Interface where the elements can be dynamically added or removed from the list.
   
   Describe characteristics of arrayList ?<br>
 
