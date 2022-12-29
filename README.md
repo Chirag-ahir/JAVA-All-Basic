@@ -966,6 +966,26 @@ An ArrayList class is a resizable array, which is present in the java.util packa
   
   3. ArrayList is better for storing and accessing data ==
    LinkedList is better for manipulating data.
+   
+     what is type interface in java?<br>
+  Type inference is a feature of Java which provides ability to compiler to look at each method invocation and corresponding declaration to determine the type of arguments.
+  
+  what is ListIterator interface in java ?<br>
+  The ListIterator interface of the Java collections framework provides the functionality to access elements of a list. It is bidirectional. This means it allows us to iterate elements of a list in both the direction. It extends the Iterator interface.
+
+how many ways to iterate the elements of the collection in Java?<br>
+1. By Iterator interface.<br>
+2. By for-each loop.<br>
+3. By ListIterator interface.<br>
+4. By for loop.<br>
+5. By forEach() method.<br>
+6. By forEachRemaining() method.<br>
+
+how many ways to remove elements of the collection in java ?<br>
+1. remove()<br>
+2. remove(int index)<br>
+3. remove first()<br>
+4. remove last()<br>
   
 ======================= DATE TIME =========================
 
@@ -988,8 +1008,7 @@ A Duration measures an amount of time using time-based values like seconds, hour
   what is cooperation in java?<br>
   Cooperation (Inter-thread communication) is a mechanism in which a thread is paused running in its critical section and another thread is allowed to enter (or lock) in the same critical section to be executed. 
 
-  what is type interface in java?<br>
-  Type inference is a feature of Java which provides ability to compiler to look at each method invocation and corresponding declaration to determine the type of arguments.
+
 
 what is the difference between inner class and nested class?<BR>
   In Java programming, nested and inner classes often go hand in hand. A class that is defined within another class is called a nested class. An inner class, on the other hand, is a non-static type, a particular specimen of a nested class.Mar 6, 2017
