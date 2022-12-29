@@ -982,10 +982,17 @@ how many ways to iterate the elements of the collection in Java?<br>
 6. By forEachRemaining() method.<br>
 
 how many ways to remove elements of the collection in java ?<br>
-1. remove()<br>
-2. remove(int index)<br>
-3. remove first()<br>
-4. remove last()<br>
+1. remove() : remove first occurence<br>
+ 2. removeif() : remove specified condition element<br>
+3. remove(int index)<br>
+4. remove first()<br>
+5. remove last()<br>
+  
+  what is isEmpty() method of arrayList?<br>
+  The isEmpty() method of ArrayList in java is used to check if a list is empty or not. It returns true if the list contains no elements otherwise it returns false if the list contains any element.
+  
+  What is the difference between ArrayList clear () and removeAll () methods?<br>
+clear() deletes every element from the collection and removeAll() one only removes the elements matching those from another Collection.
   
 ======================= DATE TIME =========================
 
