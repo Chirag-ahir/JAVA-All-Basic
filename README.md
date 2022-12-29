@@ -958,18 +958,18 @@ An ArrayList class is a resizable array, which is present in the java.util packa
 >peek(): retrives the first element.<br>
   
   What is the difference between ArrayList and LinkedList ? [ MIMP ] <br>
-  1. ArrayList internally uses a dynamic array to store the elements.<br>
-  1. LinkedList internally uses a doubly linked list to store the elements.<br>
+  1. ArrayList internally uses a dynamic array to store the elements ==
+   LinkedList internally uses a doubly linked list to store the elements.<br>
   
-  2. Manipulation with ArrayList is slow because it internally uses an array. If any element is removed from the array, all the other elements are shifted in memory.<br>
-  2. Manipulation with LinkedList is faster than ArrayList because it uses a doubly linked list, so no bit shifting is required in memory.<br>
+  2. Manipulation with ArrayList is slow because it internally uses an array. If any element is removed from the array, all the other elements are shifted in memory == 
+   Manipulation with LinkedList is faster than ArrayList because it uses a doubly linked list, so no bit shifting is required in memory.<br>
   
-  3. ArrayList is better for storing and accessing data.<br>
-  3. LinkedList is better for manipulating data.
+  3. ArrayList is better for storing and accessing data ==
+   LinkedList is better for manipulating data.
   
 ======================= DATE TIME =========================
 
-What is date time API in Java?
+What is date time API in Java?<br>
 The Date-Time APIs, introduced in JDK 8, are a set of packages that model the most important aspects of date and time.
 
 what are drawbacks of old DateTime API's<br>
