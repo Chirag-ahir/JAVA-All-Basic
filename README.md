@@ -16,12 +16,6 @@ There are 3 ways to get object of Class class.<br>
 
 >**Class:** A class is a group of objects which have common properties or Class is a Blueprint, which holds it's own data members and members function. It's a Logical entity.
 
-What is Array?<br>
-Arrays are objects that store multiple variables of the same type. Arrays are of fixed size.
-
-What is ArrayList?<br>
-An ArrayList class is a resizable array, which is present in the java.util package. While built-in arrays have a fixed size, ArrayLists can change their size dynamically. Arraylist is not a threadsafe
-
 **Method:** A method is a block of code or collection of statements to perform a certain task or operation. Used to achieve the reusability of code.
 >Method Overloading: If a class has multiple methods having same name but different in parameters, it is known as Method Overloading.<br>
 
@@ -913,9 +907,56 @@ what is serial version id?<br>
   what is collections ? <br>
   The Collections in Java is a framework that provides an architecture to store and manipulate the group of objects.
   
+   Draw collection hierarchy <MIMP> <br>
+  ![image](https://user-images.githubusercontent.com/72852725/209475841-3b92e8f2-bbc4-48b5-a9d2-2101b8e17ab2.png)
+  
   what is the difference between collection and collections ? <br>
   Collection is the interface where you group objects into a single unit. Collections is a utility class that has some set of operations you perform on Collection. 
 
+  What is ArrayList?<br>
+An ArrayList class is a resizable array, which is present in the java.util package. While built-in arrays have a fixed size, ArrayLists can change their size dynamically. Arraylist is not a threadsafe.
+  
+  Describe characteristics of arrayList ?<br>
+
+>Java ArrayList class can contain duplicate elements.
+  
+>Java ArrayList class maintains insertion order.
+  
+>Java ArrayList class is non synchronized.(not threadsafe)
+  
+>Java ArrayList allows random access because the array works on an index basis.
+  
+>In ArrayList, manipulation is a little bit slower than the LinkedList in Java because of lot of shifting.
+  
+  what is the difference between size and capacity of ArrayList ?<br>
+  Capacity of ArrayList is the number of elements that the ArrayList can store while The size is the number of cells that have data in them. default capacity is 10 and default size is 0.
+  
+  what is set method in ArrayList ?<br>
+  set(int index, E element) method is used to replace the specified element in the list, present at the specified position.
+  
+  what is LinkedList ?<br>
+  Java LinkedList class uses a doubly linked list to store the elements. It provides a linked-list data structure. 
+  
+  Describe characteristics of LinkedList <br>
+ > Java LinkedList class can contain duplicate elements.
+  
+>Java LinkedList class maintains insertion order.
+  
+>Java LinkedList class is non synchronized.(not threadsafe)
+  
+>In Java LinkedList class, manipulation is fast because no shifting needs to occur.
+  
+  what is the difference between peek and poll method of linkedList ?<br>
+  peek() method retrieves the first element of a list while poll() method retrieves and removes the first element of a list.
+
+  what is clear method in LinkedList ?<br>
+  	clear() method is used to remove all the elements from a list.
+  
+  what is push, pop and peek method of LinkedList ?<br>
+  >push(): insert a new element into the stack i.e just insert a new element at the beginning of the linked list.
+>pop(): retrives the FIRST element of the Stack i.e simply delete the first element from the linked list.
+>peek(): retrives the first element.
+  
 ======================= DATE TIME =========================
 
 What is date time API in Java?
@@ -934,10 +975,6 @@ A Duration measures an amount of time using time-based values like seconds, hour
   producer consumer problem is a classical synchronization problem in java. the problem describes two processes th eproducer and consumer, which share a common fixed size buffer<br>
   The task of the Producer is to produce the item, put it into the memory buffer, and again start producing items. Whereas the task of the Consumer is to consume the item from the memory buffer.
 
-  draw collection hierarchy <MIMP> <br>
-  ![image](https://user-images.githubusercontent.com/72852725/209475841-3b92e8f2-bbc4-48b5-a9d2-2101b8e17ab2.png)
-  
-  
   what is cooperation in java?<br>
   Cooperation (Inter-thread communication) is a mechanism in which a thread is paused running in its critical section and another thread is allowed to enter (or lock) in the same critical section to be executed. 
 
