@@ -126,6 +126,9 @@ A Java™ ARchive (JAR) file is a file format that combines many files into one.
 
 DataType : A data type, in programming, is a classification that specifies which type of value a variable has and what type of mathematical, relational or logical operations can be applied to it without causing an error.
   
+  what is premitive data type in java ?<br>
+  Primitive types are predefined data types in Java. 
+  
   Eight Premitive Datatypes in JAVA 
   
  > Byte - 1 Byte 
