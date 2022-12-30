@@ -1010,6 +1010,9 @@ how many ways to remove elements of the collection in java ?<br>
   What is the difference between ArrayList clear () and removeAll () methods?<br>
 clear() deletes every element from the collection and removeAll() one only removes the elements matching those from another Collection.
   
+  what is the difference between Iterator and ListIterator ?<br>
+  An Iterator is an interface in Java and we can traverse the elements of a list in a forward direction whereas a ListIterator is an interface that extends the Iterator interface and we can traverse the elements in both forward and backward directions.
+  
 ======================= DATE TIME =========================
 
 What is date time API in Java?<br>
