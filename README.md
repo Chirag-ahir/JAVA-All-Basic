@@ -383,9 +383,6 @@ Runtime polymorphism, also known as the Dynamic Method Dispatch, is a process th
   What is Compile time polymorphism?<br>
 Compile time polymorphism refers to a process in which a call to an overloaded method is resolved at compile time rather than at run time. Method overloading is an example of compile time polymorphism.
   
-What is Process in Java ?<br>
-An executing instance of a proram is called a process. 
-  
  Brief the life cycle of Applet ?<br>
   1. Initialization<br>
   2. Start<br>
@@ -630,6 +627,9 @@ The catch block allows you to define a block of code to be executed, if an error
   
   What is Thread in java?<br>
   A thread is a single lightweight and smallest part of a process or It is the smallest unit of a process that can run alongwith the other parts of the same process.
+  
+  what is the major difference between process and thread ?<br>
+  The most significant difference between a process and a thread is that a process is defined as a task that is being completed by the computer, whereas a thread is a lightweight process that can be managed independently by a scheduler.
   
   what is thread class in java ?<br>
   Thread class is the main class on which Java's Multithreading system is based. Thread class, along with its companion interface Runnable will be used to create and run threads for utilizing Multithreading feature of Java.
