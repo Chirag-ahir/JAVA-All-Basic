@@ -535,6 +535,15 @@ Assignment gives a variable a value at some point after the variable is created 
   What is Loose coupling?<br>
   Loose coupling in Java means that the classes are independent of each other.
   
+  what are different operators present in java?<br>
+  1. Arithmetic Operators<br>
+2. Assignment Operators<br>
+3. Logical Operators<br>
+4. Relational Operators<br>
+5. Unary Operators<br>
+6. Bitwise Operators<br>
+7. Ternary Operators<br>
+  
   What is Operator Overriding?<br>
   Operator Overriding a procedure where you can define an operator in both parent and child classes with the same signature, but with different operational capability.
 
