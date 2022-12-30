@@ -386,6 +386,11 @@ Garbage collection is the mechanism used in Java to de-allocate unused memory, w
   It makes java memory efficient because garbage collector removes the unreferenced objects from heap memory.<br>
   Developers not need to worry about explicit memory management because JVM does it automatically.
   
+  how many ways to unreference the object ?<br>
+  1.By nulling the reference e1 = null; <br>
+2. By assigning a reference to another e1 = e2;<br>
+3. By anonymous object etc. new employee():<br>
+  
 What is enumeration in Java ?<br>
 An enumeration in Java is a special data type which contains a set of predefined constants.
 
