@@ -331,6 +331,9 @@ when the cloning process is done by invoking the clone() method it is called Sha
 What is Wrapper classes in Java ?<br>
 In Java when you declare primitive datatype then Wrapper classes are responsible for converting them into objects.
   
+  what is pointer ?<br>
+  A POINTER IS JUST THE ADDRESS OF SOME location in memory.
+  
 Why pointers are not used in Java ?<br>
 1. They are unsafe<br>
 2. They increase the complexity of program. <br>
