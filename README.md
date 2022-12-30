@@ -12,6 +12,9 @@ what are the features of JAVA:<br>
 7.	Portable: Java Byte code can be carried to any platform.<br>
 8.	Highly Performance: Java enables high performance with the use of just-in-time compiler.<br>
 
+Why we can say that Java is Plateform independent language ? <br>
+ Java is a platform-independent programming language. Java doesn’t require the entire code to be rewritten for all the different platforms. It supports platform independence using Java bytecode and Java Virtual Machine. Java compiler javac converts the program code into byte code. This byte code is platform-independent and can run on any JVM operating system. JVM interprets the byte code to machine code, and the program is executed.
+ 
 >**Object:** An entity that has state and behavior is known as an object e.g., chair, bike, marker, pen, table, car, etc. It's an Physical representation of things or we can say that it's a Instance of a class. Object contains Attributes and Methods.
 
 There are 3 ways to initialize object in Java.<br>
@@ -443,9 +446,6 @@ String pool requires string to be immutable otherwise shared reference can be ch
   
 What is Singleton class ?<br>
 A singleton class is a class that can have only one object at a time. 
-
-Why we can say that Java is Plateform independent language ? <br>
- Java is a platform-independent programming language. Java doesn’t require the entire code to be rewritten for all the different platforms. It supports platform independence using Java bytecode and Java Virtual Machine. Java compiler javac converts the program code into byte code. This byte code is platform-independent and can run on any JVM operating system. JVM interprets the byte code to machine code, and the program is executed.
 
   What is the Difference between "=" and "==" operator?<br>
   The “=” is an assignment operator is used to assign the value on the right to the variable on the left. The '==' operator checks whether the two given operands are equal or not. If so, it returns true. Otherwise it returns false.
