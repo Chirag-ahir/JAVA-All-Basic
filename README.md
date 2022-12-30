@@ -1,6 +1,16 @@
 # JAVA-All-Basic
 
-Java is a general-purpose and object oriented programming language originally developed by Sun Microsystem and released in 1995. 
+Java is a general-purpose and object oriented programming language originally developed by Sun Microsystem and released in 1995. It is plateform independent
+
+what are the features of JAVA:<br>
+1.	Simple: JAVA is easy to learn and it’s syntax is quite simple, clean and easy to learn.<br>
+2.	Object Oriented: In java everything is Object which has some data and behaviour.<br>
+3.	Robust<br>
+4.	Platform Independent: Java is guaranteed to be write-once, run-anywhere language. Not fully Independent. JVM is Platform Independent. <br>
+5.	Secure: Java program always runs in Java runtime environment with almost null interaction with system OS, hence it is more secure.<br>
+6.	Multi threading: Java multithreading feature makes it possible to write program that can do many tasks simultaneously.<br>
+7.	Portable: Java Byte code can be carried to any platform.<br>
+8.	Highly Performance: Java enables high performance with the use of just-in-time compiler.<br>
 
 >**Object:** An entity that has state and behavior is known as an object e.g., chair, bike, marker, pen, table, car, etc. It's an Physical representation of things or we can say that it's a Instance of a class. Object contains Attributes and Methods.
 
@@ -198,16 +208,6 @@ Java was a interpreted programming language , but after introducing JIT it was c
  1. The method name should be common and the same as it is in the parent class.
  2. The method signature (parameter list, return type) in the method must be the same as in the parent class.
  3. There must be an inheritance connection between classes.
- 
-Features of JAVA:<br>
-1.	Simple: JAVA is easy to learn and it’s syntax is quite simple, clean and easy to learn.<br>
-2.	Object Oriented: In java everything is Object which has some data and behaviour.<br>
-3.	Robust<br>
-4.	Platform Independent: Java is guaranteed to be write-once, run-anywhere language. Not fully Independent. JVM is Platform Independent. <br>
-5.	Secure: Java program always runs in Java runtime environment with almost null interaction with system OS, hence it is more secure.<br>
-6.	Multi threading: Java multithreading feature makes it possible to write program that can do many tasks simultaneously.<br>
-7.	Portable: Java Byte code can be carried to any platform.<br>
-8.	Highly Performance: Java enables high performance with the use of just-in-time compiler.<br>
 
 Can we call child class method using parant class object ?  
 <a href="https://www.sololearn.com/Discuss/1351734/why-we-can-t-call-child-specific-methods-with-the-help-of-parent-reference-on-child-object-in-java#:~:text=Then%20the%20child%20class%20can,by%20using%20a%20parent%20reference.">Answer </a>
