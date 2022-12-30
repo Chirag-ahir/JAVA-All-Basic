@@ -638,8 +638,11 @@ The catch block allows you to define a block of code to be executed, if an error
   A process is a self contained execution environment and it can be seen as a program or application.
   
   What is Thread in java?<br>
-  A thread is a single lightweight and smallest part of a process or It is the smallest unit of a process that can run alongwith the other parts of the same process.
+  A thread is a single lightweight and smallest part of a process or It is the smallest unit of a process that can run alongwith the other parts of the same process. 2 ways to create thread: by extending thread class, by implementing runnable interface.
   
+   what is the beteer way to create thread in java ?<br>
+ By implementing Runnable interface is a better way to create a thread in java because when we create a thread by extending Thread class, all Thread class methods are inherited while we can perform the task with the one method (run method) only.
+ 
   what is the major difference between process and thread ?<br>
   The most significant difference between a process and a thread is that a process is defined as a task that is being completed by the computer, whereas a thread is a lightweight process that can be managed independently by a scheduler.
   
