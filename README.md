@@ -727,8 +727,8 @@ inner class or nested class is a class that is declared entirely within the body
 What is anonymous class?<br>
 A nested class that doesn't have any name is known as an anonymous class. An anonymous class must be defined inside another class. Hence, it is also known as an anonymous inner class.
   
-What happens if we start thread multiple times?<br>
-Program will throw IllegalThreadStateException error.
+What happens if we start thread multiple times? or can we restart dead thread in java ?<br>
+Program will throw runtime error IllegalThreadStateException error.
   
 Which is the native method in Thread.sleep()?<br>
   The method sleep() with the one parameter is the native method, and the implementation of the native method is accomplished in another programming language. The other methods having the two parameters are not the native method.
