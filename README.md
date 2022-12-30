@@ -22,7 +22,7 @@ There are 3 ways to get object of Class class.<br>
 >Method Overriding: If a child class has a same method as declared in a parant class, it is known as Method Overriding.
 
 What is Method hiding ?<br>
-if a subclass defines a static method with the same signature as a static method in the super class, in such a case, the method in the subclass hides the one in the superclass. The mechanism is known as method hiding.
+if a subclass defines a static method with the same signature as a static method in the super class, in such a case, the method in the subclass hides the one in the superclass. The mechanism is known as method hiding. in such case method in subclass will be executed. 
   
  What is the difference between Method hiding and Overriding ?<br>
  In Method Overriding child class can access parent class method implementation. In case of Method Hiding parent class method implementation cannot be accessed through child class reference.
