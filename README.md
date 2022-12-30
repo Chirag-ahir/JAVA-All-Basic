@@ -266,6 +266,11 @@ What are the Memory Allocations available in Java ? <br>
  
   What is the difference between Heap memory and Stack memory ?<br>
  The major difference between Stack memory and heap memory is that the stack is used to store the order of method execution and local variables while the heap memory stores the objects and it uses dynamic memory allocation and deallocation.
+  
+  ex. public void m(){<br>
+      ArrayList<String> list = new ArrayList<String>();<br>
+  }<br>
+  here list is reference will store in stack memory and ArrayList is a object will store in heap memory. 
 
 Will the program run if we write static public void main?<br>
 Yes, program will run successfully. In Java there is no specific rule for order of specifiers. 
