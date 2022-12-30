@@ -71,9 +71,6 @@ Access modifiers are keywords that can be used to control the visibility of fiel
 3. Protected: The access level of a protected modifier is within the package and outside the package through child class. If you do not make the child class, it cannot be accessed from outside the package.<br>
 4. Public: The access level of a public modifier is everywhere. It can be accessed from within the class, outside the class, within the package and outside the package.<br>
 
-What is Access specifier ?<br>
-An access specifier is a defining code element that can determine which elements of a program are allowed to access a specific variable or other piece of data.
-
 What is Public static void main (String args[]) ?<br>
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20220105123954/Group2-660x330.jpg)
@@ -369,10 +366,10 @@ An exception is an event, which occurs during the execution of a program, that d
 
 What is Access Specifier and Types of Access specifier?<br>
 Access Specifiers are predefined keywords used to help JVM with understanding the scope of a variable, method and class. We have four access specifier<br>
-  > Public access specifier<br>
-  > Private access specifier<br>
-  > Protected access specifier <br>
-  > Default access specifier<br>
+  > Public access specifier - Visible to All classes.<br>
+  > Private access specifier - Visible only to the class.<br>
+  > Protected access specifier - Visible to classes with in the package and the subclasses of other package.<br>
+  > Default access specifier - Visible to the classes with the package<br>
 
  What is Late binding ?<br>
 Binding is a process of unifying the method call with the method's code segment. Late binding happens when the method's code segment is unknown till the method is called during the run-time. 
