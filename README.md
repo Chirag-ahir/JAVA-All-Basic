@@ -257,6 +257,15 @@ What are the Memory Allocations available in Java ? <br>
 >Program counter memory
 
 >Native method stack memory
+  
+  what is heap memory?<br>
+  heap memory is created when the JVM starts up and used by the application as long as the application runs. Whenever we create objects it occupies space in the heap memory while the reference of that object creates in the stack.
+  
+  what is stack memory?<br>
+  The stack memory is a physical space allocated to each thread at run time. It is created when a thread creates. 
+ 
+  What is the difference between Heap memory and Stack memory ?<br>
+ The major difference between Stack memory and heap memory is that the stack is used to store the order of method execution and local variables while the heap memory stores the objects and it uses dynamic memory allocation and deallocation.
 
 Will the program run if we write static public void main?<br>
 Yes, program will run successfully. In Java there is no specific rule for order of specifiers. 
@@ -432,9 +441,6 @@ A singleton class is a class that can have only one object at a time.
 
 Why we can say that Java is Plateform independent language ? <br>
  Java is a platform-independent programming language. Java doesn’t require the entire code to be rewritten for all the different platforms. It supports platform independence using Java bytecode and Java Virtual Machine. Java compiler javac converts the program code into byte code. This byte code is platform-independent and can run on any JVM operating system. JVM interprets the byte code to machine code, and the program is executed.
-
-  What is the difference between Heap memory and Stack memory ?<br>
-  Heap memory is used by all the parts of the application whereas stack memory is used only by one thread of execution. Whenever an object is created, it's always stored in the Heap space and stack memory contains the reference to it.
 
   What is the Difference between "=" and "==" operator?<br>
   The “=” is an assignment operator is used to assign the value on the right to the variable on the left. The '==' operator checks whether the two given operands are equal or not. If so, it returns true. Otherwise it returns false.
