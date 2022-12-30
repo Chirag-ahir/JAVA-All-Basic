@@ -1053,3 +1053,8 @@ what is the difference between inner class and nested class?<BR>
 
 what is static block in java ?<br>
 Static block in Java is a group of statements that gets executed only once when the class is loaded into the memory by Java ClassLoader, It is also known as a static initialization block.
+ 
+ how many ways to infinite loop in java ?<br>
+ 1. for(;;){}<br>
+ 2. while(true){}<br>
+ 3. do{}while(true)
