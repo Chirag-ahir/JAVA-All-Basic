@@ -1057,3 +1057,6 @@ Static block in Java is a group of statements that gets executed only once when 
  1. for(;;){}<br>
  2. while(true){}<br>
  3. do{}while(true)
+
+what is the difference between static method and non static method?<br>
+A static method is a class method and belongs to the class itself. This means you do not need an instance in order to use a static method. A non-static method is an instance method and belongs to each object that is generated from the class.
