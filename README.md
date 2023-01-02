@@ -195,12 +195,21 @@ Two types of constructors in JAVA
 >No arg Constructor (Default Constructor) : A constructor with no arguments is called a default constructor. If we do not create a constructor of a class, Java creates a default constructor with data members which has values like zero, null, etc.<br>
   
 >Parameterized Constructor : A constructor which has a specific number of parameters is called a parameterized constructor.<br>
+ 
+ rules for constructor:<br>
+ 1. Constructor name must be the same as its class name<br>
+2. A Constructor must have no explicit return type<br>
+3. A Java constructor cannot be abstract, static, final, and synchronized<br>
 
 What is Constructor Overloading ?<br>
 Constructor overloading means having more than one constructor with the same name. Constructors are methods invoked when an object is created.
   
 What is the difference between constructor and method ?<br>
-  Constructor is used to create and initialize an Object while Method is used to execute certain statements. A constructor is invoked implicitly by the System. A method is to be invoked during program code.
+  Constructor is used to create and initialize an Object while Method is used to execute certain statements. <br>
+ Method name need not be same as the class name constructor name has to be same as the class name<br>
+ Method has a return type constructor does not have a return type<br>
+ You can call a method any number of times Constructor is called when an object is created
+
 
 What is Expression in JAVA ? <br>
 Expressions are essential building blocks of any Java program, usually created to produce a new value, although sometimes an expression simply assigns a value to a variable.
