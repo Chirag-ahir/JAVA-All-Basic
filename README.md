@@ -164,7 +164,7 @@ DataType : A data type, in programming, is a classification that specifies which
 > Class variables also known as static variables are declared with the static keyword in a class, but outside a method, constructor or a block.
   
   What is instance variable ?<br>
-  Instance variables in Java are non-static variables which are defined in a class outside any method, constructor or a block.
+  Instance variables in Java are non-static variables which are defined in a class but outside any method, constructor or a block.
   
   What is the difference between Instance variable and class variable?<br>
   In case of instance variable Every object will have its own copy of instance variables, hence changes made to these variables through one object will not reflect in another object while Class variables are common to all objects of a class, if any changes are made to these variables through object, it will reflect in other objects as well. <a href="https://www.edureka.co/blog/instance-variable-in-java/">Detailed demo</br>
