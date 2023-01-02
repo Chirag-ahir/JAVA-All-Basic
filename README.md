@@ -15,6 +15,27 @@ what are the features of JAVA:<br>
 Why we can say that Java is Plateform independent language ? <br>
  Java is a platform-independent programming language. Java doesn’t require the entire code to be rewritten for all the different platforms. It supports platform independence using Java bytecode and Java Virtual Machine. Java compiler javac converts the program code into byte code. This byte code is platform-independent and can run on any JVM operating system. JVM interprets the byte code to machine code, and the program is executed.
  
+ >**Class:** A class is a group of objects which have common properties or Class is a Blueprint, which holds it's own data members and members function. It's a Logical entity. different types of class in java: 
+
+1. POJO class<br>
+2. static class<br>
+3. concrete class<br>
+4. abstract class<br>
+5. final class<br>
+6. inner class
+ 
+ what is POJO class in java ?<br>
+ A class which contains only private variables and setter and getter methods to use those variables is called POJO class.
+ 
+ what is concrete class in java ?<br>
+ Any normal class which does not have any abstract method or a class having an implementation for all of its methods is basically a concrete class.
+ 
+ what is abstract class in java?<br>
+ An abstract class is declared with an abstract keyword and have zero or more abstract methods.
+ 
+ what is final class?<br>
+ Once a variable, method or a class is declared as final, it’s value remains the same throughout. class that has been declared final cannot be subclassed or inherited.
+ 
 >**Object:** An entity that has state and behavior is known as an object e.g., chair, bike, marker, pen, table, car, etc. It's an Physical representation of things or we can say that it's a Instance of a class. Object contains Attributes and Methods.
 
 There are 3 ways to initialize object in Java.<br>
@@ -26,8 +47,6 @@ There are 3 ways to get object of Class class.<br>
 1. forName() method of Class class
 2. getClass() method of Object class
 3. the .class syntax
-
->**Class:** A class is a group of objects which have common properties or Class is a Blueprint, which holds it's own data members and members function. It's a Logical entity.
 
 **Method:** A method is a block of code or collection of statements to perform a certain task or operation. Used to achieve the reusability of code.
 >Method Overloading: If a class has multiple methods having same name but different in parameters, it is known as Method Overloading.<br>
