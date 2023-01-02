@@ -34,6 +34,9 @@ There are 3 ways to get object of Class class.<br>
 
 >Method Overriding: If a child class has a same method as declared in a parant class, it is known as Method Overriding.
 
+why method overloading is not possible in java by changing the return type of methods only ?<br>
+In java, method overloading is not possible by changing the return type of the method only because of ambiguity.
+
 What is Method hiding ?<br>
 if a subclass defines a static method with the same signature as a static method in the super class, in such a case, the method in the subclass hides the one in the superclass. The mechanism is known as method hiding. in such case method in subclass will be executed. 
   
