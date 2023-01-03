@@ -155,6 +155,9 @@ Keywords are predefined, reserved words used in Java programming that have speci
 >Final keyword - The final keyword is a non-access modifier used for classes, attributes and methods, which makes them non-changeable. 
   
 >This keyword - This keyword is used to refer to the current class properties like method, instance, variable and constructors.
+ 
+ can we call constructor using super keyword ?<br>
+ The super keyword refers to superclass (parent) objects. It is used to call superclass methods, and to access the superclass constructor. The most common use of the super keyword is to eliminate the confusion between superclasses and subclasses that have methods with the same name.
   
 Blank final variable: A final variable that have no value it is called blank final variable or uninitialized final variable.
 
