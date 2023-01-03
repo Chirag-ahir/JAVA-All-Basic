@@ -15,6 +15,9 @@ what are the features of JAVA:<br>
 Why we can say that Java is Plateform independent language ? <br>
  Java is a platform-independent programming language. Java doesn’t require the entire code to be rewritten for all the different platforms. It supports platform independence using Java bytecode and Java Virtual Machine. Java compiler javac converts the program code into byte code. This byte code is platform-independent and can run on any JVM operating system. JVM interprets the byte code to machine code, and the program is executed.
  
+ is java case senstiive ?<br>
+  Java is a case-sensitive language, which means in code showData and showdata are two different variables. Java is case-sensitive because it uses a C-style syntax.
+  
  >**Class:** A class is a group of objects which have common properties or Class is a Blueprint, which holds it's own data members and members function. It's a Logical entity. different types of class in java: 
 
 1. POJO class<br>
@@ -52,6 +55,11 @@ There are 3 ways to get object of Class class.<br>
 >Method Overloading: If a class has multiple methods having same name but different in parameters, it is known as Method Overloading.<br>
 
 >Method Overriding: If a child class has a same method as declared in a parant class, it is known as Method Overriding.
+
+There are two ways to overload the method in java<br>
+1. by changing the number of arguments <br>
+2. by changing the data types
+
 
 why method overloading is not possible in java by changing the return type of methods only ?<br>
 In java, method overloading is not possible by changing the return type of the method only because of ambiguity.
