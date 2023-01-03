@@ -633,7 +633,13 @@ A stack overflow is a type of buffer overflow error that occurs when a Java prog
   Covariant return type refers to return type of an overriding method. It allows to narrow down return type of an overridden method without any need to cast the type or check the return type. 
   
   What is Instance initializer block?<br>
-  Instance Initialization Blocks or IIBs are used to initialize instance variables. So firstly, the constructor is invoked and the java compiler copies the instance initializer block in the constructor after the first statement super(). They run each time when the object of the class is created. 
+  Instance Initialization Blocks or IIBs are used to initialize instance variables. So firstly, the constructor is invoked and the java compiler copies the instance initializer block in the constructor after the first statement super(). They run each time when the object of the class is created. Example
+  
+  rules for IIB <br>
+  The instance initializer block is created when instance of the class is created.<br>
+The instance initializer block is invoked after the parent class constructor is invoked (i.e. after super() constructor call).<br>
+The instance initializer block comes in the order in which they appear.
+
 
   What is Throw keyword in Java?<br>
   The throw keyword in Java is used for explicitly throwing a single exception. This can be from within a method or any block of code. Both checked and unchecked exceptions can be thrown using the throw keyword.
