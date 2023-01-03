@@ -1083,6 +1083,9 @@ what are drawbacks of old DateTime API's<br>
 2. Bad API design : The classic Date and Calendar APIs does not provide methods to perform basic day-to-day functionalities.<br>
 3. Difficult timezone handling : To handle the time-zone using classic Date and Calendar classes is difficult because the developers were supposed to write the logic for it.<br>
 
+what class used for format date ?<br>
+dateFormat class used for formatting date in java. 
+
 what is the difference between duration and period in date time api?<br>
 A Duration measures an amount of time using time-based values like seconds, hours and minutes while A Period uses date-based values like years, months and days. 
 
