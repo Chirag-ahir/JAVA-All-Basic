@@ -811,6 +811,9 @@ Threadgroup represents a set of threads. it offeres a convineant way to manage g
   1. Executors.newFixedThreadPool(int)   
   2. Executors.newCachedThreadPool()
   3. Executors.newSingleThreadExecutor()
+ 
+ what is ExecutorService interface ?<br>
+ The ExecutorService interface extends Executor by adding methods that help manage and control the execution of threads. It is defined in java. util. concurrent package.
   
 What is the difference between newFixedThreadPool and newCatchedThreadPool ?<br>
 In newFixedThreadPool will keep all the threads running until they are explicitly terminated. In the newCachedThreadPool Threads that have not been used for sixty seconds are terminated and removed from the cache.
