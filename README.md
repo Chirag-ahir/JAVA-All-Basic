@@ -72,6 +72,10 @@ The method of the class is known as an instance method.
 >
 Inheritance is a mechanism in which child class acquires the property of parent class.
 
+why do we need inheritance ?<br>
+Inheritance enables code reusability and saves time.<br>
+it is also used for Method Overriding.
+
 >What is Polymorphism ?<br>
 
 Polymorphism is the ability of an object to identify as more than one type. <br>
