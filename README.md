@@ -216,7 +216,7 @@ Two types of constructors in JAVA
 What is Constructor Overloading ?<br>
 Constructor overloading means having more than one constructor with the same name. Constructors are methods invoked when an object is created.
   
-What is the difference between constructor and method ?<br>
+What is the difference between method and constructor ?<br>
   Constructor is used to create and initialize an Object while Method is used to execute certain statements. <br>
  Method name need not be same as the class name constructor name has to be same as the class name<br>
  Method has a return type constructor does not have a return type<br>
