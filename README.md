@@ -106,6 +106,10 @@ Coercion deals with implicitly converting one type of object into a new object o
 
 Hiding internal details and showing functionality to the user is known as abstraction. For example phone call, we don't know the internal processing.
 
+2 types of abstraction in java :
+1. data abstraction
+2. control abstraction
+
 What is Abstract class <br>
 An abstract class in Java is a class that can't be instantiated. Any abstract class can have both abstract as well as non-abstract methods.
 
