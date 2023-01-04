@@ -354,9 +354,9 @@ What is Interface in Java ?<br>
  *An interface is a completely "abstract class" that is used to group related methods with empty bodies*
   
  Why do we use Interface in Java?<br>
-  --> It's used to achieve total abstraction.
-  --> Since java does not support multiple inheritance in case of class, by using Interface we can achieve it.
-  --> It's also used to achieve loose coupling.
+  --> It's used to achieve total abstraction.<br>
+  --> Since java does not support multiple inheritance in case of class, by using Interface we can achieve it.<br>
+  --> It's also used to achieve loose coupling.<br>
   --> It's used to implement abstraction.
   
 What is Marker Interface ?<br>
