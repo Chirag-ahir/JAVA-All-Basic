@@ -88,7 +88,7 @@ it is also used for Method Overriding.
 
 Polymorphism in Java is a concept by which we can perform a single action in different ways. or Polymorphism is the ability of an object to identify as more than one type. <br>
 
-Two types of Polymorphism in Java Example
+Two types of Polymorphism in Java: <a href="https://github.com/Chirag-ahir/JAVA-All-Basic/tree/main/polymorphism">Example</a>
 1. Dynamic polymorphism: Dynamic polymorphism is a process in which a call to an overridden method is resolved at run time. That's why it's called runtime polymorphism. Ex. Method overriding<br>
 2. Static polymorphism:  A polymorphism that is resolved during compile time is known as static polymorphism. - Compile time polymorphism Ex. Method overloading<br>
 
