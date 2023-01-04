@@ -106,11 +106,11 @@ Coercion deals with implicitly converting one type of object into a new object o
 
 Hiding internal details and showing functionality to the user is known as abstraction. For example phone call, we don't know the internal processing.
 
-What is Abstract method ?<br>
-A method which is declared as abstract and does not have implementation is known as an abstract method.
-
 What is Abstract class <br>
-An abstract class is a template definition to methods and variables of a class that contains one or more abstracted methods.
+An abstract class in Java is a class that can't be instantiated. Any abstract class can have both abstract as well as non-abstract methods.
+
+What is Abstract method ?<br>
+A method in Java that only has the declaration and not implementation is known as an abstract method. Also, an abstract method name is followed by the abstract keyword. 
 
 >What is Encapsulation ? <br>
 
