@@ -128,6 +128,12 @@ If we declare any method as abstract, the class automatically needs to become an
 
 Binding code and data together into a single unit are known as encapsulation.
 
+why we need encapsulation ?<br>
+It controls the way of data accessibility<br>
+Modifies the code based on the requisites<br>
+Helps us to achieve a loose couple<br>
+Achieves simplicity of our application
+
 What is Access Modifier ? <br>
 Access modifiers are keywords that can be used to control the visibility of fields, methods, and constructors in a class.
 
