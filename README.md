@@ -1167,6 +1167,21 @@ what is key difference between HashSet and LinkedList ?<br>
  1. Insertion order maintain in linkedList while in hashSet it's not maintained.
  2. linkedList allows duplication while hashSet not allows duplication.
 
+ ===================LINKED-HASHSET===================
+ 
+ Java LinkedHashSet class contains unique elements only like HashSet.<BR>
+Java LinkedHashSet class provides all optional set operations and permits null elements.<br>
+Java LinkedHashSet class is non-synchronized.<br>
+Java LinkedHashSet class maintains insertion order.<br>
+ 
+ =======================TREESET======================
+ 
+ Java TreeSet class contains unique elements only like HashSet.<BR>
+Java TreeSet class access and retrieval times are quiet fast.<br>
+Java TreeSet class doesn't allow null element.<br>
+Java TreeSet class is non synchronized.<br>
+Java TreeSet class maintains ascending order.
+ 
 what is vector ?<br>
 default capacity is 10. 
 
