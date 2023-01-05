@@ -1167,13 +1167,6 @@ HashSet doesn't maintain the insertion order. Here, elements are inserted on the
 HashSet is the best approach for search operations.<br>
 The initial default capacity of HashSet is 16, and the load factor is 0.75.<br>
 
-what is difference between list and set ?<br>
-A list can contain duplicate elements whereas Set contains unique elements only.
- 
-what is key difference between HashSet and LinkedList ?<br>
- 1. Insertion order maintain in linkedList while in hashSet it's not maintained.
- 2. linkedList allows duplication while hashSet not allows duplication.
-
  ===================LINKED-HASHSET===================
  
  Java LinkedHashSet class contains unique elements only like HashSet.<BR>
@@ -1191,4 +1184,12 @@ Java TreeSet class maintains ascending order.
  
 what is vector ?<br>
 default capacity is 10. 
+
+ 
+what is difference between list and set ?<br>
+A list can contain duplicate elements whereas Set contains unique elements only.
+ 
+what is key difference between HashSet and LinkedList ?<br>
+ 1. Insertion order maintain in linkedList while in hashSet it's not maintained.
+ 2. linkedList allows duplication while hashSet not allows duplication.
 
