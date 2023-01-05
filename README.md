@@ -1149,6 +1149,13 @@ Static block in Java is a group of statements that gets executed only once when 
 what is the difference between static method and non static method?<br>
 A static method is a class method and belongs to the class itself. This means you do not need an instance in order to use a static method. A non-static method is an instance method and belongs to each object that is generated from the class.
 
+========================LINKEDLIST================<BR>
+ Java LinkedList class can contain duplicate elements.<br>
+Java LinkedList class maintains insertion order.<br>
+Java LinkedList class is non synchronized.<br>
+In Java LinkedList class, manipulation is fast because no shifting needs to occur.<br>
+Java LinkedList class can be used as a list, stack or queue.
+ 
 ========================HASHSET===================<br>
  
 what do you know about hashset ?<br>
