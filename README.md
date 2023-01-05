@@ -1149,7 +1149,8 @@ Static block in Java is a group of statements that gets executed only once when 
 what is the difference between static method and non static method?<br>
 A static method is a class method and belongs to the class itself. This means you do not need an instance in order to use a static method. A non-static method is an instance method and belongs to each object that is generated from the class.
 
-========================HASHSET===================
+========================HASHSET===================<br>
+ 
 what do you know about hashset ?<br>
 HashSet stores the elements by using a mechanism called hashing.<br>
 HashSet contains unique elements only.<br>
@@ -1161,6 +1162,11 @@ The initial default capacity of HashSet is 16, and the load factor is 0.75.<br>
 
 what is difference between list and set ?<br>
 A list can contain duplicate elements whereas Set contains unique elements only.
+ 
+what is key difference between HashSet and LinkedList ?<br>
+ 1. Insertion order maintain in linkedList while in hashSet it's not maintained.
+ 2. linkedList allows duplication while hashSet not allows duplication.
 
 what is vector ?<br>
 default capacity is 10. 
+
