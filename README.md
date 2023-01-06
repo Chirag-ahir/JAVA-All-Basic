@@ -1189,8 +1189,9 @@ Java LinkedHashSet class maintains insertion order.<br>
 Java TreeSet class access and retrieval times are quiet fast.<br>
 Java TreeSet class doesn't allow null element.<br>
 Java TreeSet class is non synchronized.<br>
-Java TreeSet class maintains ascending order.
+Java TreeSet class maintains ascending order.<br>
 Java TreeSet class not contains duplicate element.<br>
+Java TreeSet class maintains ascending order.<br>
  
 what is vector ?<br>
 Vector class implements a growable array of objects. It is compatible with Java collections. Vector implements a dynamic array–means it can grow or shrink as required. default capacity is 10. 
