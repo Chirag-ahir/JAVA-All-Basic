@@ -1193,6 +1193,16 @@ Java TreeSet class maintains ascending order.<br>
 Java TreeSet class not contains duplicate element.<br>
 Java TreeSet class maintains ascending order.<br>
  
+  =======================QUEUE======================
+ 
+ FIFO concept is used for insertion and deletion of elements from a queue.<br>
+The Java Queue provides support for all of the methods of the Collection interface including deletion, insertion, etc.<br>
+PriorityQueue, ArrayBlockingQueue and LinkedList are the implementations that are used most frequently.<br>
+The NullPointerException is raised, if any null operation is done on the BlockingQueues.<br>
+Those Queues that are present in the util package are known as Unbounded Queues.<br>
+Those Queues that are present in the util.concurrent package are known as bounded Queues.<br>
+ 
+ 
 what is vector ?<br>
 Vector class implements a growable array of objects. It is compatible with Java collections. Vector implements a dynamic array–means it can grow or shrink as required. default capacity is 10. 
  
@@ -1209,4 +1219,5 @@ what is key difference between LinkedList and HashSet ?<br>
 1. LinkedList maintains insertion order while hashSet not maintains insertion order.
 2. LinkedList allows duplication while hashSet not allows duplication.
 
-
+what is priority queue ?<br>
+ PriorityQueue is also class that is defined in the collection framework that gives us a way for processing the objects on the basis of priority. 
