@@ -1148,8 +1148,17 @@ Static block in Java is a group of statements that gets executed only once when 
 
 what is the difference between static method and non static method?<br>
 A static method is a class method and belongs to the class itself. This means you do not need an instance in order to use a static method. A non-static method is an instance method and belongs to each object that is generated from the class.
+ 
+ =======================ARRAYLIST==================<br>
+ 
+ Java ArrayList class can contain duplicate elements.<br>
+Java ArrayList class maintains insertion order.<br>
+Java ArrayList class is non synchronized.<br>
+Java ArrayList allows random access because the array works on an index basis.<br>
+In ArrayList, manipulation is a little bit slower than the LinkedList in Java because a lot of shifting needs to occur if any element is removed from the array list.<br>
 
 ========================LINKEDLIST================<BR>
+ 
  Java LinkedList class can contain duplicate elements.<br>
 Java LinkedList class maintains insertion order.<br>
 Java LinkedList class is non synchronized.<br>
