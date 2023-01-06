@@ -1193,12 +1193,18 @@ Java TreeSet class maintains ascending order.
  
 what is vector ?<br>
 default capacity is 10. 
-
+ 
+what is HashSet ? <br>
+ HashSet is a Set. It creates a collection that uses a hash table for storage. The default capacity of HashSet is 16, and the load factor is 0.75.
+ 
+ what is treeSet in java ?<br>
+ TreeSet is one of the most important implementations of the SortedSet interface in Java that uses a Tree for storage.
  
 what is difference between list and set ?<br>
 A list can contain duplicate elements whereas Set contains unique elements only.
  
-what is key difference between HashSet and LinkedList ?<br>
- 1. Insertion order maintain in linkedList while in hashSet it's not maintained.
- 2. linkedList allows duplication while hashSet not allows duplication.
+what is key difference between LinkedList and HashSet ?<br>
+1. LinkedList maintains insertion order while hashSet not maintains insertion order.
+2. LinkedList allows duplication while hashSet not allows duplication.
+
 
