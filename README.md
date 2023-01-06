@@ -1192,7 +1192,7 @@ Java TreeSet class is non synchronized.<br>
 Java TreeSet class maintains ascending order.
  
 what is vector ?<br>
-default capacity is 10. 
+Vector class implements a growable array of objects. It is compatible with Java collections. Vector implements a dynamic array–means it can grow or shrink as required. default capacity is 10. 
  
 what is HashSet ? <br>
  HashSet is a Set. It creates a collection that uses a hash table for storage. The default capacity of HashSet is 16, and the load factor is 0.75.
