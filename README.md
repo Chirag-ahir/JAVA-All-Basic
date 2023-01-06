@@ -1020,7 +1020,7 @@ what is serial version id?<br>
   The Collections in Java is a framework that provides an architecture to store and manipulate the group of objects.
   
    Draw collection hierarchy <MIMP> <br>
-  ![image](https://user-images.githubusercontent.com/72852725/209475841-3b92e8f2-bbc4-48b5-a9d2-2101b8e17ab2.png)
+![image](https://user-images.githubusercontent.com/72852725/210905897-ac88aaf9-3600-4984-8bb4-ce681c2d8e8f.png)
   
   what is the difference between collection and collections ? <br>
   Collection is the interface where you group objects into a single unit. Collections is a utility class that has some set of operations you perform on Collection. 
