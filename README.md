@@ -1254,3 +1254,6 @@ what is key difference between LinkedList and HashSet ?<br>
 
 what is priority queue ?<br>
  PriorityQueue is also class that is defined in the collection framework that gives us a way for processing the objects on the basis of priority. 
+
+ what is comparator interface ?<br>
+ Java Comparator is an interface for sorting Java objects. Java Comparator compares two Java objects in a “compare(Object 01, Object 02)” format. 
