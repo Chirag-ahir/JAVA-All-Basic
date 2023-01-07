@@ -1270,3 +1270,8 @@ what is priority queue ?<br>
  what is difference between comparable and comparator method in java ?<br>
  Comparable provides a single sorting sequence. In other words, we can sort the collection on the basis of a single element such as id, name, and price while 
  The Comparator provides multiple sorting sequences. In other words, we can sort the collection on the basis of multiple elements such as id, name, and price etc.
+
+ what is headSet(), tailSet() and subSet() method in treeSet class ?<br>
+TreeSet.headSet() method return all the elements less than the element passed as parameter mentioned to the method in a sorted manner including the element. <br>
+ subSet() is used to return a subset of the existing TreeSet within a range mentioned in the parameter.<br>
+ TreeSet.tailSet() method return all the elements greater than the element passed as parameter mentioned to the method in a sorted manner including the element.
