@@ -1278,3 +1278,6 @@ TreeSet.headSet() method return all the elements less than the element passed as
  
  what is offer() method in Queue ?<br>
  It is used to insert the specified element into this queue.
+
+ what is put() method in map interface ?<br>
+put() method is used to insert an entry in the map.
