@@ -1116,11 +1116,11 @@ Those Queues that are present in the util.concurrent package are known as bounde
 
 =========================ARRAYDEQUE===================
 
-Unlike Queue, we can add or remove elements from both sides.
-Null elements are not allowed in the ArrayDeque.
-ArrayDeque is not thread safe, in the absence of external synchronization.
-ArrayDeque has no capacity restrictions.
-ArrayDeque is faster than LinkedList and Stack.
+Unlike Queue, we can add or remove elements from both sides.<br>
+Null elements are not allowed in the ArrayDeque.<br>
+ArrayDeque is not thread safe, in the absence of external synchronization.<br>
+ArrayDeque has no capacity restrictions.<br>
+ArrayDeque is faster than LinkedList and Stack.<br>
 
 =======================HASHMAP======================
 
@@ -1239,8 +1239,6 @@ A map contains values on the basis of key, i.e. key and value pair. Each key and
 draw java map hierarchy ? <br>
 ![image](https://user-images.githubusercontent.com/72852725/211159033-7486450e-c2de-4198-b420-32dc31850c36.png)
 
- 
- 
 what is HashSet ? <br>
  HashSet is a Set. It creates a collection that uses a hash table for storage. The default capacity of HashSet is 16, and the load factor is 0.75.
  
