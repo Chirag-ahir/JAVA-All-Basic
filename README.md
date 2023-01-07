@@ -1263,3 +1263,10 @@ what is priority queue ?<br>
  
  what is the difference between Put() and Get() method in hashMap ?<br>
  put() method used to insert an entry in the map while get method returns the object that contains the value associated with the key.
+ 
+ what is offer() method in java Deque ?<br>
+ The offer(E e) method of Deque Interface inserts the specified element into this Deque if it is possible to do so immediately without violating capacity restrictions.
+ 
+ what is difference between comparable and comparator method in java ?<br>
+ Comparable provides a single sorting sequence. In other words, we can sort the collection on the basis of a single element such as id, name, and price while 
+ The Comparator provides multiple sorting sequences. In other words, we can sort the collection on the basis of multiple elements such as id, name, and price etc.
