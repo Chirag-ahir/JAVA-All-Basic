@@ -1257,3 +1257,9 @@ what is priority queue ?<br>
 
  what is comparator interface ?<br>
  Java Comparator is an interface for sorting Java objects. Java Comparator compares two Java objects in a “compare(Object 01, Object 02)” format. 
+
+ what is comparable interface in java ?<br>
+ The Comparable interface defines the compareTo method used to compare objects.
+ 
+ what is the difference between Put() and Get() method in hashMap ?<br>
+ put() method used to insert an entry in the map while get method returns the object that contains the value associated with the key.
