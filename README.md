@@ -894,9 +894,6 @@ A Generic class simply means that the items or functions in that class can be ge
 
   What is the difference between thread.sleep() and thread.wait() ?<br>
   The Sleep () method is related to the Thread class that is used to stop the execution of the current Thread for few seconds. it will send current thread into runnable state. The Wait() method is related to the Object class. The Wait() method is responsible for sending the calling thread into the waiting state. The Thread remains in the waiting state until another thread doesn't invoke the notify() or notifyAll() method for that object.
-
-  What is Hashmap ?<br>
-  Java HashMap is a class which is used to perform operations such as inserting, deleting and locating elements in a map. We create a map, where we pass two kinds of values which are 'key' and 'value'.
   
   what is the difference between hashmap and hashtable ?<br>
   HashMap is non-syncronized and is not thread safe while HashTable is thread safe and is synchronized. HashMap allows one null key and values can be null whereas HashTable doesn't allow null key or value. HashMap is faster than HashTable.
@@ -1230,9 +1227,12 @@ Static block in Java is a group of statements that gets executed only once when 
 what is the difference between static method and non static method?<br>
 A static method is a class method and belongs to the class itself. This means you do not need an instance in order to use a static method. A non-static method is an instance method and belongs to each object that is generated from the class.
  
-what is hashmap ?<br>
-Java HashMap is a class which is used to perform operations such as inserting, deleting and locating elements in a map. We create a map, where we pass two kinds of values which are ‘key’ and ‘value’.
+what is hashMap ?<br>
+HashMap is a Map-based collection class in Java which is used to store data in Key and Value pairs.
 
+ what is hashTable ?<br>
+ A Hashtable is a data structure that is used to store keys/ value pairs. In a Hashtable, data is stored in an array format, where each data value has its own unique index value. 
+ 
 what is map interface in java ?<bR>
 A map contains values on the basis of key, i.e. key and value pair. Each key and value pair is known as an entry. A Map contains unique keys. A Map is useful if you have to search, update or delete elements on the basis of a key.
 
