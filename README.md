@@ -1026,38 +1026,119 @@ what is serial version id?<br>
   Collection is the interface where you group objects into a single unit. Collections is a utility class that has some set of operations you perform on Collection. 
 
   What is ArrayList?<br>
-ArrayList is the implementation of List Interface where the elements can be dynamically added or removed from the list.
-  
-  Describe characteristics of arrayList ?<br>
+The ArrayList class implements the List interface. It uses a dynamic array to store the duplicate element of different data types.
+ 
+ what is LinkedList?<br>
+ LinkedList implements the Collection interface. It uses a doubly linked list internally to store the elements.
+ 
+ what is vector?<br>
+ Vector uses a dynamic array to store the data elements. It is similar to ArrayList. it can grow or shrink as required. default capacity is 10. 
+ 
+ what is stack ?<br>
+ The stack is the subclass of Vector. It implements the last-in-first-out data structure,
+ 
+ what is Queue ?<br>
+ Queue interface maintains the first-in-first-out order. It can be defined as an ordered. There are various classes like PriorityQueue, Deque, and ArrayDeque which implements the Queue interface.
+ 
+ what is priority queue?<br>
+ The PriorityQueue class implements the Queue interface. It holds the elements or objects which are to be processed by their priorities. 
+ 
+ what is deque?<br>
+ Deque interface extends the Queue interface. In Deque, we can remove and add the elements from both the side.
+ 
+ what is arrayDeque?<br>
+ ArrayDeque class implements the Deque interface. It facilitates us to use the Deque.
+ 
+ what is set interface ?<br>
+ set extends the collection interface. It represents the unordered set of elements which doesn't allow us to store the duplicate items.
 
->Java ArrayList class can contain duplicate elements.
-  
->Java ArrayList class maintains insertion order.
-  
->Java ArrayList class is non synchronized.(not threadsafe)
-  
->Java ArrayList allows random access because the array works on an index basis.
-  
->In ArrayList, manipulation is a little bit slower than the LinkedList in Java because of lot of shifting.
+ what is hashSet?<br>
+ HashSet class implements Set Interface. It represents the collection that uses a hash table for storage. 
+ 
+ what is linkedHashSet?<br>
+ LinkedHashSet class represents the LinkedList implementation of Set Interface. It extends the HashSet class and implements Set interface.
+ 
+ what is treeSet ?<br>
+ Java TreeSet class implements the Set interface that uses a tree for storage.
+ 
+ 
+ =======================ARRAYLIST==================<br>
+ 
+ Java ArrayList class can contain duplicate elements.<br>
+Java ArrayList class maintains insertion order.<br>
+Java ArrayList class is non synchronized.<br>
+Java ArrayList allows random access because the array works on an index basis.<br>
+In ArrayList, manipulation is a little bit slower than the LinkedList in Java because a lot of shifting needs to occur if any element is removed from the array list.<br>
+
+========================LINKEDLIST================<BR>
+ 
+ Java LinkedList class can contain duplicate elements.<br>
+Java LinkedList class maintains insertion order.<br>
+Java LinkedList class is non synchronized.<br>
+In Java LinkedList class, manipulation is fast because no shifting needs to occur.<br>
+Java LinkedList class can be used as a list, stack or queue.
+ 
+========================HASHSET===================<br>
+ 
+what do you know about hashset ?<br>
+HashSet stores the elements by using a mechanism called hashing.<br>
+HashSet doesn't maintain the insertion order. Here, elements are inserted on the basis of their hashcode.<br>
+HashSet not contains duplicate element.<br>
+HashSet allows null value.<br>
+HashSet class is non synchronized.(not threadsafe)<br>
+HashSet is the best approach for search operations.<br>
+The initial default capacity of HashSet is 16, and the load factor is 0.75.<br>
+
+ ===================LINKED-HASHSET===================
+ 
+ Java LinkedHashSet class not contains duplicate element.<br>
+Java LinkedHashSet class provides all optional set operations and permits null elements.<br>
+Java LinkedHashSet class is non-synchronized.<br>
+Java LinkedHashSet class maintains insertion order.<br>
+ 
+ =======================TREESET======================
+ 
+ Java TreeSet class not contains duplicate element.<br>
+Java TreeSet class access and retrieval times are quiet fast.<br>
+Java TreeSet class doesn't allow null element.<br>
+Java TreeSet class is non synchronized.<br>
+Java TreeSet class maintains ascending order.<br>
+Java TreeSet class maintains ascending order.<br>
+ 
+  =======================QUEUE======================
+ 
+FIFO concept is used for insertion and deletion of elements from a queue.<br>
+The Java Queue provides support for all of the methods of the Collection interface including deletion, insertion, etc.<br>
+PriorityQueue, ArrayBlockingQueue and LinkedList are the implementations that are used most frequently.<br>
+The NullPointerException is raised, if any null operation is done on the BlockingQueues.<br>
+Those Queues that are present in the util package are known as Unbounded Queues.<br>
+Those Queues that are present in the util.concurrent package are known as bounded Queues.<br>
+
+=========================ARRAYDEQUE===================
+
+Unlike Queue, we can add or remove elements from both sides.
+Null elements are not allowed in the ArrayDeque.
+ArrayDeque is not thread safe, in the absence of external synchronization.
+ArrayDeque has no capacity restrictions.
+ArrayDeque is faster than LinkedList and Stack.
+
+=======================HASHMAP======================
+
+Java HashMap maintains no order.<br>
+Java HashMap contains only unique keys.<br>
+Java HashMap contains values based on the key.<br>
+Java HashMap may have one null key and multiple null values.<br>
+Java HashMap is non synchronized.<br>
+The initial default capacity of Java HashMap class is 16 with a load factor of 0.75.<br>
+
+====================================================
   
   what is the difference between size and capacity of ArrayList ?<br>
   Capacity of ArrayList is the number of elements that the ArrayList can store while The size is the number of cells that have data in them. default capacity is 10 and default size is 0.
   
   what is set method in ArrayList ?<br>
   set(int index, E element) method is used to replace the specified element in the list, present at the specified position.
-  
-  what is LinkedList ?<br>
-  Java LinkedList class uses a doubly linked list to store the elements. It provides a linked-list data structure. 
-  
-  Describe characteristics of LinkedList <br>
- > Java LinkedList class can contain duplicate elements.
-  
->Java LinkedList class maintains insertion order.
-  
->Java LinkedList class is non synchronized.(not threadsafe)
-  
->In Java LinkedList class, manipulation is fast because no shifting needs to occur.
-  
+ 
   what is the difference between peek and poll method of linkedList ?<br>
   peek() method retrieves the first element of a list while poll() method retrieves and removes the first element of a list.
 
@@ -1149,76 +1230,6 @@ Static block in Java is a group of statements that gets executed only once when 
 what is the difference between static method and non static method?<br>
 A static method is a class method and belongs to the class itself. This means you do not need an instance in order to use a static method. A non-static method is an instance method and belongs to each object that is generated from the class.
  
- =======================ARRAYLIST==================<br>
- 
- Java ArrayList class can contain duplicate elements.<br>
-Java ArrayList class maintains insertion order.<br>
-Java ArrayList class is non synchronized.<br>
-Java ArrayList allows random access because the array works on an index basis.<br>
-In ArrayList, manipulation is a little bit slower than the LinkedList in Java because a lot of shifting needs to occur if any element is removed from the array list.<br>
-
-========================LINKEDLIST================<BR>
- 
- Java LinkedList class can contain duplicate elements.<br>
-Java LinkedList class maintains insertion order.<br>
-Java LinkedList class is non synchronized.<br>
-In Java LinkedList class, manipulation is fast because no shifting needs to occur.<br>
-Java LinkedList class can be used as a list, stack or queue.
- 
-========================HASHSET===================<br>
- 
-what do you know about hashset ?<br>
-HashSet stores the elements by using a mechanism called hashing.<br>
-HashSet doesn't maintain the insertion order. Here, elements are inserted on the basis of their hashcode.<br>
-HashSet not contains duplicate element.<br>
-HashSet allows null value.<br>
-HashSet class is non synchronized.(not threadsafe)<br>
-HashSet is the best approach for search operations.<br>
-The initial default capacity of HashSet is 16, and the load factor is 0.75.<br>
-
- ===================LINKED-HASHSET===================
- 
- Java LinkedHashSet class not contains duplicate element.<br>
-Java LinkedHashSet class provides all optional set operations and permits null elements.<br>
-Java LinkedHashSet class is non-synchronized.<br>
-Java LinkedHashSet class maintains insertion order.<br>
- 
- =======================TREESET======================
- 
- Java TreeSet class not contains duplicate element.<br>
-Java TreeSet class access and retrieval times are quiet fast.<br>
-Java TreeSet class doesn't allow null element.<br>
-Java TreeSet class is non synchronized.<br>
-Java TreeSet class maintains ascending order.<br>
-Java TreeSet class maintains ascending order.<br>
- 
-  =======================QUEUE======================
- 
-FIFO concept is used for insertion and deletion of elements from a queue.<br>
-The Java Queue provides support for all of the methods of the Collection interface including deletion, insertion, etc.<br>
-PriorityQueue, ArrayBlockingQueue and LinkedList are the implementations that are used most frequently.<br>
-The NullPointerException is raised, if any null operation is done on the BlockingQueues.<br>
-Those Queues that are present in the util package are known as Unbounded Queues.<br>
-Those Queues that are present in the util.concurrent package are known as bounded Queues.<br>
-
-=========================ARRAYDEQUE===================
-
-Unlike Queue, we can add or remove elements from both sides.
-Null elements are not allowed in the ArrayDeque.
-ArrayDeque is not thread safe, in the absence of external synchronization.
-ArrayDeque has no capacity restrictions.
-ArrayDeque is faster than LinkedList and Stack.
-
-=======================HASHMAP======================
-
-Java HashMap maintains no order.<br>
-Java HashMap contains only unique keys.<br>
-Java HashMap contains values based on the key.<br>
-Java HashMap may have one null key and multiple null values.<br>
-Java HashMap is non synchronized.<br>
-The initial default capacity of Java HashMap class is 16 with a load factor of 0.75.<br>
-
-====================================================
 what is hashmap ?<br>
 Java HashMap is a class which is used to perform operations such as inserting, deleting and locating elements in a map. We create a map, where we pass two kinds of values which are ‘key’ and ‘value’.
 
@@ -1229,9 +1240,6 @@ draw java map hierarchy ? <br>
 ![image](https://user-images.githubusercontent.com/72852725/211159033-7486450e-c2de-4198-b420-32dc31850c36.png)
 
  
- 
-what is vector ?<br>
-Vector class implements a growable array of objects. It is compatible with Java collections. Vector implements a dynamic array–means it can grow or shrink as required. default capacity is 10. 
  
 what is HashSet ? <br>
  HashSet is a Set. It creates a collection that uses a hash table for storage. The default capacity of HashSet is 16, and the load factor is 0.75.
