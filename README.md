@@ -1275,3 +1275,6 @@ what is priority queue ?<br>
 TreeSet.headSet() method return all the elements less than the element passed as parameter mentioned to the method in a sorted manner including the element. <br>
  subSet() is used to return a subset of the existing TreeSet within a range mentioned in the parameter.<br>
  TreeSet.tailSet() method return all the elements greater than the element passed as parameter mentioned to the method in a sorted manner including the element.
+ 
+ what is offer() method in Queue ?<br>
+ It is used to insert the specified element into this queue.
