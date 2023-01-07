@@ -1169,38 +1169,65 @@ Java LinkedList class can be used as a list, stack or queue.
  
 what do you know about hashset ?<br>
 HashSet stores the elements by using a mechanism called hashing.<br>
-HashSet contains unique elements only.<br>
+HashSet doesn't maintain the insertion order. Here, elements are inserted on the basis of their hashcode.<br>
+HashSet not contains duplicate element.<br>
 HashSet allows null value.<br>
 HashSet class is non synchronized.(not threadsafe)<br>
-HashSet doesn't maintain the insertion order. Here, elements are inserted on the basis of their hashcode.<br>
 HashSet is the best approach for search operations.<br>
 The initial default capacity of HashSet is 16, and the load factor is 0.75.<br>
 
  ===================LINKED-HASHSET===================
  
- Java LinkedHashSet class contains unique elements only like HashSet.<BR>
+ Java LinkedHashSet class not contains duplicate element.<br>
 Java LinkedHashSet class provides all optional set operations and permits null elements.<br>
 Java LinkedHashSet class is non-synchronized.<br>
 Java LinkedHashSet class maintains insertion order.<br>
  
  =======================TREESET======================
  
- Java TreeSet class contains unique elements only like HashSet.<BR>
+ Java TreeSet class not contains duplicate element.<br>
 Java TreeSet class access and retrieval times are quiet fast.<br>
 Java TreeSet class doesn't allow null element.<br>
 Java TreeSet class is non synchronized.<br>
 Java TreeSet class maintains ascending order.<br>
-Java TreeSet class not contains duplicate element.<br>
 Java TreeSet class maintains ascending order.<br>
  
   =======================QUEUE======================
  
- FIFO concept is used for insertion and deletion of elements from a queue.<br>
+FIFO concept is used for insertion and deletion of elements from a queue.<br>
 The Java Queue provides support for all of the methods of the Collection interface including deletion, insertion, etc.<br>
 PriorityQueue, ArrayBlockingQueue and LinkedList are the implementations that are used most frequently.<br>
 The NullPointerException is raised, if any null operation is done on the BlockingQueues.<br>
 Those Queues that are present in the util package are known as Unbounded Queues.<br>
 Those Queues that are present in the util.concurrent package are known as bounded Queues.<br>
+
+=========================ARRAYDEQUE===================
+
+Unlike Queue, we can add or remove elements from both sides.
+Null elements are not allowed in the ArrayDeque.
+ArrayDeque is not thread safe, in the absence of external synchronization.
+ArrayDeque has no capacity restrictions.
+ArrayDeque is faster than LinkedList and Stack.
+
+=======================HASHMAP======================
+
+Java HashMap maintains no order.<br>
+Java HashMap contains only unique keys.<br>
+Java HashMap contains values based on the key.<br>
+Java HashMap may have one null key and multiple null values.<br>
+Java HashMap is non synchronized.<br>
+The initial default capacity of Java HashMap class is 16 with a load factor of 0.75.<br>
+
+====================================================
+what is hashmap ?<br>
+Java HashMap is a class which is used to perform operations such as inserting, deleting and locating elements in a map. We create a map, where we pass two kinds of values which are ‘key’ and ‘value’.
+
+what is map interface in java ?<bR>
+A map contains values on the basis of key, i.e. key and value pair. Each key and value pair is known as an entry. A Map contains unique keys. A Map is useful if you have to search, update or delete elements on the basis of a key.
+
+draw java map hierarchy ? <br>
+![image](https://user-images.githubusercontent.com/72852725/211159033-7486450e-c2de-4198-b420-32dc31850c36.png)
+
  
  
 what is vector ?<br>
