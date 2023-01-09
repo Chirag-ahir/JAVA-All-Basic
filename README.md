@@ -1281,3 +1281,6 @@ TreeSet.headSet() method return all the elements less than the element passed as
 
  what is put() method in map interface ?<br>
 put() method is used to insert an entry in the map.
+
+what is the difference between static array and dynamic array ?<br>
+The static array has a fixed length, i.e if the size of the array is fixed during declaration, the memory will be created and it cannot be further modified during the simulation, whereas the dynamic array size can be modified during the simulation at any time.
