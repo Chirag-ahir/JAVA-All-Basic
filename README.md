@@ -490,30 +490,6 @@ An enumeration in Java is a special data type which contains a set of predefined
 Why Java is consider as a Dynammic?<br>
 Java is considered as Dynamic because of Byte code. A source code written in one platform, that can be executed in any platform. And it also loads the class files at run time. Anything that happens at run time is considered as Dynamic.
   
-What is JSP ?<br>
-JSP is an abbreviation for Java Servlet Page. The JSP page consist of two types of text.<br>
-  1. Static data<br>
-  2. JSP elements<br>
-  
-What is JDBC ?<br>
-JDBC is an abbreviation for JAVA Database connector. JDBC is an abstraction layer used to establish connectivity between an existing Database and a java application.
-
-What is JCA ?<br>
-Java Cryptography Architecture provides a plateform and gives architecture and APIs for encryption and decryption. JCA is used by the developer to combine the application with the security measure. It helps in performing the third party security rules. 
-  
-What is JPA in Java ?<br>
-The Java Persistence API is a Java specification for accessing, persisting, and managing data between Java objects / classes and a relational database. JPA deals in following <br>
-1. Java Persistence API <br>
-2. Query language<br>
-3. Java Persistence Criteria API<br>
-4. Object Mapping Data<br>
-
-What is Session Management ?<br>
-Session management refers to the process of securely handling multiple requests to a web-based application or service from a single user or entity.
-
-What is Spring Framework ?<br>
-The Spring Framework is an application framework and inversion of control container for the Java platform.
-  
   What is Lambada Expression ?<br>
 A lambda expression is a short block of code which takes in parameters and returns a value. Lambda expressions are similar to methods, but they do not need a name and they can be implemented right in the body of a method.
 
@@ -1284,3 +1260,36 @@ put() method is used to insert an entry in the map.
 
 what is the difference between static array and dynamic array ?<br>
 The static array has a fixed length, i.e if the size of the array is fixed during declaration, the memory will be created and it cannot be further modified during the simulation, whereas the dynamic array size can be modified during the simulation at any time.
+
+What is JSP ?<br>
+JSP is an abbreviation for Java Servlet Page. The JSP page consist of two types of text.<br>
+  1. Static data<br>
+  2. JSP elements<br>
+  
+What is JDBC ?<br>
+JDBC is an abbreviation for JAVA Database connector. JDBC is an abstraction layer used to establish connectivity between an existing Database and a java application.
+
+What is JCA ?<br>
+Java Cryptography Architecture provides a plateform and gives architecture and APIs for encryption and decryption. JCA is used by the developer to combine the application with the security measure. It helps in performing the third party security rules. 
+  
+What is JPA in Java ?<br>
+The Java Persistence API is a Java specification for accessing, persisting, and managing data between Java objects / classes and a relational database. JPA deals in following <br>
+1. Java Persistence API <br>
+2. Query language<br>
+3. Java Persistence Criteria API<br>
+4. Object Mapping Data<br>
+
+What is Session Management ?<br>
+Session management refers to the process of securely handling multiple requests to a web-based application or service from a single user or entity.
+
+What is Spring Framework ?<br>
+The Spring Framework is an application framework and inversion of control container for the Java platform.
+  
+  what is servlet ?<br>
+  A servlet is a Java Programming language class that is used to extend the capabilities of servers.
+  
+  what is lifecycle of servlet ?<br>
+  Loading a Servlet<br>
+Initializing the Servlet<br>
+Request handling<br>
+Destroying the Servlet<br>
