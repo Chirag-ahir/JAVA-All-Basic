@@ -1293,3 +1293,6 @@ The Spring Framework is an application framework and inversion of control contai
 Initializing the Servlet<br>
 Request handling<br>
 Destroying the Servlet<br>
+
+what is ServletRequestInterface ?<br>
+An object of ServletRequest is used to provide the client request information to a servlet such as content type, content length, parameter names and values, header informations, attributes etc.
