@@ -1296,3 +1296,6 @@ Destroying the Servlet<br>
 
 what is ServletRequestInterface ?<br>
 An object of ServletRequest is used to provide the client request information to a servlet such as content type, content length, parameter names and values, header informations, attributes etc.
+ 
+ what is driver manager in JDBC ?<br>
+ DriverManager manages the set of Java Database Connectivity (JDBC) drivers that are available for an application to use. 
