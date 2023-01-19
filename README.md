@@ -1266,9 +1266,7 @@ JSP is an abbreviation for Java Servlet Page. The JSP page consist of two types 
   1. Static data<br>
   2. JSP elements<br>
   
-What is JDBC ?<br>
-JDBC is an abbreviation for JAVA Database connector. JDBC is an abstraction layer used to establish connectivity between an existing Database and a java application.
-
+ 
 What is JCA ?<br>
 Java Cryptography Architecture provides a plateform and gives architecture and APIs for encryption and decryption. JCA is used by the developer to combine the application with the security measure. It helps in performing the third party security rules. 
   
@@ -1283,22 +1281,33 @@ What is Session Management ?<br>
 Session management refers to the process of securely handling multiple requests to a web-based application or service from a single user or entity.
 
 What is Spring Framework ?<br>
-The Spring Framework is an application framework and inversion of control container for the Java platform.
+The Spring Framework is an application framework and inversion of control container for the Java platform. 
+ 
+ ========================================= JDBC ==========================================
+ 
+What is JDBC ?<br>
+JDBC is an abbreviation for JAVA Database connector. JDBC is an abstraction layer used to establish connectivity between an existing Database and a java application.
+
+  what is driver manager in JDBC ?<br>
+ DriverManager manages the set of Java Database Connectivity (JDBC) drivers that are available for an application to use. 
+ 
+  what is Prepared statement ? <br>
+ The PreparedStatement interface is a subinterface of Statement. It is used to execute parameterized query.
+ 
+what is resultset ?<br>
+ The result set is an object that represents a set of data returned from a data source, usually as the result of a query. 
+ 
+  ========================================= SERVLET ==========================================
   
-  what is servlet ?<br>
-  A servlet is a Java Programming language class that is used to extend the capabilities of servers.
+ what is servlet ?<br>
+ A servlet is a Java Programming language class that is used to extend the capabilities of servers.
   
-  what is lifecycle of servlet ?<br>
-  Loading a Servlet<br>
+what is lifecycle of servlet ?<br>
+Loading a Servlet<br>
 Initializing the Servlet<br>
 Request handling<br>
 Destroying the Servlet<br>
 
 what is ServletRequestInterface ?<br>
 An object of ServletRequest is used to provide the client request information to a servlet such as content type, content length, parameter names and values, header informations, attributes etc.
- 
- what is driver manager in JDBC ?<br>
- DriverManager manages the set of Java Database Connectivity (JDBC) drivers that are available for an application to use. 
 
- what is Prepared statement ? <br>
- The PreparedStatement interface is a subinterface of Statement. It is used to execute parameterized query.
