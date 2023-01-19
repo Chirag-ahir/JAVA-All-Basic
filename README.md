@@ -1299,3 +1299,6 @@ An object of ServletRequest is used to provide the client request information to
  
  what is driver manager in JDBC ?<br>
  DriverManager manages the set of Java Database Connectivity (JDBC) drivers that are available for an application to use. 
+
+ what is Prepared statement ? <br>
+ The PreparedStatement interface is a subinterface of Statement. It is used to execute parameterized query.
