@@ -1315,3 +1315,6 @@ An object of ServletRequest is used to provide the client request information to
 
  what is JSP ?<BR>
  JSP stands for Java Servlet Pages is a technology for building web applications that support dynamic content and acts as a Java servlet technology.
+
+ what is JSP directives ?<br>
+ The jsp directives are messages that tells the web container how to translate a JSP page into the corresponding servlet.
