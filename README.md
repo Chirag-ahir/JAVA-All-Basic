@@ -1311,3 +1311,7 @@ Destroying the Servlet<br>
 what is ServletRequestInterface ?<br>
 An object of ServletRequest is used to provide the client request information to a servlet such as content type, content length, parameter names and values, header informations, attributes etc.
 
+ ========================================= JSP ==========================================
+
+ what is JSP ?<BR>
+ JSP stands for Java Servlet Pages is a technology for building web applications that support dynamic content and acts as a Java servlet technology.
