@@ -1318,3 +1318,12 @@ An object of ServletRequest is used to provide the client request information to
 
  what is JSP directives ?<br>
  The jsp directives are messages that tells the web container how to translate a JSP page into the corresponding servlet.
+
+ what is JSP lifecycle ?<br>
+ Translation of JSP Page<br>
+ Compilation of JSP Page<br>
+ Classloading<br>
+ Instantiation<br>
+ Initialization<br>
+ Request processing<br>
+ Destroy
