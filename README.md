@@ -1327,3 +1327,20 @@ An object of ServletRequest is used to provide the client request information to
  Initialization<br>
  Request processing<br>
  Destroy
+
+  ========================================= HIBERNET ==========================================
+ What is Hibernet?<br>
+ Hibernet is a framework that simplifies the development of java application to interact with the database. 
+ 
+ what is ORM ?<br>
+ Object Relational Mapping (ORM) is a functionality which is used to develop and maintain a relationship between an object and relational database by mapping an object state to database column.
+ 
+ Hibernet Architecture <br>
+ ![image](https://user-images.githubusercontent.com/72852725/215287496-c0d6bf59-27f5-4bd6-9ff4-8004077c2d6b.png)
+
+ 
+what is persistent object ?<br>
+session object is created within the database layer in every DAO method, it's known as persistence object.
+ 
+ what is Hibernet annotation ?<br>
+ Hibernet annotation is the newest way to define mappings without the use of XML file. 
