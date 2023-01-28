@@ -1344,3 +1344,14 @@ session object is created within the database layer in every DAO method, it's kn
  
  what is Hibernet annotation ?<br>
  Hibernet annotation is the newest way to define mappings without the use of XML file. 
+
+ what is HQL ?<br>
+ Hibernate Query Language (HQL) is an object-oriented query language, similar to SQL, but instead of operating on tables and columns, HQL works with persistent objects and their properties.
+ 
+ what is Difference between HQL and SQL ?
+ 
+ ![image](https://user-images.githubusercontent.com/72852725/215292816-51b72328-0993-4b37-8c59-589f2761a366.png)
+
+ how to create HQL query ?<br>
+ 
+ ![image](https://user-images.githubusercontent.com/72852725/215292880-32d8a508-66b7-4fff-905a-826e26e9b50f.png)
