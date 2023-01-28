@@ -1355,3 +1355,6 @@ session object is created within the database layer in every DAO method, it's kn
  how to create HQL query ?<br>
  
  ![image](https://user-images.githubusercontent.com/72852725/215292880-32d8a508-66b7-4fff-905a-826e26e9b50f.png)
+
+ what is criteria query ?<br>
+ The Hibernate Criteria Query Language is used to fetch the rocords of a table based on some criteria.
