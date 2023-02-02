@@ -1358,3 +1358,6 @@ session object is created within the database layer in every DAO method, it's kn
 
  what is criteria query ?<br>
  The Hibernate Criteria Query Language is used to fetch the rocords of a table based on some criteria.
+
+ what is IOC in spring?<br>
+ Spring IoC (Inversion of Control) Container is the core of Spring Framework. It creates the objects, configures and assembles their dependencies, manages their entire life cycle.
