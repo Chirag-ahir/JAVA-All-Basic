@@ -1364,3 +1364,9 @@ session object is created within the database layer in every DAO method, it's kn
 
  what is the difference between transient and persistent in hibernet ?<br>
  Persistent means that the object has been saved to the database whereas transient means that it hasn't been saved yet.
+ 
+ what is autowiring?
+autowiring is a feature of spring Framework in which spring container inject the dependencies automatically. 
+
+what is spring jdbc?
+spring jdbc is a powerful mechanism to connect to the database and execute sql queries.
