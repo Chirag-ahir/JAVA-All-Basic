@@ -1373,3 +1373,14 @@ spring jdbc is a powerful mechanism to connect to the database and execute sql q
 
  what is AOP (Aspect Oriented Programming) in spring ?<br>
  Aspect-oriented programming (AOP) is a programming approach that allows global properties of a program to determine how it is compiled into an executable program.
+
+ what is Spring MVC ?<br>
+ Spring MVC is a Java framework that is used to develop web applications. It is built on a Model-View-Controller (MVC) pattern and possesses all the basic features of a spring framework, such as Dependency Injection, Inversion of Control.
+ 
+ Steps to create spring MVC web application:<br>
+ 1. configure the dispatcher servlet in web.xml<br>
+ 2. create spring configuration file<br>
+ 3. configure view resolver<br>
+ 4. create controller in controller class<br>
+ 5. create a view page<br>
+ 
