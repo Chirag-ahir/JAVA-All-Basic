@@ -1370,3 +1370,6 @@ autowiring is a feature of spring Framework in which spring container inject the
 
 what is spring jdbc?
 spring jdbc is a powerful mechanism to connect to the database and execute sql queries.
+
+ what is AOP (Aspect Oriented Programming) in spring ?<br>
+ Aspect-oriented programming (AOP) is a programming approach that allows global properties of a program to determine how it is compiled into an executable program.
