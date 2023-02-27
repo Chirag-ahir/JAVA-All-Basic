@@ -1384,6 +1384,9 @@ spring jdbc is a powerful mechanism to connect to the database and execute sql q
  4. create controller in controller class<br>
  5. create a view page<br>
  
+ What is spring bean ?<br>
+ any object in the Spring framework that we initialize through Spring container is called Spring Bean<br>
+ 
 What is Lifecycle of spring bean ?<br>
  1. Bean instantiated<br>
  2. Dependencies injected<br>
