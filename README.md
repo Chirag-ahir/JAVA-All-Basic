@@ -1384,3 +1384,14 @@ spring jdbc is a powerful mechanism to connect to the database and execute sql q
  4. create controller in controller class<br>
  5. create a view page<br>
  
+What is Lifecycle of spring bean ?<br>
+ 1. Bean instantiated<br>
+ 2. Dependencies injected<br>
+ 3. Custome init() method<br>
+ 4. Custome utility method<br>
+ 5. Custome destroy method<br>
+ 
+ 3 ways to define spring bean lifecycle<br>
+ 1. By xml way <br>
+ 2. By Programmatic Approach<br>
+ 3. Using annotations
