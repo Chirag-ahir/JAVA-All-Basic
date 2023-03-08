@@ -1398,3 +1398,9 @@ What is Lifecycle of spring bean ?<br>
  1. By xml way <br>
  2. By Programmatic Approach<br>
  3. Using annotations
+
+ What is Hibernet lifecycle? <a href="https://www.javatpoint.com/hibernate-lifecycle#:~:text=%E2%86%90%20Prev-,Hibernate%20Lifecycle,-In%20Hibernate%2C%20either" target="_blank">Click here</a><br>
+ Transient state<br>
+Persistent state>br>
+Detached state<br>
+ 
