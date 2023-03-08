@@ -1404,3 +1404,7 @@ What is Lifecycle of spring bean ?<br>
 Persistent state>br>
 Detached state<br>
  
+ What is the difference between JDBC and Spring JDBC ?<br>
+ ![image](https://user-images.githubusercontent.com/72852725/223601399-d4cf8242-2c9f-4871-8439-e31e8a268f91.png)
+
+ 
