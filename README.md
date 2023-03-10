@@ -1408,3 +1408,12 @@ Detached state<br>
  ![image](https://user-images.githubusercontent.com/72852725/223601399-d4cf8242-2c9f-4871-8439-e31e8a268f91.png)
 
  
+What is JSP lifecycle? <a href="[https://www.javatpoint.com/hibernate-lifecycle#:~:text=%E2%86%90%20Prev-,Hibernate%20Lifecycle,-In%20Hibernate%2C%20either](https://www.guru99.com/jsp-life-cycle.html#:~:text=JSP%20Lifecycle%20is%20depicted%20in%20the%20below%20diagram.)" target="_blank">Click here</a><br>
+1. Translation of JSP page<br>
+2. Compilation of JSP page(Compilation of JSP page into _jsp.java)<br>
+3. Classloading (_jsp.java is converted to class file _jsp.class)<br>
+4. Instantiation(Object of generated servlet is created) <br>
+5. Initialisation(_jspinit() method is invoked by container)<br>
+6. Request Processing(_jspservice() method is invoked by the container)<br>
+7. Destroy (_jspDestroy() method invoked by the container)
+ 
