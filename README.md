@@ -1428,3 +1428,7 @@ connection pooling is mechanism of pre-creating a group of database connections 
  
 what is Spring MVC framework ?<br>
  The Spring MVC framework provides model view controller architecture that can be used to develop flexible and loosely coupled web application.
+ 
+ What are Spring MVC steps ?<br>
+ ![image](https://user-images.githubusercontent.com/72852725/224560201-b395da33-d2c7-4adf-9aba-a4b9ebd1076e.png)
+
