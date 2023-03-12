@@ -1417,3 +1417,6 @@ What is JSP lifecycle? <a href="[https://www.javatpoint.com/hibernate-lifecycle#
 6. Request Processing(_jspservice() method is invoked by the container)<br>
 7. Destroy (_jspDestroy() method invoked by the container)
  
+ What is ACID properties?<be>
+ ![image](https://user-images.githubusercontent.com/72852725/224558253-366744a9-ed00-4157-915b-ea558dd78149.png)
+
