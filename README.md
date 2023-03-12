@@ -1426,3 +1426,5 @@ connection pooling is mechanism of pre-creating a group of database connections 
  What is Spring JDBC ?<BR>
  Spring JDBC is used to build data access layer of enterprise application. It is a mechanism to connect to the database and execute SQL queries. The databse related logic has to be placed in separate classes called DAO class. 
  
+what is Spring MVC framework ?<br>
+ The Spring MVC framework provides model view controller architecture that can be used to develop flexible and loosely coupled web application.
