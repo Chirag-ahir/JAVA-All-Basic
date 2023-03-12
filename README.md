@@ -1420,3 +1420,9 @@ What is JSP lifecycle? <a href="[https://www.javatpoint.com/hibernate-lifecycle#
  What is ACID properties?<be>
  ![image](https://user-images.githubusercontent.com/72852725/224558253-366744a9-ed00-4157-915b-ea558dd78149.png)
 
+what is connection pooling in spring ?<br>
+connection pooling is mechanism of pre-creating a group of database connections and keeping them in cache memory for use and reuse. 
+ 
+ What is Spring JDBC ?<BR>
+ Spring JDBC is used to build data access layer of enterprise application. It is a mechanism to connect to the database and execute SQL queries. The databse related logic has to be placed in separate classes called DAO class. 
+ 
