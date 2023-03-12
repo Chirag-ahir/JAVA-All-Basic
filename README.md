@@ -1311,6 +1311,10 @@ Destroying the Servlet<br>
 what is ServletRequestInterface ?<br>
 An object of ServletRequest is used to provide the client request information to a servlet such as content type, content length, parameter names and values, header informations, attributes etc.
 
+ How many ways we can create servlet ?<br>
+ By implementing Servlet interface,<br>
+By inheriting GenericServlet class,<br>
+By inheriting HttpServlet class
  ========================================= JSP ==========================================
 
  what is JSP ?<BR>
