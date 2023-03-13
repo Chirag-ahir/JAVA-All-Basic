@@ -864,6 +864,9 @@ and second object trying to access resource 1 which is acquired by first object.
   
 What is Generics in java?<br>
 A Generic class simply means that the items or functions in that class can be generalized with the parameter(example T) to specify that we can add any type as a parameter in place of T like Integer, Character, String, Double or any other user-defined type.
+ 
+ what is Volatile keyword in java ?<br>
+ A volatile keyword is used to modify the value of a variable by different threads. It is also used to make classes thread-safe. It means that multiple threads can use a method and instance of the classes at the same time without any problem.
   
   What is shutdown hook in java?<br>
   Shutdown Hooks are a special construct that allows developers to plug in a piece of code to be executed when the JVM is shutting down.
