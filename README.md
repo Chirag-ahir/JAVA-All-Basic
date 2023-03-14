@@ -1439,3 +1439,9 @@ what is Spring MVC framework ?<br>
  What are Spring MVC steps ?<br>
  ![image](https://user-images.githubusercontent.com/72852725/224560201-b395da33-d2c7-4adf-9aba-a4b9ebd1076e.png)
 
+What are inner class n java ?<br>
+ 1. Member inner class: A non-static class that is created inside a class but outside a method is called member inner class.<br>
+ 2. Anonymous inner class: Any inner class which is declared without the classname is called anonymous inner class. <br>
+ 3. Local inner class: A class i.e., created inside a method, is called local inner class in java. 
+ 4. Static nested class: A class that is created inside a class with a static keyword. is known as static nested class<br> 
+ 5. Nested interface: An interface, i.e., declared within another interface or class, is known as a nested interface. 
