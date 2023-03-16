@@ -398,18 +398,13 @@ Advantages of package
 >Data encapsulation<br>
 >Maintenance
 
-What is Object Cloning ?<br>
-An ability to create an object completely similar to an existing object is known as Object Cloning. 
- 
- What is the difference between Shallow copy and Deep cloning?<br>
-  In Shallow copy, a copy of the original object is stored and only the reference address is finally copied. In Deep copy, the copy of the original object and the repetitive copies both are stored.
-  
-  What is Shallow cloning?<br>
-when the cloning process is done by invoking the clone() method it is called Shallow Cloning. It is the default cloning process in Java where a shallow copy of the original object will be created with exact field.
-  
-  What is Deep cloning?<br>
-   when the cloning process is done by implementing the Cloneable interface it is called Deep Cloning. In this type of cloning, an exact copy of all the fields of the original object will be created. 
+What is cloning and types of cloning ?<br>
+  cloning is the process of creating a copy of an object. There are two types of cloning: deep cloning and shallow cloning.<br>
 
+Shallow cloning creates a new object that shares the same fields as the original object. In other words, the new object is a shallow copy of the original object. This means that changes made to the fields of the new object will also be reflected in the original object, and vice versa. Shallow cloning can be done by calling the clone() method on the original object.<br>
+
+Deep cloning, on the other hand, creates a new object with all of the fields of the original object, but the fields themselves are also cloned. This means that the new object is completely independent of the original object, and changes made to the fields of the new object will not affect the original object. Deep cloning is more complex than shallow cloning and requires more code to implement.<br>
+ 
 What is Wrapper classes in Java ?<br>
 In Java when you declare primitive datatype then Wrapper classes are responsible for converting them into objects.
   
