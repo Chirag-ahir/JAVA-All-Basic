@@ -398,8 +398,8 @@ Advantages of package
 >Data encapsulation<br>
 >Maintenance
 
-What is cloning and types of cloning ?<br>
-  cloning is the process of creating a copy of an object. There are two types of cloning: deep cloning and shallow cloning.<br>
+ What is cloning and different types ?<br>
+ cloning is the process of creating a copy of an object. There are two types of cloning: deep cloning and shallow cloning.<br>
 
 Shallow cloning creates a new object that shares the same fields as the original object. In other words, the new object is a shallow copy of the original object. This means that changes made to the fields of the new object will also be reflected in the original object, and vice versa. Shallow cloning can be done by calling the clone() method on the original object.<br>
 
