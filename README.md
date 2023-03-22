@@ -1118,7 +1118,7 @@ The initial default capacity of Java HashMap class is 16 with a load factor of 0
   
   what is push, pop and peek method of LinkedList ?<br>
   >push(): insert a new element into the stack i.e just insert a new element at the beginning of the linked list.<br>
->pop(): retrives the FIRST element of the Stack i.e simply delete the first element from the linked list.<br>
+>pop(): simply delete the first element from the linked list.<br>
 >peek(): retrives the first element.<br>
   
   What is the difference between ArrayList and LinkedList ? [ MIMP ] <br>
