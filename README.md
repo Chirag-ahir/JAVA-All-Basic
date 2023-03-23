@@ -1446,4 +1446,7 @@ What are inner class n java ?<br>
  (x>y)?true:false<br>
  
  What is circuit breaker design pattern in microservices?<br>
-The circuit breaker pattern is a design pattern that falls under the sustainable design patterns category. It allows developers to prevent cascading failures in microservices architecture by invoking remote services through a proxy.
+The circuit breaker pattern is a design pattern that falls under the sustainable design patterns category. It allows developers to prevent cascading failures in microservices architecture by invoking remote services through a proxy.<br>
+
+ what is Runtime class in java ?<br>
+ The Java Runtime Class is a class in the Java programming language that provides information about the runtime environment of a Java application. It is an instance of the java.lang.Runtime class and can be accessed through the static method Runtime.getRuntime().
