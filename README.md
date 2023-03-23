@@ -1443,4 +1443,7 @@ What are inner class n java ?<br>
 
  what is Ternary operator?<br>
  A ternary operator, also known as a conditional operator, is a shorthand way to write an if-else statement in many programming languages. It allows you to write a compact expression that evaluates to one of two values based on a condition. <br>
- (x>y)?true:false
+ (x>y)?true:false<br>
+ 
+ What is circuit breaker design pattern in microservices?<br>
+The circuit breaker pattern is a design pattern that falls under the sustainable design patterns category. It allows developers to prevent cascading failures in microservices architecture by invoking remote services through a proxy.
