@@ -1440,3 +1440,7 @@ What are inner class n java ?<br>
  3. Local inner class: A class i.e., created inside a method, is called local inner class in java. 
  4. Static nested class: A class that is created inside a class with a static keyword. is known as static nested class<br> 
  5. Nested interface: An interface, i.e., declared within another interface or class, is known as a nested interface. 
+
+ what is Ternary operator?<br>
+ A ternary operator, also known as a conditional operator, is a shorthand way to write an if-else statement in many programming languages. It allows you to write a compact expression that evaluates to one of two values based on a condition. <br>
+ (x>y)?true:false
