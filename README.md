@@ -1450,3 +1450,6 @@ The circuit breaker pattern is a design pattern that falls under the sustainable
 
  what is Runtime class in java ?<br>
  The Java Runtime Class is a class in the Java programming language that provides information about the runtime environment of a Java application. It is an instance of the java.lang.Runtime class and can be accessed through the static method Runtime.getRuntime().
+
+ what is Rest Template ?<br>
+ <a href="https://www.digitalocean.com/community/tutorials/spring-resttemplate-example" target="_blank">click here</a> RestTemplate is a class in the Spring Framework that provides a convenient way to consume RESTful web services. It allows you to send HTTP requests and receive responses in a variety of formats, such as JSON, XML, or plain text.
