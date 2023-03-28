@@ -1453,3 +1453,11 @@ The circuit breaker pattern is a design pattern that falls under the sustainable
 
  what is Rest Template ?<br>
  <a href="https://www.digitalocean.com/community/tutorials/spring-resttemplate-example" target="_blank">click here</a> RestTemplate is a class in the Spring Framework that provides a convenient way to consume RESTful web services. It allows you to send HTTP requests and receive responses in a variety of formats, such as JSON, XML, or plain text.
+
+ what are basic difference between comparable and comparator interface ?<br>
+ Comparable in Java is an object to compare itself with another object, whereas Comparator is an object for comparing different objects of different classes.
+Comparable provides the compareTo() method to sort elements in Java, whereas Comparator provides compare() method to sort elements in Java.<br>
+A comparable interface is present in java.lang package, whereas the Comparator interface is present in java.util package.<br>
+Comparable provides a single sorting sequence, while Comparator provides multiple sorting sequences.<br>
+Comparable affects the original class, whereas comparator doesn’t affect the original class.
+ 
