@@ -1468,3 +1468,7 @@ Microservice Architecture: In this architecture, the application is divided into
 
  what is concurrent hashmap ?<br>
 ConcurrentHashMap is a threadsafe implimentation of Map interface that allows us to modify the Map while iteration. The ConcurrentHashMap operations are thread-safe. ConcurrentHashMap doesn’t allow null for keys and values.
+ 
+ what is the difference between concurrent hashmap and synchronized hashmap?<br>
+Concurrent Hashmap is a class that was introduced in jdk1.5.  Concurrent hash map applies locks only at bucket level called fragment while adding or updating the map. So, a concurrent hash map allows concurrent read and write operation to the map. <br>
+Synchronized hashmap(Collection.syncronizedHashMap()) is a method of Collection framework. This method applies a lock on the entire collection. So, if one thread is accessing the map then no other thread can access the same map. 
