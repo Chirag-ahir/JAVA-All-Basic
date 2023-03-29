@@ -1465,3 +1465,6 @@ what is the difference between monolithic and microservice architecture ?<br>
  Monolithic Architecture: In this architecture, the entire application is developed as a single, self-contained unit. All the components of the application, including the user interface, business logic, and data storage, are tightly coupled and run as a single process. in monolithic architecture changes to one part of the application can affect the entire system.<br>
 
 Microservice Architecture: In this architecture, the application is divided into small, independent services, each of which runs as a separate process and communicates with other services using well-defined APIs. Each microservice is designed to perform a specific function or set of functions, and they can be developed and deployed independently. Microservices are typically characterized by a decentralized and flexible architecture where changes to one microservice do not affect the entire system.
+
+ what is concurrent hashmap ?<br>
+ConcurrentHashMap is a threadsafe implimentation of Map interface that allows us to modify the Map while iteration. The ConcurrentHashMap operations are thread-safe. ConcurrentHashMap doesn’t allow null for keys and values.
