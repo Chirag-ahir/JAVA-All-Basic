@@ -1485,3 +1485,6 @@ OAuth is a mechanism used for securing access to resources by authenticating and
 
  what is difference between post mapping and put mapping ?<br>
  what is the difference between post mapping and put mapping in springboot
+ 
+ what is the parameter and argument <br>
+parameter is a variable we define in the method signature and arguments is the value we pass into the parameter.
