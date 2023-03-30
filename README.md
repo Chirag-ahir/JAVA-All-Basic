@@ -1482,3 +1482,6 @@ OAuth is a mechanism used for securing access to resources by authenticating and
 
  How to break Singleton ?<br>
  <a href="https://www.geeksforgeeks.org/prevent-singleton-pattern-reflection-serialization-cloning/">Clcik here</a>
+
+ what is difference between post mapping and put mapping ?<br>
+ what is the difference between post mapping and put mapping in springboot
