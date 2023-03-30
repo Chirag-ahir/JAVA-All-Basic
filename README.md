@@ -1479,3 +1479,6 @@ Conversely, WebClient is asynchronous and will not block the executing thread wh
 
 what is OAuth ? 
 OAuth is a mechanism used for securing access to resources by authenticating and authorizing client applications. It allows client applications to access resources on behalf of users without exposing the user's credentials, such as username and password.
+
+ How to break Singleton ?<br>
+ <a href="https://www.geeksforgeeks.org/prevent-singleton-pattern-reflection-serialization-cloning/">Clcik here</a>
