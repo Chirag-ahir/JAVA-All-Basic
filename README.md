@@ -1472,3 +1472,8 @@ ConcurrentHashMap is a threadsafe implimentation of Map interface that allows us
  what is the difference between concurrent hashmap and synchronized hashmap?<br>
 Concurrent Hashmap is a class that was introduced in jdk1.5.  Concurrent hash map applies locks only at bucket level called fragment while adding or updating the map. So, a concurrent hash map allows concurrent read and write operation to the map. <br>
 Synchronized hashmap(Collection.syncronizedHashMap()) is a method of Collection framework. This method applies a lock on the entire collection. So, if one thread is accessing the map then no other thread can access the same map. 
+ 
+ what is difference between rest template and web client ?<br>
+ RestTemplate uses Java Servlet API and is therefore synchronous and blocking.
+Conversely, WebClient is asynchronous and will not block the executing thread while waiting for the response to come back. 
+
