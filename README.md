@@ -1477,3 +1477,5 @@ Synchronized hashmap(Collection.syncronizedHashMap()) is a method of Collection 
  RestTemplate uses Java Servlet API and is therefore synchronous and blocking.
 Conversely, WebClient is asynchronous and will not block the executing thread while waiting for the response to come back. 
 
+what is OAuth ? 
+OAuth is a mechanism used for securing access to resources by authenticating and authorizing client applications. It allows client applications to access resources on behalf of users without exposing the user's credentials, such as username and password.
