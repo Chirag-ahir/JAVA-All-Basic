@@ -1492,3 +1492,6 @@ parameter is a variable we define in the method signature and arguments is the v
 
  What is the difference between Weak reference and Strong reference ?<br>
  A weak reference is a type of reference object that allows an object to be eligible for garbage collection when it is no longer strongly referenced by any part of the program. Unlike a strong reference, which keeps an object in memory as long as the reference exists, a weak reference does not prevent the object from being collected by the garbage collector.
+
+ what is the difference between equals() and compareTo() method ?<br>
+equals() method is of object class which is used to determine if two objects are equal in content, while the compareTo() is a method of comparable interface which is used to determine the order of two objects. It compares the values of the objects and returns a negative integer, zero, or a positive integer, depending on whether the current object is less than, equal to, or greater than the specified object.
