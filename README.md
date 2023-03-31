@@ -1489,3 +1489,6 @@ parameter is a variable we define in the method signature and arguments is the v
  
  What is Memory Leak in java ?<br>
  A Memory Leak is a situation where there are objects present in the heap that are no longer used, but the garbage collector is unable to remove them from memory, and therefore, they're unnecessarily maintained.
+
+ What is the difference between Weak reference and Strong reference ?<br>
+ A weak reference is a type of reference object that allows an object to be eligible for garbage collection when it is no longer strongly referenced by any part of the program. Unlike a strong reference, which keeps an object in memory as long as the reference exists, a weak reference does not prevent the object from being collected by the garbage collector.
