@@ -871,9 +871,6 @@ A Generic class simply means that the items or functions in that class can be ge
   
   what is the difference between hashmap and hashtable ?<br>
   HashMap is non-syncronized and is not thread safe while HashTable is thread safe and is synchronized. HashMap allows one null key and values can be null whereas HashTable doesn't allow null key or value. HashMap is faster than HashTable.
-  
-  What is Garbage collection in java ?<br>
-  Garbage Collection is the process of reclaiming the runtime unused memory by destroying the unused objects, in java it is performed automatically.
 
   What is the difference between SchedulerWithfixedRate and SchedulerWithfixedDelay ?<br>
   FixedDelay guarantees that executions happen in sequence and that there's a delay between the end of the previous execution and the start of the new one. With in fixedRate It guarantees that new execution starts after the specified time passed after the start of the previous.
@@ -991,7 +988,7 @@ what is serial version id?<br>
   The Collections in Java is a framework that provides an architecture to store and manipulate the group of objects.
   
    Draw collection hierarchy <MIMP> <br>
-![image](https://user-images.githubusercontent.com/72852725/210905897-ac88aaf9-3600-4984-8bb4-ce681c2d8e8f.png)
+![image](https://user-images.githubusercontent.com/72852725/228996956-3943e22f-4261-4e10-8d1f-30421f9fb3e0.png)
   
   what is the difference between collection and collections ? <br>
   Collection is the interface where you group objects into a single unit. Collections is a utility class that has some set of operations you perform on Collection. 
