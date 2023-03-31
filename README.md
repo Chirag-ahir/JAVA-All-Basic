@@ -1486,3 +1486,6 @@ OAuth is a mechanism used for securing access to resources by authenticating and
  
  what is the parameter and argument <br>
 parameter is a variable we define in the method signature and arguments is the value we pass into the parameter.
+ 
+ What is Memory Leak in java ?<br>
+ A Memory Leak is a situation where there are objects present in the heap that are no longer used, but the garbage collector is unable to remove them from memory, and therefore, they're unnecessarily maintained.
