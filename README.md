@@ -1037,6 +1037,7 @@ Java ArrayList class maintains insertion order.<br>
 Java ArrayList class is non synchronized.<br>
 Java ArrayList allows random access because the array works on an index basis.<br>
 In ArrayList, manipulation is a little bit slower than the LinkedList in Java because a lot of shifting needs to occur if any element is removed from the array list.<br>
+ In Arraylist default capacity is 10.
 
 ========================LINKEDLIST================<BR>
  
