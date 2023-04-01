@@ -1495,3 +1495,7 @@ parameter is a variable we define in the method signature and arguments is the v
 
  what is the difference between equals() and compareTo() method ?<br>
 equals() method is of object class which is used to determine if two objects are equal in content, while the compareTo() is a method of comparable interface which is used to determine the order of two objects. It compares the values of the objects and returns a negative integer, zero, or a positive integer, depending on whether the current object is less than, equal to, or greater than the specified object.
+ 
+ what is static binding and dynamic binding ?<br>
+ Static or early binding is resolved at compile time. Method overloading is an example of static binding.<br>
+Dynamic or late or virtual binding is resolved at runtime. Method overriding is an example of dynamic binding.
