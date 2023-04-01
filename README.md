@@ -1499,3 +1499,6 @@ equals() method is of object class which is used to determine if two objects are
  what is static binding and dynamic binding ?<br>
  Static or early binding is resolved at compile time. Method overloading is an example of static binding.<br>
 Dynamic or late or virtual binding is resolved at runtime. Method overriding is an example of dynamic binding.
+
+ what is string handling ?<br>
+ performing diffeent operations on string is known as string handling.
