@@ -1502,3 +1502,6 @@ Dynamic or late or virtual binding is resolved at runtime. Method overriding is 
 
  what is string handling ?<br>
  performing diffeent operations on string is known as string handling.
+ 
+ what is EC2 instance in AWS ?<br>
+ An EC2 instance is a virtual server in Amazon's Elastic Compute Cloud (EC2) for running applications on the Amazon Web Services (AWS) infrastructure.
