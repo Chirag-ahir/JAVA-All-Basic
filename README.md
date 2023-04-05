@@ -1505,3 +1505,6 @@ Dynamic or late or virtual binding is resolved at runtime. Method overriding is 
  
  what is EC2 instance in AWS ?<br>
  An EC2 instance is a virtual server in Amazon's Elastic Compute Cloud (EC2) for running applications on the Amazon Web Services (AWS) infrastructure.
+
+What is yield () and sleep () in thread Java?<br>
+Sleep() causes the currently executing thread to sleep (temporarily cease execution). Yield() causes the currently executing thread object to temporarily pause and allow other threads to execute.
