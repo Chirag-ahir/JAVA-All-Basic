@@ -147,9 +147,9 @@ What is Public static void main (String args[]) ?<br>
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20220105123954/Group2-660x330.jpg)
 
->Public - It is an access specifier that means the main() method is accessible globally available. The public keyword tells the JVM that the scope of the code written is the whole project.
+>Public - It is an access modifier that means the main() method is accessible globally available. The public keyword tells the JVM that the scope of the code written is the whole project.
 
->Static - It is an access modifier means we can call this method directly using the class name without creating an object of it.
+>Static - It is an access specifier means we can call this method directly using the class name without creating an object of it.
 
 >Void - void is a no return datatype. It is a keyword and is used to specify that a method doesn't return anything. 
 
