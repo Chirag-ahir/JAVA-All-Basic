@@ -1508,3 +1508,6 @@ Dynamic or late or virtual binding is resolved at runtime. Method overriding is 
 
 What is yield () and sleep () in thread Java?<br>
 Sleep() causes the currently executing thread to sleep (temporarily cease execution). Yield() causes the currently executing thread object to temporarily pause and allow other threads to execute.
+
+What is concurrent execution in Java?<br>
+Executing multiple tasks in the “start-suspend-resume-end” fashion is called concurrent execution. This means both tasks are started at different points in time and one task is paused while another task is executed.
