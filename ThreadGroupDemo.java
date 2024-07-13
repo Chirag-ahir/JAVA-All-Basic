@@ -10,7 +10,7 @@ class ThreadGroupDemo {
 		ThreadGroup TG1 = new ThreadGroup("Parant Group");
 		ThreadGroup TG2 = new ThreadGroup(TG1, "Child Group");
 
-		Thread T1 = new Thread(TG1, new ThreadDemo(), "one");
+		Thread T1 = new Thread(TG1, new ThreadDemo(), "one"); //TG1 is the threadgroup name, ThreadDemo is the class name and "one" is the thread name
 		Thread T2 = new Thread(TG1, new ThreadDemo(), "two");
 		Thread T3 = new Thread(TG1, new ThreadDemo(), "three");
 
