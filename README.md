@@ -1261,6 +1261,9 @@ What is JSP ?<br>
 JSP is an abbreviation for Java Servlet Page. The JSP page consist of two types of text.<br>
   1. Static data<br>
   2. JSP elements<br>
+
+What is servlet container?<br>
+Servlet container is a server that provides the facilities for running Java servlets. Also called a "servlet engine" 
   
  
 What is JCA ?<br>
