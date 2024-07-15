@@ -1322,6 +1322,12 @@ CallableStatement is used to execute SQL stored procedures.
 What is setAutoCommit(false) used for?<br>
 The way to allow two or more statements to be grouped into a transaction is to disable the auto-commit mode. After the auto-commit mode is disabled, no SQL statements are committed until we call the commit() method explicitly.
 
+What is connection interface?<br>
+A Connection is a session between a Java application and a database. It helps to establish a connection with the database.
+
+What is DriverManager class?<br>
+The DriverManager class acts as an interface between users and drivers. It keeps track of the drivers that are available and handles establishing a connection between a database and the appropriate driver
+
   ========================================= SERVLET ==========================================
   
  what is servlet ?<br>
