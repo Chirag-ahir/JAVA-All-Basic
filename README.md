@@ -1367,6 +1367,14 @@ An object of ServletRequest is used to provide the client request information to
  By implementing Servlet interface,<br>
 By inheriting GenericServlet class,<br>
 By inheriting HttpServlet class
+
+What is deployment descriptior?<br>
+The deployment descriptor is an xml file, from which Web Container gets the information about the servet to be invoked.
+
+What is welcome file?<br>
+A welcome file is the file that is invoked automatically by the server, if you don't specify any file name.
+
+
  ========================================= JSP ==========================================
 
  what is JSP ?<BR>
