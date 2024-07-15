@@ -1310,6 +1310,8 @@ what is resultset ?<br>
 - Statement: Encapsulates an SQL statement which is passed to the database to be parsed, compiled, planned, and executed.
 - ResultSet: The ResultSet represents a set of rows retrieved due to query execution.<br>
 
+What is collable statement?<br>
+CallableStatement is used to execute SQL stored procedures.
   ========================================= SERVLET ==========================================
   
  what is servlet ?<br>
