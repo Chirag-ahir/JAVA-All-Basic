@@ -1376,6 +1376,12 @@ A welcome file is the file that is invoked automatically by the server, if you d
 What is load-on-startup?<br>
 The load-on-startup element of web-app loads the servlet at the time of deployment or server start if value is positive. It is also known as pre initialization of servlet.
 
+What is request dispatcher and it's methods?<br>
+The RequestDispatcher interface provides the facility of dispatching the request to another resource it may be html, servlet or jsp.<br>
+
+public void forward(ServletRequest request,ServletResponse response): Forwards a request from a servlet to another resource (servlet, JSP file, or HTML file) on the server.<br>
+public void include(ServletRequest request,ServletResponse response): Includes the content of a resource (servlet, JSP page, or HTML file) in the response.
+
  ========================================= JSP ==========================================
 
  what is JSP ?<BR>
