@@ -1325,8 +1325,20 @@ The way to allow two or more statements to be grouped into a transaction is to d
 What is connection interface?<br>
 A Connection is a session between a Java application and a database. It helps to establish a connection with the database.
 
-What is DriverManager class?<br>
-The DriverManager class acts as an interface between users and drivers. It keeps track of the drivers that are available and handles establishing a connection between a database and the appropriate driver
+What is statement interface?<br>
+The Statement interface provides methods to execute queries with the database.<br>
+- statement.executeUpdate(String sql)
+- statement.execute(String sql)
+- statement.executeQuery(String sql)
+- statement.executeBach()
+
+What is PreparedStatement?<br>
+The PreparedStatement interface is a subinterface of Statement. It is used to execute parameterized query.<br>
+- pstmt.executeUpdate()
+- pstmt.executeQuery()
+- pstmt.setInt()
+- pstmt.setString()
+- pstmt.setFloat()
 
   ========================================= SERVLET ==========================================
   
