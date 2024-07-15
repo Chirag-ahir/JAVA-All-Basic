@@ -1340,8 +1340,11 @@ The PreparedStatement interface is a subinterface of Statement. It is used to ex
 - pstmt.setString()
 - pstmt.setFloat()
 
-What is resultSetMetaData?<br>
+What is ResultSetMetaData?<br>
 If you have to get metadata of a table like total number of column, column name, column type etc. , ResultSetMetaData interface is useful because it provides methods to get metadata from the ResultSet object.
+
+What is DatabaseMetaData interface?<br>
+DatabaseMetaData interface provides methods to get meta data of a database such as database product name, database product version, driver name, name of total number of tables, name of total number of views etc.
 
   ========================================= SERVLET ==========================================
   
