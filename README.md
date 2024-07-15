@@ -1282,7 +1282,7 @@ The Spring Framework is an application framework and inversion of control contai
  ========================================= JDBC ==========================================
  
 What is JDBC ?<br>
-JDBC is an abbreviation for JAVA Database connector. JDBC is an abstraction layer used to establish connectivity between an existing Database and a java application.
+JDBC is an API (Application Programming Interface) that helps a programmer to write a Java program to connect to a database, retrieve the data from the database, and perform various operations on the data in a Java program.
 
   what is driver manager in JDBC ?<br>
  DriverManager manages the set of Java Database Connectivity (JDBC) drivers that are available for an application to use. 
@@ -1292,7 +1292,14 @@ JDBC is an abbreviation for JAVA Database connector. JDBC is an abstraction laye
  
 what is resultset ?<br>
  The result set is an object that represents a set of data returned from a data source, usually as the result of a query. 
- 
+
+ What are different JDBC Components are there?<br>
+- DriverManager: Manages a list of database drivers.
+- Driver: The database communications link, handling all communication with the database.
+- Connection: Interface with all methods for contacting a database.
+- Statement: Encapsulates an SQL statement which is passed to the database to be parsed, compiled, planned, and executed.
+- ResultSet: The ResultSet represents a set of rows retrieved due to query execution.<br>
+
   ========================================= SERVLET ==========================================
   
  what is servlet ?<br>
