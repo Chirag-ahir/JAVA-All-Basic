@@ -1264,7 +1264,6 @@ JSP is an abbreviation for Java Servlet Page. The JSP page consist of two types 
 
 What is servlet container?<br>
 Servlet container is a server that provides the facilities for running Java servlets. Also called a "servlet engine" 
-  
  
 What is JCA ?<br>
 Java Cryptography Architecture provides a plateform and gives architecture and APIs for encryption and decryption. JCA is used by the developer to combine the application with the security measure. It helps in performing the third party security rules. 
@@ -1374,6 +1373,8 @@ The deployment descriptor is an xml file, from which Web Container gets the info
 What is welcome file?<br>
 A welcome file is the file that is invoked automatically by the server, if you don't specify any file name.
 
+What is load-on-startup?<br>
+The load-on-startup element of web-app loads the servlet at the time of deployment or server start if value is positive. It is also known as pre initialization of servlet.
 
  ========================================= JSP ==========================================
 
