@@ -1312,6 +1312,10 @@ what is resultset ?<br>
 
 What is collable statement?<br>
 CallableStatement is used to execute SQL stored procedures.
+
+What is setAutoCommit(false) used for?<br>
+The way to allow two or more statements to be grouped into a transaction is to disable the auto-commit mode. After the auto-commit mode is disabled, no SQL statements are committed until we call the commit() method explicitly.
+
   ========================================= SERVLET ==========================================
   
  what is servlet ?<br>
