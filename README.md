@@ -1284,6 +1284,16 @@ The Spring Framework is an application framework and inversion of control contai
 What is JDBC ?<br>
 JDBC is an API (Application Programming Interface) that helps a programmer to write a Java program to connect to a database, retrieve the data from the database, and perform various operations on the data in a Java program.
 
+What is the correct sequence to create a database connection?<br>
+1. Import JDBC packages.<br>
+2. Load and register the JDBC driver.<br>
+3. Open a connection to the database.<br>
+4. Create a statement object to perform a query.<br>
+5. Execute the statement object and return a query resultset.<br>
+6. Process the resultset.<br>
+7. Close the resultset and statement objects.<br>
+8. Close the connection.<br>
+
   what is driver manager in JDBC ?<br>
  DriverManager manages the set of Java Database Connectivity (JDBC) drivers that are available for an application to use. 
  
