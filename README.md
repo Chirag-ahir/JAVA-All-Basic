@@ -20,12 +20,12 @@ Why we can say that Java is Plateform independent language ? <br>
   
  >**Class:** A class is a group of objects which have common properties or Class is a Blueprint, which holds it's own data members and members function. It's a Logical entity. different types of class in java: 
 
-1. POJO class<br>
-2. static class<br>
-3. concrete class<br>
-4. abstract class<br>
-5. final class<br>
-6. inner class
+1. POJO class - A class which contains only private variables and setter and getter methods to use those variables is called POJO class.<br>
+2. static class - A static object belongs specifically to the class, instead of instances of that class.<br>
+3. concrete class - Any normal class which does not have any abstract method or a class having an implementation for all of its methods is basically a concrete class.<br>
+4. abstract class - An abstract class is declared with an abstract keyword and have zero or more abstract methods.<br>
+5. final class - Once a variable, method or a class is declared as final, it’s value remains the same throughout. A class that has been declared final cannot be subclassed.<br>
+6. inner class - Inner class means the class which is a member of another class. <br>
  
  what is POJO class in java ?<br>
  A class which contains only private variables and setter and getter methods to use those variables is called POJO class.
