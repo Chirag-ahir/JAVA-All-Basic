@@ -12,6 +12,9 @@ what are the features of JAVA:<br>
 7.	Portable: Java Byte code can be carried to any platform.<br>
 8.	Highly Performance: Java enables high performance with the use of just-in-time compiler.<br>
 
+What is maven?<br>
+maven is a project management toll which helps you to manage your all dependency of your project so that you don't need to download and insert it manually.
+
 Why we can say that Java is Plateform independent language ? <br>
  Java is a platform-independent programming language. Java doesn’t require the entire code to be rewritten for all the different platforms. It supports platform independence using Java bytecode and Java Virtual Machine. Java compiler javac converts the program code into byte code. This byte code is platform-independent and can run on any JVM operating system. JVM interprets the byte code to machine code, and the program is executed.
  
